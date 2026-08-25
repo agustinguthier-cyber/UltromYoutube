@@ -1,0 +1,381 @@
+
+================================================================================
+CANAL: limite_humano
+================================================================================
+
+--- name ---
+Límite Humano
+
+--- nicho ---
+Ciencia & Cuerpo — fisiología extrema y límites reales del cuerpo humano
+
+--- premisa ---
+Tu cuerpo tiene una cifra exacta para cada cosa: grados, minutos, metros, litros. Este canal encuentra esa cifra y muestra qué ocurre justo antes y justo después de cruzarla.
+
+--- tono ---
+Documental clínico con tensión de thriller. Preciso, sin morbo. El impacto viene del número exacto, no de la imagen impactante.
+
+--- musicPrompt ---
+Estilo: score clinico de tension, cuerdas graves sostenidas y un pulso electronico bajo tipo latido, tempo 60-80 BPM, sin voz, textura fria y contenida. Referencias de mood: documental medico de alto presupuesto, sala de monitoreo. Estructura: intro casi silenciosa, cuerpo con el pulso subiendo levemente hacia la cifra final, sin explotar en clímax. Duracion: loop de 2 a 3 minutos. Mood: clinico, tenso, preciso.
+
+--- thumbnailBase ---
+16:9, black background, [CAMBIAR: figura humana, organo o corte anatomico del tema, elegido segun lo que mas comunique el dato o limite del video] rendered in the channel's cinematic clinical-documentary visual language — near-black, graphite and bone-white palette, cold directional light, physically believable materials — with ONE physiological red accent marking the critical point only if narratively justified, half the frame left genuinely dark for the number and hook, no anatomical exposure forced if not needed, no gore. TENDENCIAS 2026: la cifra grande es el gancho de este canal — '-46°C', '11 DIAS', '8.000 m' leidos a 120px convierten mas que cualquier frase; el rojo se usa una sola vez por portada, solo cuando esta justificado; el negro puro destaca en el feed; evitar repetir siempre la misma composicion de figura humana abierta.
+
+--- styleBase ---
+LÍMITE HUMANO — VISUAL IDENTITY BIBLE
+
+CHANNEL:
+Clinical human biology, physiology, medicine, survival and scientifically documented limits of the human body.
+
+CORE VISUAL LANGUAGE:
+Premium cinematic science documentary. Dark, precise, restrained, clinically credible and visually mysterious. The image should feel like a frame from a high-end scientific documentary, never like a medical stock image, horror film, videogame, generic CGI render or fantasy artwork.
+
+VISUAL CONSISTENCY:
+Every scene must belong to the same visual universe, but scenes MUST NOT repeat the same composition, subject or anatomical cutaway. Consistency means identical visual language, not identical imagery.
+
+COLOR:
+Dominant near-black, graphite, charcoal, cold stone gray, bone white and desaturated blue-gray.
+ONE controlled physiological red accent may appear only when narratively justified: circulation, cardiac activity, physiological stress, critical threshold or biological signal.
+Red is never decorative and must never dominate the frame.
+No orange cinematic grading, neon colors, saturated palettes or multicolor lighting.
+
+LIGHT:
+Cold directional cinematic key light, deep controlled shadows, high contrast, subtle cold rim light, selective illumination and restrained volumetric atmosphere.
+The environment should remain predominantly dark.
+Red may emit a small localized physiological glow only when justified.
+
+MATERIALS:
+Physically believable human skin with natural pores, subtle moisture and realistic imperfections.
+Anatomical structures must look biologically credible and clinically precise.
+Organs, vessels, muscle, tissue and fluids must never look like plastic, rubber, glossy CGI or fantasy creatures.
+
+ANATOMICAL LANGUAGE:
+Use anatomical visualization only when it communicates the narrative.
+Anatomy may appear as:
+- realistic anatomical exposure
+- translucent anatomical overlay
+- clean clinical cutaway
+- isolated organ macro
+- internal physiological visualization
+- microscopic biological visualization
+
+Never force anatomical exposure into every scene.
+
+HUMAN SUBJECT:
+When a human is required, use a consistent adult male subject, approximately 25–45 years old, natural athletic build, short dark hair and minimal dark technical clothing without logos.
+Preserve identity whenever the same subject returns.
+The subject is NOT mandatory in every scene.
+
+COMPOSITION:
+Cinematic vertical composition.
+Use the most appropriate shot for the narrative:
+macro, extreme close-up, close-up, medium, medium-wide, wide, extreme-wide, overhead, profile, silhouette or environmental composition.
+Do not force centered symmetry in every scene.
+Use negative space intentionally for post-production typography.
+
+ENVIRONMENT:
+Dark clinical spaces, controlled laboratory environments, natural extreme environments or near-black abstract space depending on the story.
+The environment must support the scientific concept rather than distract from it.
+
+TEXT:
+NEVER generate text, letters, numbers, labels, subtitles, captions, typography or logos inside the image.
+All text is added later in editing.
+
+SAFETY / CLINICAL RESTRAINT:
+No gore.
+No graphic wounds.
+No exposed reproductive anatomy.
+No gratuitous blood.
+No body horror.
+No grotesque deformation.
+Medical subjects should be represented clinically and scientifically.
+
+NEGATIVE STYLE:
+cartoon, anime, illustration, comic book, fantasy, superhero, videogame, horror, body horror, gore, graphic wounds, generic CGI, plastic skin, glossy organs, stock photography, bright hospital photography, colorful medical illustration, neon, oversaturated colors, orange teal grading, warm commercial lighting, text, typography, letters, numbers, logos, watermarks, malformed anatomy, extra limbs, duplicated organs, floating organs, anatomical impossibilities.
+
+--- animationBase ---
+Treat the already-generated scene image as an IMMUTABLE MASTER FRAME: animation never redesigns identity, face, body, anatomy, wardrobe, environment, composition, lighting, color or materials — it only brings that exact frame to subtle life. A scene director selects ONE adaptable movement identity per shot depending on its narrative function and representation type, choosing from: minimal physiological movement for an organ (pulse, contraction, flow), natural micro-movement for a human subject (breathing, subtle posture shift), ambient environmental motion (fog, dust, snow, smoke, water, particles), progressive transparency reveal for anatomy (never morphing or deforming), extremely controlled micro-motion for macro shots, clean motion-graphic movement for scientific or graphic elements, gradual reveal for new information, an extremely slow push-in for suspense, justified higher-intensity movement only at a climax, and settling, stabilizing movement toward an ending. Camera uses exactly one primary movement per shot — slow push-in, slow pull-back, subtle lateral tracking, controlled orbit, slow reveal, locked camera or minimal parallax — never camera shake, fast zoom, random movement or impossible camera physics. Anatomical structures always stay connected and physically coherent: no morphing, melting, warping, floating organs, duplicated organs, face change, age change, body-proportion change, new limbs or missing limbs. If the frame contains editorial text, the text layer never animates, deforms or regenerates — movement happens behind or around it. Loopable, 5 to 8 seconds.
+
+--- lineasRojas ---
+No dar dosis, umbrales de medicacion ni informacion que sirva para autolesionarse. No convertir condiciones medicas reales en espectaculo. No mostrar gore ni imagenes de heridas: el estilo visual es diagramatico a proposito. Distinguir siempre caso documentado, estimacion y modelo teorico. En temas de sueno, ayuno o frio extremo, advertir explicitamente que no son retos para replicar.
+
+--- tiempos (7) ---
+• Pregunta directa en 2a persona (0-10s): que le pasa a tu cuerpo si... sin adelantar la cifra.
+• La pregunta retorica que sube la apuesta: cuanto crees que aguantarias tu.
+• El mecanismo fisiologico, explicado en lenguaje simple pero clinicamente correcto.
+• El caso real o record documentado que ancla el limite a un hecho verificable.
+• La cifra exacta, dicha una sola vez y sostenida en pantalla varios segundos.
+• Una cita de autor real (fisiologo, medico) con atribucion explicita.
+• Cierre circular: se vuelve a la pregunta de apertura, ahora respondida con el dato que nadie esperaba.
+
+--- ideas SEO (primeras 10 de 50) ---
+• Qué le pasa a tu cuerpo si no duermes once días seguidos
+• El límite exacto de calor que un ser humano puede soportar
+• Cuánto tiempo puedes vivir sin agua y qué le pasa a tu cuerpo
+• El momento en que dejas de sentir frío antes de morir de hipotermia
+• Qué ocurre en tus pulmones a ocho mil metros de altitud
+• Cuánto tiempo puede un ser humano aguantar la respiración
+• Qué le pasa a tu cuerpo después de treinta días sin comer
+• Cuánta sangre puedes perder y seguir con vida
+• Cuánta presión soporta realmente el cuerpo bajo el agua
+• El límite de radiación que puede soportar el cuerpo humano
+
+================================================================================
+CANAL: enigmas_ocultos
+================================================================================
+
+--- name ---
+Enigmas Ocultos
+
+--- nicho ---
+Historia & Misterio — el archivo que contradice el relato oficial
+
+--- premisa ---
+La historia que te enseñaron es un resumen editado. Este canal va al documento, al mapa y al objeto originales — y muestra qué se quedó fuera del resumen.
+
+--- tono ---
+Investigador de archivo. Erudito pero accesible, con placer por el detalle verificable. Nunca afirma conspiración: muestra la contradicción documental y deja que el espectador la pese.
+
+--- musicPrompt ---
+Estilo: instrumental de archivo/documental historico, cuerdas calidas y percusion suave de madera, tempo lento 65-80 BPM, sin voz, textura polvorienta y reverente. Referencias de mood: documental de historia premium, sala de manuscritos. Estructura: intro con una sola linea melodica, cuerpo que se ensancha ligeramente en cada parada del arco historico. Duracion: loop de 2 a 3 minutos. Mood: erudito, calido, misterioso sin ser oscuro.
+
+--- thumbnailBase ---
+16:9, deep black background, [CAMBIAR: artefacto, mapa o documento del video] lit by a single warm shaft of light with dust particles, aged gold and bronze palette, engraved linework detail, one third of the frame kept dark for the hook text, museum-catalog precision. TENDENCIAS 2026: el objeto en primer plano con un solo haz de luz rinde mas que la escena panoramica; un circulo o flecha dorada señalando el detalle contradictorio sube el CTR; el texto debe nombrar el hueco ('falta una linea'), no el tema.
+
+--- styleBase ---
+Golden archaeology illustration style: aged gold, bronze and warm parchment tones on a deep black background, artefacts and monuments rendered with fine engraved linework and museum-catalog precision, ancient cartography and glyph fragments layered semi-transparently, suspended dust particles catching a single warm shaft of light, chiaroscuro lighting, subtle paper and stone texture, ornamental thin gold frame elements, scholarly and reverent atmosphere. Negative: neon colors, modern technology, sci-fi elements, aliens, cartoon style, oversaturation, cluttered collage.
+
+--- animationBase ---
+Slow orbital drift around the artefact, no more than 5 degrees of rotation across the shot, combined with a 4 to 8% push-in. The object itself stays absolutely rigid — no morphing, no re-engraving of detail. Dust particles float continuously through the warm light shaft, and the light source drifts slightly so highlights travel across the engraved surface. Semi-transparent map or glyph layers behind the object drift at a different speed to create depth. Gold specular highlights glint once or twice per shot. Background stays deep black. No camera shake, no fast rotation, no new objects entering frame, no modern elements. Loopable, 5 to 8 seconds.
+
+--- lineasRojas ---
+No presentar especulacion como hallazgo: se separa siempre lo que dice el documento de lo que se interpreta. No usar pseudoarqueologia (civilizaciones perdidas, intervencion extraterrestre) como si fuera consenso. No construir narrativas conspirativas sobre grupos etnicos, religiosos o nacionales. Citar la fuente concreta en pantalla y en descripcion. No reproducir textos extensos con derechos vigentes; parafrasear y remitir a la edicion.
+
+--- tiempos (7) ---
+• Apertura inmersiva en 2a persona (0-15s): coloca al espectador frente al objeto o mapa antes de explicarlo.
+• La pregunta retorica que abre la grieta: pero, y si la version que conoces no es la original?.
+• El documento o artefacto real, descrito con precision de catalogo, no con adjetivos.
+• El arco historico: 3-4 paradas cronologicas donde el mismo patron se repite en culturas distintas.
+• La contradiccion concreta: que cambia si el documento tiene razon sobre la version aceptada.
+• Cita de un historiador o arqueologo real, con atribucion explicita.
+• Cierre circular: vuelve al objeto de apertura, ahora visto de otra forma, sin resolver del todo el misterio.
+
+--- ideas SEO (primeras 10 de 50) ---
+• El manuscrito que contradice la versión oficial
+• La traducción errónea que cambió una creencia entera
+• El texto apartado del canon y las razones reales
+• El archivo que se quemó y lo que se salvó de él
+• La biblioteca perdida que sí dejó rastro
+• El documento que apareció ochenta años después
+• La carta que reescribe una biografía conocida
+• El registro contable que desmiente una leyenda
+• La teoría rechazada que la ciencia terminó confirmando
+• El pensador cuyas ideas fueron atribuidas a otro
+
+================================================================================
+CANAL: sabiduria_eterna
+================================================================================
+
+--- name ---
+Sabiduría Eterna
+
+--- nicho ---
+Filosofía aplicada — estoicismo y pensamiento antiguo para problemas actuales
+
+--- premisa ---
+Los problemas que crees modernos ya fueron resueltos, o al menos formulados con precisión, hace dos mil años. Este canal traduce ese pensamiento a decisiones concretas de hoy.
+
+--- tono ---
+Maestro sereno. Habla despacio, con autoridad tranquila y cero autoayuda vacía. Cada video entrega un principio y su aplicación, no una frase motivacional.
+
+--- musicPrompt ---
+Estilo: instrumental clasico contemplativo, cuerdas y una sola nota de piano o arpa sostenida, tempo muy lento 55-70 BPM, sin voz, textura serena y espaciosa. Referencias de mood: sala de esculturas clasicas, meditacion filosofica. Estructura: intro casi en silencio, cuerpo con una sola linea melodica que respira, sin subidas dramaticas. Duracion: loop de 2 a 3 minutos. Mood: sereno, solemne, atemporal.
+
+--- thumbnailBase ---
+16:9, deep black background, weathered marble bust or classical figure on one third with dramatic side lighting, [CAMBIAR: objeto simbolico del tema — reloj de arena, moneda, laurel, espejo] in the opposite lower corner, aged gold accent only, the remaining third kept black for the hook text. TENDENCIAS 2026: el rostro de marmol con la mirada baja o de perfil comunica el tema sin texto; el texto debe nombrar la emocion concreta ('cuando te ignoran'), no el concepto filosofico; el oro se usa una sola vez por portada.
+
+--- styleBase ---
+Classical marble-and-gold illustration style: weathered white marble sculpture as the focal subject, deep black background, aged gold accents in laurel wreaths, Greek key ornament and thin circular borders, dramatic chiaroscuro side lighting carving the face and drapery, fine stone-crack and dust texture, distant Doric columns fading into darkness, restrained and reverent atmosphere, museum-lighting realism. Negative: neon colors, modern clothing, cartoon style, oversaturation, cheerful bright lighting, motivational-poster look.
+
+--- animationBase ---
+Extremely slow push-in on the marble bust, 4 to 6% across the whole shot, with the key light drifting gradually across the face so shadows travel and progressively reveal the features. The sculpture stays absolutely rigid — no morphing, no facial animation, no eye movement. Fine stone dust drifts through the light beam. Gold ornament elements glint once, softly. Distant columns remain still in deep shadow. Background stays pure black at all times. No camera shake, no cuts inside the shot, no particles crossing the subject, no text animation. Loopable, 7 to 10 seconds.
+
+--- lineasRojas ---
+No usar el estoicismo como excusa para reprimir emociones o tolerar abuso. No atribuir frases falsas a filosofos: se cita obra y pasaje o no se cita. No sustituir terapia: cuando el tema es depresion, duelo intenso o ansiedad clinica, indicar apoyo profesional. No mezclar filosofia con promesas de exito material ni lenguaje de coaching agresivo. No presentar una escuela filosofica como verdad unica frente a otras.
+
+--- tiempos (7) ---
+• Problema cotidiano en 2a persona (0-15s): una situacion incomoda formulada sin adornos.
+• La pregunta retorica que abre la reflexion: por que esto te afecta tanto?.
+• El principio antiguo, con autor, obra y contexto reales, nunca una frase sin atribuir.
+• La traduccion a la vida actual, con un ejemplo muy concreto y reconocible.
+• El ejercicio practicable, descrito en una sola accion clara para esta semana.
+• El limite del principio: donde deja de aplicar o donde hace falta ayuda profesional.
+• Cierre circular: la misma situacion de apertura, ahora vista con el principio ya aplicado.
+
+--- ideas SEO (primeras 10 de 50) ---
+• Lo único que realmente está bajo tu control
+• Por qué la ofensa siempre es una decisión tuya
+• El ejercicio antiguo de imaginar lo peor
+• Qué decían los estoicos sobre la muerte y por qué ayuda
+• El principio que desarma la comparación con otros
+• Cómo separar el hecho de tu juicio sobre el hecho
+• Por qué la ira es una promesa de dolor futuro
+• El deseo que nunca se llena y cómo cortarlo
+• Qué hacer cuando no puedes cambiar la situación
+• El valor de la incomodidad elegida
+
+================================================================================
+CANAL: mentes_en_foco
+================================================================================
+
+--- name ---
+Mentes en Foco
+
+--- nicho ---
+Psicología del diseño digital — manipulación de la atención y defensa cognitiva
+
+--- premisa ---
+Nada de lo que haces frente a una pantalla es casualidad: alguien lo diseñó para que lo hicieras. Este canal desarma ese diseño pieza por pieza y devuelve el control al espectador.
+
+--- tono ---
+Investigador clínico que explica sin condescender. Indignación informada, nunca pánico. Cada video termina con una acción concreta, no con una advertencia abierta.
+
+--- musicPrompt ---
+Estilo: instrumental electronico clinico y minimal, pulsos sintetizados y texturas de laboratorio, tempo 90-105 BPM, sin voz, textura fria y precisa. Referencias de mood: thriller tecnologico, sala de investigacion. Estructura: intro con un pulso aislado, cuerpo que suma capas rítmicas al ritmo en que se encienden los nodos del video. Duracion: loop de 2 a 3 minutos. Mood: analitico, con tension contenida, nunca alarmista.
+
+--- thumbnailBase ---
+16:9, deep black background, [CAMBIAR: metafora del mecanismo — pantalla, boton, ruleta, figura infantil, silueta de grupo] rendered as a glowing blue element, one human profile silhouette anchoring the composition, cyan highlight only on the manipulated element, half the frame left black for the hook text. TENDENCIAS 2026: el gancho mas eficaz de este nicho es la segunda persona ('te lo hicieron a ti'); un solo elemento iluminado en azul sobre negro se lee perfecto a 120px; evitar capturas de apps reales en la portada.
+
+--- styleBase ---
+Clinical blue laboratory illustration style: deep black background with cool steel-blue and cyan luminous accents, a human head in profile rendered as a semi-transparent silhouette with a glowing network of nodes and connections inside, thin geometric constellation lines and data points floating in the background, brushed-metal typographic elements, precise clean linework, cold analytical lighting, subtle glass reflections, research-poster restraint. Negative: warm colors, cartoon style, cluttered collage, neon green, oversaturation, cheerful lighting, photorealistic faces.
+
+--- animationBase ---
+Slow push-in on the profile silhouette while the internal neural network animates: nodes light up one by one and connection lines draw between them, following the exact order in which the narration names each step of the mechanism. Node pulses are soft and rhythmic, brightness varying no more than 15%. Background constellation points drift slowly at a different depth for parallax. The silhouette itself stays completely rigid — no facial animation, no morphing. Motion-graphic overlays draw in cleanly: a counter, a bar rising, a loop arrow closing on itself to represent the compulsion cycle. Background stays pure black. No camera shake, no flashy transitions, no fast zooms. Loopable, 5 to 8 seconds.
+
+--- lineasRojas ---
+Nunca enseñar a aplicar estas tecnicas sobre otros: el eje es reconocer y defenderse. No diagnosticar: no llamar adiccion clinica, TDAH ni trastorno a un comportamiento del espectador. Distinguir siempre lo que muestran los estudios de lo que es hipotesis o correlacion. En temas de infancia, no culpabilizar a los padres. Cuando aparezca malestar real, indicar apoyo profesional sin dramatizar.
+
+--- tiempos (7) ---
+• Reconocimiento en 2a persona (0-10s): un comportamiento que el espectador identifica en si mismo.
+• La pregunta retorica que abre el mecanismo: por que te pasa esto exactamente a ti?.
+• El mecanismo psicologico, con su nombre tecnico dicho una sola vez y con claridad.
+• El paralelo: donde mas se usa ese mismo mecanismo (casino, secta, app, publicidad).
+• La evidencia: que muestran los estudios reales y que sigue siendo hipotesis.
+• La defensa: de uno a tres pasos concretos, mostrados mientras se dibujan en el grafo.
+• Cierre circular: vuelve al comportamiento de apertura, ahora con el mecanismo ya visible.
+
+--- ideas SEO (primeras 10 de 50) ---
+• El truco del scroll infinito que hace que no puedas parar
+• Por qué las notificaciones llegan justo cuando estás concentrado
+• El color que usan las apps para conseguir tu atención
+• La recompensa variable: el mecanismo que hace que vuelvas a mirar
+• Por qué perder por poco hace que quieras intentarlo otra vez
+• Por qué algunas apps esconden el botón de cancelar
+• Cómo las rachas de las apps convierten un hábito en culpa
+• Por qué el siguiente video empieza antes de que puedas decidir
+• El truco de la urgencia falsa que usan las tiendas online
+• Cómo las apps de citas convierten la incertidumbre en adicción
+
+================================================================================
+CANAL: dominio_profesional
+================================================================================
+
+--- name ---
+Dominio Profesional
+
+--- nicho ---
+Negocios & Futuro del Trabajo — qué automatiza la IA, profesión por profesión
+
+--- premisa ---
+Ningún oficio va a desaparecer de golpe: se está reescribiendo tarea por tarea. Este canal documenta qué parte ya se automatizó, qué parte sigue siendo humana y qué hacer con esa diferencia.
+
+--- tono ---
+Analista de negocios sobrio. Respeta el oficio antes de mostrar el cambio. Ni catastrofismo ni entusiasmo de vendedor de IA: números, casos y consecuencias.
+
+--- musicPrompt ---
+Estilo: instrumental corporativo moderno, piano electronico y pads sintetizados, tempo medio 90-100 BPM, sin voz, textura limpia y profesional. Referencias de mood: documental de negocios, editorial tecnologico. Estructura: intro minimal, cuerpo que construye capas al ritmo de los graficos que suben en pantalla. Duracion: loop de 2 a 3 minutos. Mood: sobrio, confiado, sin urgencia artificial.
+
+--- thumbnailBase ---
+16:9, deep black and midnight-blue, [CAMBIAR: profesional del oficio del video en silueta] on one side rendered half in realistic detail and half dissolving into wireframe or circuit pattern, one bright cyan highlight at the seam between human and digital, clean chart element in a corner, opposite third kept dark for the hook text. TENDENCIAS 2026: la silueta partida humano/digital es el motivo reconocible del canal; el texto debe nombrar el oficio concreto ('radiologos', 'traductores'); nunca usar rostros reales ni logos de empresas.
+
+--- styleBase ---
+Corporate editorial illustration style: deep black and midnight-blue background, a sharply lit executive silhouette in the center rendered in brushed steel and shadow, a dotted world map and glass skyline receding behind, clean data-visualisation elements (line chart, bar chart, arrow) integrated as part of the composition, cool steel-blue and silver palette with a single bright cyan highlight, precise geometric linework, boardroom lighting, restrained business-magazine cover aesthetic. Negative: warm colors, cartoon style, cluttered infographic, neon, stock-photo handshake clichés, photorealistic faces.
+
+--- animationBase ---
+Slow lateral dolly across the composition, 6 to 10%, with a subtle depth parallax between the silhouette, the skyline and the dotted map. The human half of the figure stays rigid and detailed; the digital half animates continuously — wireframe lines flowing, circuit paths lighting up, small particles detaching and drifting away — and intensifies exactly when the narration names the automated task. Motion-graphic overlays draw in cleanly: a bar chart rising to its value, a line chart tracing left to right, a percentage counter climbing to its figure and holding. The seam between human and digital emits a soft cyan glow. Background stays deep black. No camera shake, no facial animation, no flashy wipes. Loopable, 5 to 8 seconds.
+
+--- lineasRojas ---
+No prometer ingresos, empleo ni resultados economicos concretos. No dar asesoria financiera ni fiscal personalizada. No acusar de delito a empresas o personas sin condena o registro publico verificable. No vender la IA como sustituto total de un oficio: distinguir tarea de profesion es la tesis del canal. Citar la fuente de cada cifra de adopcion o de mercado.
+
+--- tiempos (7) ---
+• El oficio en 2a o 3a persona (0-15s): que hace exactamente esa profesion y por que importa.
+• La pregunta retorica que abre la duda: cuanto de esto sigue siendo solo humano?.
+• La tarea automatizada: que parte concreta ya hace una maquina hoy, con caso o cifra real.
+• El dato de industria, citado con su fuente explicita en pantalla.
+• Lo que queda humano: la habilidad que sigue siendo dificil de replicar.
+• El movimiento concreto: que haria hoy alguien de ese oficio para reposicionarse.
+• Cierre circular: vuelve al oficio de apertura, ahora con el balance completo entre lo perdido y lo que queda.
+
+--- ideas SEO (primeras 10 de 50) ---
+• Qué parte del trabajo de un abogado ya puede hacer la IA
+• Qué trabajos de traducción está reemplazando la IA
+• Qué parte del diseño gráfico ya hace la inteligencia artificial
+• La IA ya analiza radiografías: ¿qué queda para el radiólogo?
+• Qué parte del trabajo de un programador ya hace la IA
+• Qué hace la IA en contabilidad que antes hacía una persona
+• Qué parte del periodismo ya puede generar una IA
+• La IA ya puede clonar voces: ¿qué pasa con los actores de doblaje?
+• Cómo la IA está cambiando el trabajo del arquitecto
+• Los agentes de IA están cambiando los call centers
+
+================================================================================
+CANAL: mentes_financieras
+================================================================================
+
+--- name ---
+Mentes Financieras
+
+--- nicho ---
+Finanzas personales — fugas de dinero invisibles y educación financiera práctica
+
+--- premisa ---
+Nadie se arruina por una mala decisión: se arruina por diez fugas pequeñas que nunca revisa. Este canal las hace visibles una por una y las cierra.
+
+--- tono ---
+Educador financiero directo y sin humo. Ni gurú de la riqueza ni sermón de austeridad. Cifras concretas, cálculo mostrado en pantalla y una acción por video.
+
+--- musicPrompt ---
+Estilo: instrumental editorial financiero premium, cuerdas graves y un contador ritmico sutil, tempo medio 85-95 BPM, sin voz, textura elegante y con tension calculada. Referencias de mood: revista de negocios, sala de bolsa silenciosa. Estructura: intro contenida, cuerpo que sube en intensidad al ritmo en que el calculo crece en pantalla. Duracion: loop de 2 a 3 minutos. Mood: serio, premium, con urgencia calculada.
+
+--- thumbnailBase ---
+16:9, deep black background, [CAMBIAR: objeto financiero del tema — tarjeta, contrato, recibo, alcancia, grafico] lit by a single dramatic light with gold specular highlight, engraved guilloche texture, a magnifying glass or red circle marking the hidden figure, opposite third kept dark for the hook. TENDENCIAS 2026: la cifra concreta es el gancho de este nicho ('$1.240 al año') y convierte mas que cualquier adjetivo; la lupa sobre la letra pequeña es el motivo reconocible del canal; evitar imagenes de fajos de billetes y autos de lujo.
+
+--- styleBase ---
+Premium financial editorial illustration style: deep black background with aged gold and dark emerald accents, a bronze bull sculpture, a glass skyline and neoclassical columns arranged in a balanced emblematic composition, a subtle dotted world map behind, engraved banknote-style guilloche linework as texture, dramatic single-source lighting with gold specular highlights, clean data elements (candlestick, coin stack, ledger line) integrated without clutter, restrained wealth-magazine aesthetic. Negative: cash-in-hand clichés, luxury car imagery, cartoon style, neon, oversaturation, gambling imagery, cryptocurrency logos.
+
+--- animationBase ---
+Slow push-in on the financial object, 5 to 8%, with gold specular highlights travelling across its surface as the light drifts. The object itself stays rigid. Over it, motion-graphic overlays execute the calculation step by step: a numeric counter climbing from zero to the annual figure, a bar or stacked-coin column growing in sync, a ten-year total revealing last and holding on screen. A magnifying ring slides in and settles over the small print, with the highlighted line brightening inside it. Engraved guilloche texture shimmers faintly. Background stays deep black. No camera shake, no flying money, no flashy transitions, no gambling or crypto imagery. Loopable, 5 to 8 seconds.
+
+--- lineasRojas ---
+No recomendar inversiones concretas, acciones, criptomonedas ni brokers: el canal educa, no asesora. No prometer rentabilidad, libertad financiera ni plazos para lograrla. Aclarar que la informacion es general y no sustituye asesoria profesional. No usar culpa ni humillacion como palanca. Adaptar los ejemplos al contexto hispanohablante, no asumir un solo sistema bancario.
+
+--- tiempos (7) ---
+• La fuga en 2a persona (0-15s): un gasto o comision que el espectador probablemente tiene ahora mismo.
+• La pregunta retorica que sube la apuesta: sabes cuanto te cuesta esto en diez años?.
+• El calculo, mostrado paso a paso en pantalla, no solo dicho.
+• Por que no se nota: el mecanismo contractual o psicologico que la mantiene invisible.
+• La accion concreta para cerrarla, con el tiempo exacto que toma hacerlo.
+• El limite: cuando esa misma fuga en realidad vale la pena mantenerla.
+• Cierre circular: vuelve a la fuga de apertura, ahora con el total calculado sostenido en pantalla.
+
+--- ideas SEO (primeras 10 de 100) ---
+• La comisión que tu banco te cobra y probablemente no revisas
+• La suscripción que sigues pagando y ya olvidaste
+• Por qué pagar el mínimo de tu tarjeta puede salir tan caro
+• El verdadero costo de comprar en cuotas \\\"sin intereses\\\"
+• El seguro que pagas todos los meses y quizá no necesitas
+• La comisión invisible que pagas cada vez que transfieres dinero
+• Por qué tener tu dinero parado puede hacerte perder poder adquisitivo
+• La letra pequeña que puede costarte dinero sin que lo notes
+• Cuánto te cuesta realmente cambiar de teléfono cada año
+• La comisión de cambio de divisa que nadie te explica

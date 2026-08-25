@@ -1,0 +1,14 @@
+node_modules/
+out/
+.remotion/
+.env
+public/scenes/
+credentials.json
+
+# Artefactos generados por corridas reales de prueba (jobs, narracion, guion armado) -- no
+# son codigo fuente, se regeneran solos al correr el pipeline.
+jobs/
+public/audio/*.wav
+public/guion.json
+scripts/__pycache__/
+**/__pycache__/

@@ -1,0 +1,468 @@
+
+================================================================================
+CANAL: el_arte_cuenta_historias
+================================================================================
+
+--- name ---
+El Arte Cuenta Historias
+
+--- nicho ---
+Arte & Creatividad — el proceso creativo como narrativa
+
+--- premisa ---
+Cada ilustración esconde una decisión, una historia o una pregunta. Este canal no muestra solamente cómo se dibuja: muestra por qué se dibuja así.
+
+--- tono ---
+Reflexivo y cercano, como un artista pensando en voz alta mientras trabaja. Nunca técnico en exceso; prioriza la emoción y el porqué sobre el paso a paso mecánico.
+
+--- musicPrompt ---
+Estilo: instrumental atelier reflexivo, piano suave y texturas de sintetizador calido, tempo 75-90 BPM, sin voz, textura intima y creativa. Referencias de mood: documental de proceso creativo, estudio de artista. Estructura: intro minimal, cuerpo que acompana el avance del timelapse sin dominar la narracion. Duracion: loop de 2 a 3 minutos. Mood: reflexivo, calido, curioso.
+
+--- thumbnailBase ---
+16:9, black background, [CAMBIAR: la pieza o concepto del video] shown mid-creation with visible brush texture, one vivid accent color against the dark palette, half the frame kept dark for the hook text. TENDENCIAS 2026: mostrar la pieza a medio terminar (no completa) genera más curiosidad que el resultado final; la pregunta en segunda persona ('¿Y si...?') convierte mejor que el título descriptivo del tema.
+
+--- styleBase ---
+Digital atelier illustration style: deep black canvas background with vivid, saturated paint-splatter accents in coral, teal and gold, a visible brush mid-stroke leaving a trail of pigment, painterly texture with expressive linework, dramatic single-source studio lighting, generous negative space for text overlay, energetic but controlled composition. Negative: cartoon-flat style, muted palette, cluttered background, photorealistic rendering.
+
+--- animationBase ---
+Time-lapse illustration reveal: the artwork builds progressively layer by layer — base shapes first, then color blocking, then shading and fine detail — speeding through repetitive stages and slowing to real-time at the key decisive brushstroke. A visible brush or stylus cursor leaves a soft trailing glow. Background stays a dark neutral studio tone. No camera movement, no added elements outside the artwork itself. Loopable only at the very final held frame, 4 to 8 seconds per stage.
+
+--- lineasRojas ---
+Nunca reproducir letras de canciones protegidas ni su audio original: solo interpretacion visual inspirada en el ambiente. No presentar interpretaciones personales de una obra como el significado oficial o unico. Citar la obra y el artista real cuando se hable de una pieza historica especifica. No reclamar autoria sobre estilos o personajes de otros artistas vivos.
+
+--- tiempos (7) ---
+• Hook (0-10s): el resultado adelantado o la pregunta central (como se veria X si tuviera rostro?).
+• Pregunta central: que se va a resolver visualmente en el video.
+• Contexto: la referencia real (obra, cancion, concepto) que inspira la pieza.
+• Desarrollo: el timelapse narrado, decision por decision.
+• Giro: el detalle o dato que cambia la lectura de la pieza a mitad de camino.
+• Evidencia: la fuente o el dato verificable que sostiene la historia contada.
+• Cierre circular: se vuelve al resultado del inicio, ahora completamente entendido.
+
+--- ideas SEO (primeras 10 de 20) ---
+• Así se vería la ansiedad si tuviera un rostro
+• Así se vería la soledad si tuviera un rostro
+• Así se vería la avaricia si tuviera un rostro
+• El cuadro que casi desaparece para siempre
+• El detalle que casi nadie nota en esta obra maestra
+• Así se vería esta canción de desamor dentro de mi universo
+• Interpretando visualmente una canción sobre la libertad
+• Creando un personaje oscuro desde cero, paso a paso
+• Cómo un solo color puede arruinar (o salvar) una pintura
+• La técnica de pintura que tardó siglos en perfeccionarse
+
+================================================================================
+CANAL: fitness_anatomico
+================================================================================
+
+--- name ---
+Saiyan Fit
+
+--- nicho ---
+Fitness & Ciencia del cuerpo — anatomía visual aplicada al entrenamiento
+
+--- premisa ---
+Tu cuerpo hace mucho más de lo que ves en el espejo. Este canal muestra, por dentro, qué ocurre exactamente cuando entrenas, descansas o comes.
+
+--- tono ---
+Instructor claro y directo, con base científica pero sin jerga innecesaria. Cero promesas médicas, cero dramatismo: el dato ilustrado es suficiente gancho.
+
+--- musicPrompt ---
+Estilo: instrumental clinico-instructivo, pulsos electronicos limpios y percusion minimal, tempo 90-100 BPM, sin voz, textura precisa y energica. Referencias de mood: documental cientifico deportivo, laboratorio de biomecanica. Estructura: intro directa, cuerpo constante que sostiene el ritmo instructivo sin subidas dramaticas. Duracion: loop de 2 a 3 minutos. Mood: clinico, energico, confiable.
+
+--- thumbnailBase ---
+16:9, black background, [CAMBIAR: músculo o mecanismo del video] shown in glowing cyan cross-section detail, one clear focal point, half the frame kept dark for the hook text. TENDENCIAS 2026: el corte anatómico glowing es el gancho visual reconocible del canal; el texto debe nombrar el ejercicio o músculo concreto, porque la búsqueda en este nicho es muy específica.
+
+--- styleBase ---
+Dynamic medical-illustration style: clean cyan and electric-blue linework on clinical black background, cross-sectional muscle anatomy rendered with clear layered detail, thin glowing energy lines indicating force vectors and movement, precise technical shading, generous negative space for on-screen text, restrained scientific-poster aesthetic. Negative: gore, exposed bone/blood detail, cartoon style, warm colors, oversaturation.
+
+--- animationBase ---
+Slow layered reveal of the human figure: skin fades to translucent, then the relevant muscle group brightens in cyan outline, then thin glowing force-direction lines animate along the movement path described in the narration. The figure stays anatomically static — no walking, no full-body motion, only the targeted muscle group animates subtly. Background remains clinical black. No camera shake, no gore, no bone exposure. Loopable, 4 to 6 seconds.
+
+--- lineasRojas ---
+No diagnosticar, no dar dosis de suplementos ni afirmaciones medicas. Diferenciar metafora visual de representacion medica real. Citar fuente cientifica cuando se afirme algo sobre salud. No prometer resultados esteticos garantizados.
+
+--- tiempos (7) ---
+• Pregunta directa (0-10s): sobre un ejercicio, musculo o mito concreto.
+• Pregunta retorica que sube la apuesta: estas seguro de que sabes que trabaja este ejercicio?.
+• El mecanismo biomecanico o fisiologico, ilustrado en corte anatomico.
+• El error comun asociado, mostrado como lo que casi todos hacen.
+• La explicacion correcta, con evidencia o fuente citada.
+• La aplicacion practica inmediata.
+• Cierre circular: vuelve a la pregunta de apertura, ahora respondida con precision.
+
+--- ideas SEO (primeras 10 de 20) ---
+• Qué músculos trabaja realmente una sentadilla
+• Por qué el press banca activa más que el pecho
+• El músculo que trabaja en casi todos tus ejercicios
+• Qué pasa en tu cuerpo en el primer minuto de cardio
+• Por qué el dolor muscular no mide qué tan bueno fue tu entreno
+• El error de calentamiento que baja tu rendimiento
+• Cómo se repara un músculo después de entrenar
+• Por qué estirar antes de entrenar no es lo que crees
+• El mito de \\\"quemar grasa localizada\\\" explicado con anatomía real
+• Qué le pasa a tu energía cuando entrenas en ayunas
+
+================================================================================
+CANAL: de_idea_a_celebracion
+================================================================================
+
+--- name ---
+De Idea a Celebración
+
+--- nicho ---
+Repostería & Diseño de eventos — el proceso detrás de cada celebración
+
+--- premisa ---
+Detrás de cada torta o topper hay un reto real: un plazo ajustado, un cambio de última hora, un presupuesto limitado. Este canal muestra ese proceso completo, no solo el resultado.
+
+--- tono ---
+POV de experta, cálido y cercano, como si la espectadora estuviera al lado de la mesa de trabajo. Honesto sobre errores y costos reales.
+
+--- musicPrompt ---
+Estilo: instrumental calido y artesanal, guitarra acustica suave o piano intimista, tempo 85-95 BPM, sin voz, textura cercana y acogedora. Referencias de mood: cocina de estudio, documental de oficio artesanal. Estructura: intro suave, cuerpo constante que acompana el proceso sin dramatismo. Duracion: loop de 2 a 3 minutos. Mood: calido, honesto, cercano.
+
+--- thumbnailBase ---
+16:9, warm dark studio background, [CAMBIAR: la pieza o reto del video] shown close-up with visible texture and detail, soft pastel pink accent lighting, one third of the frame kept dark for the hook text. TENDENCIAS 2026: el antes/después en la misma miniatura convierte mejor que el resultado solo; mostrar la mano trabajando (no solo el objeto) aumenta la sensación de POV auténtico.
+
+--- styleBase ---
+Warm POV pastry-studio illustration and photography style: soft pastel pink and cream tones against a warm dark studio background, hands actively working with fondant, piping bags and sculpting tools, gentle diffused overhead work-lamp lighting, shallow depth of field emphasizing texture and detail, cozy artisanal documentary mood. Negative: cold blue tones, cartoon style, cluttered background, harsh flash lighting.
+
+--- animationBase ---
+Warm handheld POV footage of pastry work: hands shaping fondant, piping details or assembling tiers under soft overhead lamp light. Repetitive stages (kneading, drying, base assembly) play back sped up as a smooth time-lapse; precision moments (facial detail, fine piping) play in real time with steady close framing. Soft warm color grading throughout. No harsh camera shake, no added digital elements, no gore or sharp-tool close-ups beyond normal kitchen use. Loopable only at the final held reveal shot, 5 to 8 seconds.
+
+--- lineasRojas ---
+No prometer resultados identicos sin experiencia previa. Ser honesta sobre tiempos y dificultad real de cada tecnica. No exagerar costos ni presentar precios poco realistas. Identificar siempre cuando un error fue real y como se corrigio, sin ocultar el proceso de aprendizaje.
+
+--- tiempos (7) ---
+• Hook (0-10s): el pedido y por que representa un reto real.
+• Pregunta central: se lograra a tiempo / con este presupuesto / con este material?.
+• Contexto: quien es la clienta y que necesita exactamente.
+• Desarrollo: el proceso POV, paso a paso, con los tiempos reales.
+• Giro: el problema que aparece a mitad de camino.
+• Evidencia: como se resolvio el problema en la practica.
+• Cierre circular: el resultado final, comparado con el reto planteado al inicio.
+
+--- ideas SEO (primeras 10 de 20) ---
+• La clienta pidió un topper elegante y casi no llegamos a tiempo
+• De boceto a realidad: así nace un topper personalizado
+• El error que casi arruina una torta de tres pisos
+• Cuánto cuesta realmente una mesa dulce profesional
+• El secreto para que el fondant nunca se agriete
+• De torta sencilla a obra de arte: la transformación completa
+• La decoración de cumpleaños que tomó una semana completa
+• Por qué algunas tortas se derrumban (y cómo evitarlo)
+• El topper más difícil que hemos hecho hasta hoy
+• Cómo cobrar correctamente por un topper personalizado
+
+================================================================================
+CANAL: reconstruir_la_civilizacion
+================================================================================
+
+--- name ---
+Reconstruir la Civilización
+
+--- nicho ---
+Historia & Tecnología — cómo se construyó (y se reconstruiría) la civilización
+
+--- premisa ---
+Si mañana desapareciera nuestra civilización, ¿qué tendríamos que reconstruir primero? Este canal recorre el progreso humano real como si fuera el manual de esa reconstrucción.
+
+--- tono ---
+Documental panorámico, riguroso pero accesible. La pregunta hipotética es el marco narrativo, nunca la tesis: el contenido real es historia documentada.
+
+--- musicPrompt ---
+Estilo: instrumental documental civilizatorio, percusion tribal sutil combinada con pads modernos, tempo 80-95 BPM, sin voz, textura que evoluciona con el tiempo. Referencias de mood: documental de progreso humano, gran narrativa historica. Estructura: intro con textura antigua, cuerpo que se moderniza progresivamente al avanzar la linea de tiempo. Duracion: loop de 2 a 3 minutos. Mood: expansivo, curioso, con peso historico.
+
+--- thumbnailBase ---
+16:9, black background, [CAMBIAR: tecnología o etapa del video] rendered as an aged bronze isometric diagram, one small human silhouette for scale reference, half the frame kept dark for the hook text. TENDENCIAS 2026: la pregunta 'qué pasaría si...' en segunda persona convierte mejor que la curiosidad histórica genérica; el contraste bronce sobre negro puro destaca en el feed frente a miniaturas saturadas.
+
+--- styleBase ---
+Historical-progress diagram illustration style: aged bronze and carbon-black palette, ancient tools and mechanical gears arranged along a technical timeline, fine engraved linework with dashed connector lines between eras, subtle dust and patina texture, restrained documentary-engineering tone. Negative: bright saturated colors, cartoon style, futuristic sci-fi elements, oversaturation.
+
+--- animationBase ---
+Slow horizontal pan across an isometric historical timeline diagram: each tool, structure or invention solidifies from dashed construction lines into solid bronze linework exactly when the narration names it, with connecting gears turning briefly to mark the transition to the next era. Fine dust particles drift across the frame. Background stays carbon black. No camera shake, no color outside bronze-black, no modern or futuristic elements unless explicitly part of the hypothetical scenario. Loopable, 5 to 8 seconds.
+
+--- lineasRojas ---
+Separar siempre escenario hipotetico declarado de hecho historico documentado. No dar instrucciones tecnicas que faciliten sabotaje a infraestructura real. No presentar el colapso como inevitable ni fomentar alarmismo; el tono es de curiosidad, no de miedo.
+
+--- tiempos (7) ---
+• Pregunta hipotetica en 2a persona (0-10s): que reconstruirias primero?.
+• Pregunta retorica que sube la apuesta: cuanto tiempo real tomo la primera vez?.
+• El mecanismo historico real, con fecha y contexto documentado.
+• El arco panoramico: 3-4 civilizaciones o etapas donde se repite o evoluciona el mismo avance.
+• El punto de fragilidad moderno: que tan dependientes somos hoy de esa base.
+• Un dato de escala (tiempo, numero de personas, distancia) que cierra el argumento.
+• Cierre circular: se responde la pregunta hipotetica de apertura con el dato historico ya expuesto.
+
+--- ideas SEO (primeras 10 de 20) ---
+• Qué tendrías que reconstruir primero si la civilización cae
+• Cómo el fuego cambió todo antes que cualquier otra tecnología
+• Por qué la agricultura fue más difícil de inventar de lo que crees
+• El animal que cambió la historia humana al ser domesticado
+• Cómo se descubrió que el barro podía convertirse en cerámica
+• El metal que sacó a la humanidad de la Edad de Piedra
+• Por qué las primeras ciudades necesitaron inventar la escritura
+• Sin electricidad, ¿cuánto durarían las ciudades modernas?
+• La tecnología que necesitarías antes de construir un auto
+• Cómo se construyó la primera red comercial a larga distancia
+
+================================================================================
+CANAL: historias_de_los_platos
+================================================================================
+
+--- name ---
+Historias de los Platos
+
+--- nicho ---
+Gastronomía & Historia — el origen y la migración de los platos que comemos
+
+--- premisa ---
+Ningún plato llegó a tu mesa por accidente: cada uno tiene un origen, un viaje y una transformación cultural. Este canal reconstruye esa historia documentada.
+
+--- tono ---
+Narrador documental cálido, con la curiosidad de quien está descubriendo la historia junto al espectador. Cita fuentes sin sonar académico o distante.
+
+--- musicPrompt ---
+Estilo: instrumental documental gastronomico calido, cuerdas suaves con toques de instrumentos regionales sutiles, tempo 75-90 BPM, sin voz, textura curiosa y acogedora. Referencias de mood: documental culinario premium, mercado de especias. Estructura: intro con una sola linea melodica, cuerpo que se enriquece con cada etapa del viaje del plato. Duracion: loop de 2 a 3 minutos. Mood: calido, curioso, documental.
+
+--- thumbnailBase ---
+16:9, black background, [CAMBIAR: plato del video] illustrated in warm sepia detail, a small trade-route line or map fragment in the corner, one third of the frame kept dark for the hook text. TENDENCIAS 2026: el gancho 'no empieza donde crees' convierte mejor que el nombre del plato solo; mostrar el plato junto a un elemento de mapa antiguo comunica la promesa documental sin necesidad de texto extra.
+
+--- styleBase ---
+Archival culinary illustration style: warm spiced sepia and deep black palette, hand-drawn ingredients, trade-route maps and period cookware rendered with fine engraved linework, aged parchment texture, a warm single light source, museum-catalog precision mixed with culinary warmth. Negative: bright saturated colors, modern kitchen photography, cartoon style, oversaturation.
+
+--- animationBase ---
+Slow reveal of a trade route drawing itself across an aged parchment map, following the exact path the narration describes, with a small illustrated icon of the ingredient or dish traveling along the line. The map background drifts almost imperceptibly for parallax. Warm sepia lighting stays constant. No camera shake, no bright colors, no modern map elements. Loopable, 5 to 8 seconds.
+
+--- lineasRojas ---
+No presentar teorias de origen no verificadas como hechos confirmados; senalar cuando existen versiones en disputa. Citar la fuente historica o academica cuando exista. No tomar partido en disputas de autoria entre paises: presentar ambas versiones documentadas.
+
+--- tiempos (7) ---
+• Hook (0-15s): el plato y la creencia popular sobre su origen.
+• Pregunta central: de verdad empezo asi?.
+• Contexto: que se sabe documentalmente sobre su origen real.
+• Desarrollo: el viaje del plato a traves de comercio, migracion o conflicto.
+• Giro: la controversia o el dato que contradice la version popular.
+• Evidencia: la fuente historica o academica que sostiene la version real.
+• Cierre circular: que representa hoy ese plato, en contraste con su origen real.
+
+--- ideas SEO (primeras 10 de 20) ---
+• La historia de la pizza no empieza donde crees
+• El plato que nació por pura necesidad
+• Por qué este plato tiene ese nombre tan extraño
+• El ingrediente que cambió una receta para siempre
+• La guerra que convirtió un plato local en comida mundial
+• El plato que dos países se disputan como propio
+• Cómo la migración creó uno de los platos más queridos del mundo
+• El plato prohibido que sobrevivió en secreto
+• Por qué este plato callejero terminó en restaurantes de lujo
+• La ruta comercial que trajo el ingrediente que hoy es esencial
+
+================================================================================
+CANAL: construccion_y_herramientas
+================================================================================
+
+--- name ---
+Construcción y Herramientas
+
+--- nicho ---
+Construcción & Herramientas — ingeniería y oficio explicados
+
+--- premisa ---
+Cada estructura que ves de pie tiene una razón de ingeniería detrás, y cada herramienta resuelve un problema específico. Este canal muestra el porqué, no solo el cómo.
+
+--- tono ---
+Instructor de oficio, directo y sin adornos. Respeta al profesional pero explica con claridad para el curioso que nunca ha sostenido esa herramienta.
+
+--- musicPrompt ---
+Estilo: instrumental industrial de taller, percusion metalica seca y pads graves, tempo 85-100 BPM, sin voz, textura directa y confiada. Referencias de mood: documental de oficio, taller en actividad. Estructura: intro directa, cuerpo constante que sostiene autoridad tecnica sin dramatismo. Duracion: loop de 2 a 3 minutos. Mood: directo, tecnico, confiado.
+
+--- thumbnailBase ---
+16:9, black background, [CAMBIAR: herramienta o estructura del video] rendered in safety-yellow isometric detail, one clear focal point, half the frame kept dark for the hook text. TENDENCIAS 2026: el gancho 'parece imposible' convierte mejor que el nombre técnico de la herramienta; el amarillo de seguridad sobre negro puro es la marca reconocible del canal en el feed.
+
+--- styleBase ---
+Industrial workshop-poster illustration style: bold safety-yellow and industrial-black palette, technical tools rendered in clean isometric exploded-view detail, fine engineering linework with dimension lines and callouts, gritty distressed poster texture, restrained documentary-industrial tone. Negative: bright saturated colors beyond yellow-black, cartoon style, photorealistic gore or injury, oversaturation.
+
+--- animationBase ---
+Slow isometric exploded-view animation: components of the tool or structure separate cleanly along construction lines, each piece highlighting exactly when the narration names its function, then reassembling smoothly at the end. Thin glowing yellow force-direction lines animate briefly to show load or movement. Background stays industrial black. No camera shake, no bright colors outside yellow-black, no depiction of injury. Loopable, 5 to 7 seconds.
+
+--- lineasRojas ---
+No dar instrucciones peligrosas sin contexto de seguridad explicito. No mostrar procedimientos que requieran certificacion profesional como si fueran caseros. Advertir siempre cuando una tecnica requiere supervision especializada.
+
+--- tiempos (7) ---
+• Resultado o pregunta directa (0-10s): el gancho visual de la estructura o herramienta.
+• Pregunta retorica que sube la apuesta: tu sabrias explicar como funciona esto?.
+• La herramienta o tecnica, presentada con precision.
+• El proceso paso a paso.
+• El error comun relacionado, mostrado como lo que casi todos hacen mal.
+• El dato tecnico o de ingenieria que respalda la explicacion.
+• Cierre circular: vuelve al resultado de apertura, ahora explicado por completo.
+
+--- ideas SEO (primeras 10 de 20) ---
+• La herramienta que todo albañil debería conocer bien
+• Cómo pueden levantar un edificio sin que se caiga
+• Esta herramienta parece inútil hasta que ves para qué sirve
+• Así se instala una estructura que soporta toneladas
+• El error que hace que una construcción falle años después
+• Por qué los rascacielos se mueven (y está bien que lo hagan)
+• La herramienta olvidada que resolvió un problema de siglos
+• Cómo se nivela una construcción sobre terreno irregular
+• El material que parece débil pero soporta más que el acero
+• Así funciona la grúa que ves en cada construcción grande
+
+================================================================================
+CANAL: organizacion_elegante
+================================================================================
+
+--- name ---
+Organización Elegante
+
+--- nicho ---
+Organización & Estética del hogar — orden como percepción de calidad
+
+--- premisa ---
+No se trata de tener más o menos estrato: se trata de que tu espacio se vea, se sienta y funcione como uno de mayor calidad. Este canal enseña el criterio, no solo el truco.
+
+--- tono ---
+Editorial y sereno, como una diseñadora de interiores explicando su criterio en voz alta. Nunca condescendiente sobre el desorden ajeno.
+
+--- musicPrompt ---
+Estilo: instrumental editorial minimalista, piano limpio y pads suaves, tempo 80-90 BPM, sin voz, textura serena y sofisticada. Referencias de mood: showroom de diseno, revista de interiores. Estructura: intro suave, cuerpo constante y sereno que nunca compite con la narracion. Duracion: loop de 2 a 3 minutos. Mood: sereno, elegante, aspiracional.
+
+--- thumbnailBase ---
+16:9, black background, [CAMBIAR: espacio del video] shown in a clean before/after split composition, bone-white accent lighting, one third of the frame kept dark for the hook text. TENDENCIAS 2026: el antes/después en la misma miniatura convierte muy por encima del resultado solo; el texto debe nombrar el error concreto ('así se ve barato tu baño'), no el tema general.
+
+--- styleBase ---
+Minimalist editorial interior-design illustration and photography style: bone-white and matte-black palette, clean straight architectural lines, soft overhead showroom lighting, generous negative space, restrained high-end catalog aesthetic. Negative: cluttered composition, warm yellow lighting, cartoon style, oversaturation, busy patterns.
+
+--- animationBase ---
+Clean editorial before/after wipe transition: a single vertical line sweeps smoothly across the frame revealing the organized after-state over the cluttered before-state, following soft overhead showroom lighting throughout. A thin geometric line or frame briefly highlights the specific design principle being applied. Background stays neutral bone-white and black. No camera shake, no decorative icons, no warm color grading. Loopable only at the final held after-shot, 5 to 7 seconds.
+
+--- lineasRojas ---
+No prometer literalmente un cambio de estatus social o economico. Ser honesta sobre el costo de contenedores o productos recomendados. No presentar el desorden ajeno de forma humillante; el tono es aspiracional, no de burla.
+
+--- tiempos (7) ---
+• El error visual reconocible (0-10s): algo que el espectador identifica en su propia casa.
+• Pregunta retorica: por que se ve asi aunque este limpio?.
+• El principio de percepcion visual o diseno detras del problema.
+• La transformacion aplicada, paso a paso.
+• El giro: el detalle pequeno que cambia la percepcion completa del espacio.
+• Evidencia visual: el antes y el despues comparados directamente.
+• Cierre circular: vuelve al error de apertura, ahora resuelto.
+
+--- ideas SEO (primeras 10 de 20) ---
+• 3 cosas que hacen que tu cocina parezca desordenada
+• Así organiza una nevera un hotel de lujo
+• El error que hace que tu baño se vea barato
+• La diferencia real entre cocina ordenada y cocina elegante
+• Cómo organizar un armario para que se vea como una tienda
+• El truco de almacenamiento que usan los diseñadores
+• Por qué menos objetos a la vista hacen que un espacio parezca más caro
+• De despensa caótica a espacio de revista
+• El error de organización que casi todos cometen en el clóset
+• Así se organiza un dormitorio para que se sienta como un hotel
+
+================================================================================
+CANAL: cronica_sagrada
+================================================================================
+
+--- name ---
+Crónica Sagrada
+
+--- nicho ---
+Historia bíblica & Arqueología — el documento detrás de la fe
+
+--- premisa ---
+La historia detrás de las historias bíblicas: manuscritos, arqueología, traducción y contexto documentado. Este canal no debate la fe; documenta lo que se sabe.
+
+--- tono ---
+Investigador de archivo, riguroso y respetuoso. Nunca ridiculiza una tradición ni presenta especulación como hallazgo confirmado.
+
+--- musicPrompt ---
+Estilo: instrumental de archivo reverente, coro lejano muy sutil y cuerdas calidas, tempo 60-75 BPM, sin voz principal, textura solemne y calida. Referencias de mood: sala de manuscritos, documental de arqueologia biblica. Estructura: intro con una nota sostenida, cuerpo que se ensancha levemente al revelar el documento. Duracion: loop de 2 a 3 minutos. Mood: reverente, calido, riguroso.
+
+--- thumbnailBase ---
+16:9, deep black background, [CAMBIAR: manuscrito, objeto o lugar del video] lit by a single warm candlelight source, aged gold and parchment palette, one third of the frame kept dark for the hook text. TENDENCIAS 2026: la pregunta 'qué sabemos realmente' convierte mejor que la afirmación directa; el oro sobre negro debe mantenerse consistente en todo el canal para construir reconocimiento.
+
+--- styleBase ---
+Illuminated-manuscript illustration style: aged parchment gold and deep black palette, fine calligraphic linework, wax seals and gilded initial letters, subtle candlelight glow, museum-archive precision mixed with reverent warmth, thin ornamental border elements. Negative: bright saturated colors, modern elements, cartoon style, oversaturation, disrespectful or mocking imagery.
+
+--- animationBase ---
+Extremely slow push-in on an illuminated manuscript page, with warm candlelight drifting gradually across the parchment so gilded details and script are revealed progressively. Fine dust motes drift through the light beam. A wax seal glints once, softly, when the key document is named. The manuscript itself stays completely rigid — no text changes, no morphing. Background stays deep black. No camera shake, no modern elements. Loopable, 6 to 9 seconds.
+
+--- lineasRojas ---
+Separar siempre fe, hecho historico documentado, interpretacion y especulacion, nombrando explicitamente en cual de las cuatro categorias se encuentra cada afirmacion. No presentar teorias como hechos. No ridiculizar ninguna tradicion religiosa. Citar fuente primaria o especialista cuando exista.
+
+--- tiempos (7) ---
+• La pregunta central (0-15s): que sabemos realmente sobre X?.
+• La version popular o tradicional, contada con respeto.
+• El documento, hallazgo o fuente historica real, descrito con precision.
+• El matiz o contradiccion que aporta la evidencia documental.
+• Cita de un historiador, arqueologo o especialista real, con atribucion explicita.
+• Lo que sigue sin resolverse, dicho con honestidad academica.
+• Cierre circular: vuelve a la pregunta de apertura, ahora respondida con la separacion clara entre fe, historia e interpretacion.
+
+--- ideas SEO (primeras 10 de 20) ---
+• Qué sabemos realmente sobre los Rollos del Mar Muerto
+• El manuscrito bíblico más antiguo jamás encontrado
+• La ciudad bíblica que la arqueología confirmó que existió
+• El error de traducción que cambió un versículo famoso
+• Qué dice la arqueología sobre el éxodo bíblico
+• El personaje bíblico que también aparece en registros históricos
+• Los textos que casi entraron en la Biblia y quedaron fuera
+• Qué sabemos del arca perdida más allá del mito
+• La ciudad bíblica que los arqueólogos siguen debatiendo
+• El hallazgo que sorprendió incluso a los escépticos
+
+================================================================================
+CANAL: reto_sobre_ruedas
+================================================================================
+
+--- name ---
+Reto sobre Ruedas
+
+--- nicho ---
+Automóviles & Retos — ingeniería, sonido y velocidad en formato de reto
+
+--- premisa ---
+No es 'mira este carro bonito': es un reto constante de conocimiento automotriz, con la ingeniería real detrás de cada pregunta.
+
+--- tono ---
+Presentador de reto, enérgico pero técnicamente preciso. Nunca sacrifica exactitud por espectacularidad.
+
+--- musicPrompt ---
+Estilo: instrumental de tension competitiva, percusion electronica seca y sintetizador de cuenta regresiva, tempo 110-125 BPM, sin voz, textura energica y precisa. Referencias de mood: reto televisivo, garage de competicion. Estructura: intro con tension creciente, pico breve en el momento de revelacion, luego se calma para la explicacion tecnica. Duracion: loop de 2 a 3 minutos. Mood: energico, competitivo, tecnico.
+
+--- thumbnailBase ---
+16:9, black background, [CAMBIAR: vehículo o reto del video] rendered as a racing-red technical silhouette or blueprint, one clear focal point, half the frame kept dark for the hook text. TENDENCIAS 2026: el formato pregunta directa ('¿reconoces esto?') convierte mejor que la afirmación descriptiva; el rojo sobre negro es la marca reconocible del canal en el feed.
+
+--- styleBase ---
+Automotive blueprint illustration style: bold racing-red and asphalt-black palette, technical vehicle silhouettes rendered with fine engineering linework and dimension callouts, subtle motion-blur speed lines suggesting velocity, grid-paper texture background, restrained motorsport-technical tone. Negative: bright colors beyond red-black, cartoon style, photorealistic crash or damage imagery, oversaturation.
+
+--- animationBase ---
+Fast-paced reveal countdown: a technical blueprint silhouette of the vehicle illuminates progressively in racing red — engine block first, then body outline, then final detail — building tension toward a snap reveal at zero. Thin motion-blur speed lines flash briefly at the reveal moment only. Background stays asphalt-black grid texture. No camera shake beyond a single quick snap at reveal, no crash or damage imagery, no bright colors outside red-black. Loopable during the countdown segment, 3 to 5 seconds.
+
+--- lineasRojas ---
+Priorizar material original, ilustrado o correctamente licenciado antes que clips de terceros sin autorizacion. No inventar cifras tecnicas: citar fuente cuando se compare rendimiento real. No fomentar conduccion peligrosa ni exceso de velocidad como algo deseable.
+
+--- tiempos (7) ---
+• El reto (0-5s): planteado de inmediato, sin introduccion.
+• La pista o el contexto minimo necesario para intentar responder.
+• Pregunta retorica: tu lo reconocerias?.
+• La tension sostenida unos segundos antes de revelar.
+• La respuesta.
+• El dato tecnico o de ingenieria que explica el porque de la respuesta.
+• Cierre con loop/CTA: invita a comentar la propia respuesta o pedir la siguiente ronda del reto.
+
+--- ideas SEO (primeras 10 de 20) ---
+• Solo los verdaderos fanáticos reconocerán estos motores por su sonido
+• Adivina el auto solo por su silueta
+• V8 contra V6: ¿cuál tiene realmente la ventaja?
+• ¿Qué pasaría si este auto tuviera el doble de potencia?
+• Este auto de caricatura, llevado a la realidad
+• Por qué este vehículo tiene esa entrada de aire tan particular
+• La razón de ingeniería detrás del alerón que todos ignoran
+• Adivina el vehículo solo por el sonido del motor
+• El error de diseño que un fabricante nunca reconoció
+• Motor turbo contra motor atmosférico: la diferencia real

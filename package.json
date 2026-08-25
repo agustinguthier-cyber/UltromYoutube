@@ -1,0 +1,10 @@
+{
+  "name": "ultromyoutube",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Servidor local para UltromYoutube: sirve ultrom-estudio.html y expone /api/generate-script.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

@@ -1,0 +1,980 @@
+{
+  "generatedAt": "2026-08-24T06:19:40.761Z",
+  "sourceFiles": [
+    "vol1_channels_extracted.txt",
+    "vol2_channels_extracted.txt",
+    "vol3_channels_extracted.txt",
+    "vol4_channels_extracted.txt"
+  ],
+  "totalChannels": 26,
+  "channels": [
+    {
+      "id": "senal_prohibida",
+      "source": "vol1_channels_extracted.txt",
+      "name": "Señal Prohibida",
+      "nicho": "Cultura Digital & Misterio — narrativa de revelación oculta",
+      "premisa": "Todo lo que te contaron tiene una versión anterior, más incómoda y más real. El canal recupera el original que fue suavizado, censurado o convertido en cuento para dormir.",
+      "tono": "Confidencia nocturna: voz baja, frases cortas, ritmo de quien revela algo que no debería. Nunca grita, sugiere.",
+      "vozMezcla": "PERFIL DE VOZ — SEÑAL PROHIBIDA\n\nEscribe exclusivamente con el estilo verbal y lingüístico de Señal Prohibida.\n\nIMPORTANTE:\nEste prompt NO define la estructura narrativa del video.\nNo debes decidir el hook, los actos, los giros, la investigación ni el orden de la información.\nEste prompt define únicamente CÓMO HABLA EL NARRADOR.\n\nLa voz debe sentirse como una conversación nocturna.\n\nNo como una narración de documental.\nNo como una noticia.\nNo como un presentador de televisión.\nNo como un locutor de radio exagerado.\n\nLa sensación debe ser:\n\n\"Ven, siéntate un momento. Hay algo sobre esta historia que probablemente nunca te contaron.\"\n\nPERSONALIDAD:\n\nCalmada.\nSegura.\nObservadora.\nÍntima.\nMisteriosa.\nLigeramente irónica.\n\nEl narrador no necesita demostrar que sabe algo.\n\nHabla como alguien que ya descubrió la información y ahora está compartiendo contigo la parte que normalmente queda fuera de la historia oficial.\n\nNunca grita.\n\nNunca fuerza el misterio.\n\nNunca utiliza palabras como \"INCREÍBLE\", \"ATERRADOR\", \"ESCALOFRIANTE\" o \"IMPACTANTE\" como sustituto de una buena narración.\n\nLa información debe generar el misterio.\n\nFORMA DE HABLAR:\n\nPredomina la segunda persona.\n\nHabla directamente al espectador:\n\n\"Piensa por un segundo...\"\n\"Imagina que...\"\n\"Ahora mira esto...\"\n\"Lo curioso es que...\"\n\"Y aquí es donde la historia cambia.\"\n\nUtiliza frases cortas y medias.\n\nLas frases cortas deben aparecer después de información importante para permitir que el dato respire.\n\nEjemplo:\n\n\"El documento apareció en 1897.\n\nY nadie sabía exactamente por qué estaba allí.\"\n\nNo llenes todos los espacios.\n\nEl silencio conceptual también forma parte de la voz.\n\nRITMO:\n\nLento, pero nunca aburrido.\n\nLa narración debe avanzar mediante descubrimientos.\n\nCada bloque de información debe sentirse como si revelara una capa más.\n\nEvita explicar una conclusión antes de tiempo.\n\nNo digas:\n\n\"Lo que ocurrió fue una manipulación histórica.\"\n\nMejor:\n\n\"Durante años se contó de una manera.\n\nDespués apareció otro documento.\n\nY entonces algunas fechas dejaron de encajar.\"\n\nEl espectador debe sentir que está descubriendo la respuesta junto al narrador.\n\nLÉXICO:\n\nEspañol natural, culto pero accesible.\n\nNo uses palabras rebuscadas solamente para parecer inteligente.\n\nUsa vocabulario como:\n\n\"curiosamente\"\n\"lo extraño\"\n\"hay un detalle\"\n\"lo que nadie suele mencionar\"\n\"la versión que conocemos\"\n\"el registro\"\n\"el documento\"\n\"la historia oficial\"\n\"la otra versión\"\n\"y aquí aparece el problema\"\n\"pero hay algo más\"\n\"lo interesante es...\"\n\"si seguimos el rastro\"\n\"y entonces encontramos...\"\n\nLas palabras deben sentirse propias de una persona que investiga, no de una IA intentando sonar misteriosa.\n\n\"bro\" puede aparecer como una marca de cercanía.\n\nMáximo 1-2 veces por guion.\n\nNunca usar \"papi\" ni \"hermano\".\n\nHUMOR:\n\nMuy sutil.\n\nEl humor debe ser una pequeña sonrisa del narrador.\n\nNunca una broma.\n\nEjemplo:\n\n\"Y sí, técnicamente todo estaba perfectamente documentado.\n\nEl pequeño problema era que el documento decía exactamente lo contrario.\"\n\nEse tipo de ironía es preferible a un chiste.\n\n\"Eso está brutality\" puede utilizarse excepcionalmente cuando un dato sea especialmente absurdo, perturbador o revelador.\n\nNo más de 1-2 veces por guion.\n\nMISTERIO:\n\nNunca uses misterio mediante exageración.\n\nNo digas:\n\"Lo que vas a descubrir te dejará sin dormir.\"\n\nDi:\n\"El problema es que ese documento sigue existiendo.\"\n\nNo digas:\n\"Una verdad que quisieron ocultarte.\"\n\nDi:\n\"Lo extraño es que la primera versión de esta historia desapareció de los registros posteriores.\"\n\nEl misterio nace de la contradicción.\n\nLa voz debe preferir:\n\ndato → pausa → contradicción → pregunta\n\nen lugar de:\n\nadjetivo → exageración → amenaza.\n\nTONO EMOCIONAL:\n\nEl narrador parece tranquilo incluso cuando cuenta algo perturbador.\n\nEsta contradicción es fundamental.\n\nCuanto más extraño sea el dato, más controlada debe ser la voz.\n\nNo dramatices verbalmente aquello que ya es suficientemente extraño por sí mismo.\n\nFUENTES:\n\nCuando exista una fuente, intégrala naturalmente:\n\n\"El registro aparece en...\"\n\"Según el documento...\"\n\"El historiador X escribió...\"\n\"En el archivo de...\"\n\nNunca inventes una fuente.\n\nNunca presentes una teoría como hecho.\n\nDistingue siempre entre:\n\n\"esto está documentado\"\n\ny\n\n\"esto es una interpretación.\"\n\nREGLA DE ORO:\n\nEl narrador nunca parece estar intentando convencer al espectador.\n\nParece estar enseñándole algo.\n\nNo dice:\n\n\"Créeme.\"\n\nDice:\n\n\"Mira el documento.\"\n\nNo dice:\n\n\"Esto demuestra que...\"\n\nDice:\n\n\"Y aquí aparece una contradicción.\"\n\nNo dice:\n\n\"Te están ocultando la verdad.\"\n\nDice:\n\n\"Hay una parte de la historia que dejó de aparecer en las versiones posteriores.\"\n\nRESULTADO BUSCADO:\n\nEl espectador debe sentir que está escuchando a alguien hablar en voz baja durante la noche sobre una historia que tiene una segunda capa.\n\nLa voz debe provocar:\n\n\"Espera... nunca había pensado en eso.\"\n\nNo:\n\n\"Este narrador está intentando asustarme.\"\n\nREGLA FINAL:\n\nEscribe como una persona inteligente que conversa lentamente con alguien inteligente.\n\nMenos espectáculo.\n\nMás presencia.\n\nMenos adjetivos.\n\nMás datos.\n\nMenos explicación del misterio.\n\nMás misterio producido por la información.",
+      "musicPrompt": "Estilo: synthwave oscuro y analogo, instrumental, tempo 80-95 BPM, sintetizadores tipo VHS con saturacion leve y eco largo, pulso de bajo constante tipo señal de transmision. Referencias de mood: Carpenter synth, dark ambient de found-footage. Estructura: intro con textura de estatica, cuerpo con pulso hipnotico sostenido. Duracion: loop de 2 a 3 minutos. Mood: paranoico, confidencial, urgente pero contenido.",
+      "thumbnailBase": "16:9 archival restoration documentary thumbnail: a single dominant historical document, artifact, or engraving centered on a dark wooden archive table, aged parchment against charcoal-black surroundings, muted gold and oxidized bronze accent lighting, a visible red-oxide classification stamp or redaction bar as a focal detail, soft directional light creating strong contrast against the dark background, one third of the frame kept darker and clearer for a text hook, museum-scan realism with subtle film grain. Extreme contrast for readability at 120px. Negative: neon colors, glossy CGI, cartoon style, clutter, modern elements, more than one focal point.",
+      "styleBase": "Archival restoration documentary style: a cinematic frame that looks like a genuine historical dossier recovered from a forgotten library, government archive, or private vault. Aged parchment and yellowed paper dominate the composition, with worn edges, folds, tears, coffee stains, ink bleed, wax seals, string ties, redaction bars, and official classification stamps, arranged like a carefully laid out investigation board rather than a movie poster. Color palette: charcoal black background (#111111), aged parchment (#E8DFC9), ink black (#2B2B2B), oxidized bronze (#8A6A2F), muted gold (#C9A227) for highlights, and deep red oxide (#8B2E24) reserved for stamps and warning marks. High contrast between the dark surroundings and an illuminated central document, soft directional light from above or one side. Typography feel present in frame: classic editorial serif titles, typewriter body text, handwritten archivist notes, a visible archive code (e.g. SP-027), and a classification mark such as CLASIFICADO or ACCESO RESTRINGIDO. One dominant document or artifact occupies the center, surrounded by supporting photographs, manuscript fragments, maps, and marginal notes, with generous negative space around the focal point. Any illustrated human figures, historical scenes, or artwork shown within the documents follow a nineteenth-century engraving and Renaissance manuscript restoration technique: fine black ink linework with dense cross-hatching, etched textures, ornamental borders, in the style of Gustave Dore and antique woodcuts, solemn and symbolic rather than expressive, museum-restoration quality. Texture: museum-grade scan realism, paper fiber and dust, subtle film grain, gentle vignette, as if photographed on a dark wooden archive table. Negative: neon colors, futuristic interfaces, glossy CGI, modern UI, cartoon style, anime, 3D rendering, exaggerated horror monsters, perfectly clean paper.",
+      "animationBase": "Suspense-driven documentary reveal, built to match an escalating narrative beat rather than a constant camera drift: the archival object begins partially obscured by shadow, a redaction bar or an overlapping document, then a slow directional light sweep or a redaction bar sliding away progressively uncovers the key detail exactly as the narration reveals it. Combine this reveal-timing with a gentle 5 to 8% push-in and a slight depth parallax between stacked documents, photographs and manuscript layers. Every paper, engraving, photograph and stamp stays perfectly rigid: no morphing, warping, redrawing or AI-style deformation. Only ambient environmental motion is allowed: drifting dust particles, faint paper fibers catching the light, barely visible haze, and a soft fluctuation of warm archival lighting from an unseen desk lamp. At the darker twist or escalation beats, the reveal accelerates slightly and the warm key light briefly intensifies on the critical detail, then settles back to the slow documentary pace for the next beat. No character animation, no lip movement, no walking, no dramatic camera shake, no sudden zooms, no new objects entering frame. Subtle film grain and gentle analog aging without obvious VHS artifacts. Contemplative but tension-building, as if a conservator's light is uncovering something the archive tried to hide, one layer at a time. Loopable, 5 to 8 seconds per shot.",
+      "lineasRojas": "No afirmar como hecho historico lo que es interpretacion o teoria. No reproducir textos religiosos o literarios extensos. No presentar grupos religiosos reales como sectas sin base documental. No usar tragedias reales recientes como material de misterio.",
+      "tiempos": [
+        "Apertura inmersiva en 2a persona (0-10s): coloca al espectador dentro de la version que todos conocen, sin decir aun que es falsa (\"nos dijeron que X era Y\").",
+        "El giro oscuro: la primera revelacion que voltea esa creencia por completo (\"pero la version original... dice algo muy distinto\").",
+        "La sensacion de encierro: el detalle que convierte lo que parecia inocente o un refugio en algo siniestro o una trampa.",
+        "El golpe emocional: la consecuencia humana concreta de ese giro — a quien afecto, que le arrebataron, que perdio.",
+        "La escalada: el dato que sube la apuesta un nivel mas, anclado a fecha, fuente o cifra real y verificable.",
+        "La revelacion psicologica: el mecanismo o rasgo oculto de la figura central, nombrado con precision y con un nombre propio, nunca con un adjetivo generico.",
+        "La redencion del villano: voltear al antagonista aparente en victima, protector o alguien que conocia la verdad (\"¿y si el monstruo no era quien pensabas?\").",
+        "La metafora existencial: conectar el caso concreto con un miedo humano universal — el tiempo, el olvido, crecer, quedarse solo.",
+        "El regalo (antepenultimo tiempo, obligatorio): una pieza concreta de informacion factual, historica o tecnica -verificable, no inventada- que recontextualiza todo lo anterior de golpe. Es el pago por haber llegado hasta aca: el espectador se lleva un dato real que no sabia, dicho con precision y sin relleno, nunca una reflexion generica.",
+        "Cierre circular: se regresa a la escena o pregunta de apertura, ahora vista de otra forma a la luz del regalo del paso anterior, sin resolver del todo la pregunta de fondo.",
+        "Humanizacion final: la ultima linea vuelve vulnerable a quien parecia villano o invencible, dejando una pregunta emocional abierta, no un dato de cierre."
+      ],
+      "ideasSEO": {
+        "total": 50,
+        "muestra": [
+          "La versión original de Peter Pan que Disney nunca mostró",
+          "El verdadero final de La Sirenita que Disney cambió por completo",
+          "Los cuentos de los Hermanos Grimm que fueron censurados por ser demasiado violentos",
+          "Caperucita Roja antes de Disney y Perrault: el final que casi nadie conoce",
+          "El Pinocho original de Carlo Collodi tenía un final completamente distinto",
+          "Blancanieves original: el castigo que Disney eliminó",
+          "La Bella Durmiente original que hoy sería un cuento perturbador",
+          "El Flautista de Hamelín: la evidencia histórica detrás de la leyenda",
+          "Barba Azul: el origen histórico del cuento del cuarto prohibido",
+          "Lo que el mito de Ícaro significaba realmente antes de ser reinterpretado"
+        ]
+      }
+    },
+    {
+      "id": "manual_de_campo",
+      "source": "vol1_channels_extracted.txt",
+      "name": "Manual de Campo",
+      "nicho": "Ciencia & Cuerpo — supervivencia y límites reales",
+      "premisa": "El cuerpo humano tiene un limite exacto para cada cosa: frio, sed, hambre, altura, miedo. El canal enseña donde esta ese limite y que hacer antes de llegar a el.",
+      "tono": "Instructor de campo veterano. Calmado, practico, sin dramatismo. Cada video deja una habilidad concreta.",
+      "vozMezcla": "El instructor de campo ahora tiene personalidad: sigue siendo calmado y práctico, pero se permite un comentario seco o irónico ocasional (ej. 'esto no perdona errores'), sin apodos ni restarle seriedad al procedimiento. Reserva una frase corta y directa para el dato fisiológico más extremo de cada video, como forma de subrayar la gravedad sin sonar alarmista. Regla estricta: el humor nunca compite con la instrucción ejecutable — va antes o después del paso técnico, jamás mezclado dentro de él.",
+      "musicPrompt": "Estilo: folk instrumental minimalista, guitarra acustica suave y percusion organica ligera (palmas, madera), tempo 85-100 BPM, sin voz. Referencias de mood: banda sonora de documental de naturaleza y supervivencia. Estructura: intro con ambiente de bosque, cuerpo con ritmo constante que no compite con la narracion. Duracion: loop de 2 a 3 minutos. Mood: templado, confiable, alerta pero sereno.",
+      "thumbnailBase": "16:9 hand-drawn ink-and-watercolor illustration on kraft paper, warm earthy palette, thin black panel border, one clear focal action or object occupying one side of the frame, the opposite third left clear for text, warm backlit haze, showing the error or danger clearly (not just the object) so the thumbnail poses a problem. Optional: a hand-drawn charcoal X over the wrong element for warning-type videos. Negative: neon colors, cold tones, clutter, flat vector art.",
+      "styleBase": "Hand-drawn illustrated field-journal style on a visibly textured kraft-paper background, warm earthy palette of olive green, ochre, umber and muted tan, visible black ink linework with cross-hatching and loose sketch marks, soft watercolor-style shading over clean outlines, semi-realistic human proportions with slightly stylized faces, warm hazy backlighting through forest trees fading into mist, thin black border frame around the panel like a comic viñeta, rustic outdoor survival setting, muted vintage color grading, analog hand-painted feel with no glossy digital rendering. Negative: neon colors, glossy digital render, photorealistic skin, cold blue tones, flat vector art, oversaturation.",
+      "animationBase": "Gentle 2.5D parallax camera move: slow lateral pan of 6 to 10% combined with a very slight push-in. Separate the illustration into depth layers: foreground foliage moves fastest, the character stays anchored and rigid, distant misty trees move slowest. Keep every ink line crisp and unchanged, no warping or redrawing of linework. Add only ambient life: drifting leaves, soft haze, dust motes in backlight, barely visible paper-grain shimmer. No character animation, no walking cycle. Warm light stays constant. Loopable, 5 to 7 seconds.",
+      "lineasRojas": "No dar procedimientos medicos que requieran entrenamiento profesional como si fueran caseros. Siempre indicar cuando la respuesta correcta es buscar ayuda o rescate. No romantizar el riesgo. No incluir instrucciones sobre armas, explosivos ni trampas que puedan herir a personas.",
+      "tiempos": [
+        "Escena fisica en 2a persona (0-10s): el espectador ya esta en la situacion, se le mete dentro sin explicarla primero.",
+        "La pregunta retorica que sube la apuesta (\"que harias en los proximos diez minutos?\").",
+        "El mecanismo del cuerpo, nombrado con precision pero en lenguaje llano.",
+        "El error comun, mostrado como lo que haria casi cualquiera en esa misma escena.",
+        "El procedimiento correcto, en pasos numerados y ejecutables.",
+        "Un caso real documentado que confirma el patron, con nombre y fuente cuando exista.",
+        "Cierre circular: se vuelve a la escena de apertura, resuelta, con la regla memorizable como ultima linea."
+      ],
+      "ideasSEO": {
+        "total": 50,
+        "muestra": [
+          "Cuánto tiempo puedes sobrevivir sin agua y qué le pasa a tu cuerpo",
+          "Hipotermia: el momento en que dejas de sentir frío antes de morir",
+          "Golpe de calor: las señales que aparecen antes del colapso",
+          "La intoxicación por agua: cuando beber demasiado se vuelve mortal",
+          "Cuánto puedes caminar realmente en una emergencia",
+          "Qué le pasa a tu cuerpo en las primeras 24 horas sin comida",
+          "Por qué sudar en clima frío puede llevarte a la hipotermia",
+          "La regla de los 3 que usan los instructores de supervivencia",
+          "Qué le pasa al cuerpo durante una noche bajo cero",
+          "Cómo la deshidratación afecta tu cerebro antes de que tengas mucha sed"
+        ]
+      }
+    },
+    {
+      "id": "archivo_de_contencion",
+      "source": "vol1_channels_extracted.txt",
+      "name": "Archivo de Contención",
+      "nicho": "Cultura Digital & Ficción Colaborativa — horror de contención",
+      "premisa": "Existe un archivo donde cada cosa imposible tiene un numero, un protocolo y un accidente que nadie quiso firmar. El canal lee esos expedientes en voz alta.",
+      "tono": "Informe leido por un investigador cansado. Frio, burocratico, preciso. El horror no esta en el grito, esta en el procedimiento redactado con calma.",
+      "vozMezcla": "PERFIL DE VOZ — ARCHIVO DE CONTENCIÓN\nFUSIÓN: SEÑAL PROHIBIDA + REGISTRO DE CONTENCIÓN\n\nEscribe exclusivamente con la voz verbal de Archivo de Contención.\n\nIMPORTANTE:\nEste prompt NO define la estructura narrativa del expediente.\nNo decide las escenas, los acontecimientos ni el orden de los acontecimientos.\n\nSu única función es definir:\n- léxico\n- personalidad\n- sintaxis\n- ritmo\n- registro emocional\n- relación con el oyente\n- manera de presentar información\n\nBASE DE LA VOZ:\n\nLa voz principal es la de un investigador que está leyendo un expediente real.\n\nFrío.\nPreciso.\nCansado.\nBurocrático.\nMetódico.\n\nPero debajo de esa capa existe una persona.\n\nEsa persona lleva demasiado tiempo leyendo estos archivos.\n\nAhí entra la influencia de Señal Prohibida.\n\nEl narrador puede, ocasionalmente, apartarse durante una fracción de segundo del lenguaje institucional y hablarle directamente al oyente.\n\nPero vuelve inmediatamente al registro.\n\nLa fórmula es:\n\nREGISTRO → DATO → REGISTRO → PEQUEÑA FILTRACIÓN HUMANA → REGISTRO.\n\nNunca:\n\nREGISTRO → CHISTE → REGISTRO.\n\nPERSONALIDAD:\n\nImagina a un investigador que ya no se sorprende fácilmente.\n\nHa visto demasiados expedientes.\n\nPor eso no necesita decir:\n\n\"Esto es aterrador.\"\n\nSimplemente lee:\n\n\"Después del incidente se modificó el protocolo 7-C.\"\n\nY el espectador entiende que algo grave ocurrió.\n\nLa indiferencia profesional frente a lo imposible es una de las principales fuentes de horror.\n\nFORMA DE HABLAR:\n\nUsa frases precisas.\n\nEvita florituras.\n\nEvita metáforas innecesarias.\n\nEvita adjetivos emocionales.\n\nPrefiere:\n\n\"El objeto fue trasladado.\"\n\na:\n\n\"El objeto fue llevado de manera misteriosa.\"\n\nPrefiere:\n\n\"El procedimiento existe por una razón específica.\"\n\na:\n\n\"Existe un terrible secreto detrás de este procedimiento.\"\n\nEl horror debe aparecer mediante información objetiva.\n\nLENGUAJE:\n\nUtiliza vocabulario institucional:\n\n\"expediente\"\n\"registro\"\n\"protocolo\"\n\"incidente\"\n\"personal autorizado\"\n\"nivel de acceso\"\n\"observación\"\n\"anexo\"\n\"clasificación\"\n\"procedimiento\"\n\"contención\"\n\"evento\"\n\"registro posterior\"\n\"incumplimiento\"\n\"aislamiento\"\n\"evaluación\"\n\"revisión\"\n\"documentación\"\n\nPero no abuses de la jerga.\n\nDebe parecer un documento escrito por personas, no un generador de palabras corporativas.\n\nFUSIÓN CON SEÑAL PROHIBIDA:\n\nEn momentos específicos puedes hablarle directamente al espectador.\n\nEjemplos:\n\n\"Si estuvieras dentro de la sala, probablemente no lo notarías.\"\n\n\"Y aquí conviene detenerse un segundo.\"\n\n\"Porque tú lo verías como una puerta normal.\"\n\n\"Pero el protocolo dice otra cosa.\"\n\nEsta segunda persona debe ser ocasional.\n\nNo conviertas el expediente en una conversación.\n\n\"BRO\":\n\nPuede aparecer como una filtración humana excepcional.\n\nMáximo una vez por guion.\n\nDebe sentirse accidental.\n\nEjemplo:\n\n\"El informe especifica que la puerta no debe abrirse bajo ninguna circunstancia.\n\nBro... viendo lo que ocurrió después, probablemente era una buena recomendación.\"\n\nDespués vuelve inmediatamente al registro:\n\n\"El protocolo fue actualizado al día siguiente.\"\n\nNo uses \"papi\", \"hermano\", \"crack\" ni expresiones excesivamente informales.\n\n\"ESO ESTÁ BRUTALITY\":\n\nPuede utilizarse UNA sola vez.\n\nÚnicamente cuando aparezca el dato más perturbador o absurdo del expediente.\n\nDebe parecer que al investigador se le escapó.\n\nEjemplo:\n\n\"El objeto permaneció inmóvil durante 19 días.\n\nEl día veinte apareció en el interior de una habitación cerrada.\n\nEso está brutality.\n\nSegún el registro, nadie abrió la puerta.\"\n\nDespués no vuelvas a utilizar la expresión.\n\nHUMOR:\n\nCasi inexistente.\n\nNo hay chistes.\n\nNo hay punchlines.\n\nLa ironía surge de la burocracia.\n\nEjemplo:\n\n\"El procedimiento número 4 fue considerado innecesario.\n\nTres semanas después, dejó de considerarse innecesario.\"\n\nEse es el tipo de humor permitido.\n\nEL HORROR:\n\nNunca describas el horror diciendo que algo da miedo.\n\nHaz que el espectador llegue solo a esa conclusión.\n\nNO:\n\n\"Era una criatura extremadamente aterradora.\"\n\nSÍ:\n\n\"El personal reportó que la criatura imitaba la voz de la persona que acababa de salir de la habitación.\"\n\nNO:\n\n\"El protocolo era aterrador.\"\n\nSÍ:\n\n\"El protocolo exige que nadie responda cuando la voz pronuncie su nombre.\"\n\nLa segunda versión siempre tiene prioridad.\n\nRITMO:\n\nControlado.\n\nPausado.\n\nCon sensación de lectura documental.\n\nPero no monótono.\n\nAlterna:\n\nfrase técnica\ndato concreto\nfrase corta\ndetalle extraño\nsilencio conceptual\nnuevo dato.\n\nLas frases cortas deben reservarse para los momentos importantes.\n\nEjemplo:\n\n\"El procedimiento funcionó durante ocho años.\n\nHasta el martes.\n\nEl martes, la puerta apareció abierta.\"\n\nRELACIÓN CON EL OYENTE:\n\nEl narrador no intenta asustar al espectador.\n\nLe está permitiendo leer un documento que probablemente no debería estar leyendo.\n\nLa sensación debe ser:\n\n\"Yo encontré este archivo y ahora tú también lo estás viendo.\"\n\nNo:\n\n\"Te voy a contar una historia de terror.\"\n\nFUENTES Y FICCIÓN:\n\nSi el expediente pertenece a ficción colaborativa o al universo SCP, deja claro cuando corresponda que se trata de ficción y respeta la atribución/licencia correspondiente.\n\nNunca presentes una historia ficticia como un caso real.\n\nSi utilizas elementos reales, diferencia claramente el material documentado de la ficción.\n\nNo inventes fuentes reales para darle autenticidad.\n\nREGLA DE ORO:\n\nEl narrador nunca grita.\n\nNunca intenta parecer aterrador.\n\nNunca explica por qué algo es aterrador.\n\nSimplemente documenta.\n\nY cuanto más extraño sea lo que documenta, más normal debe parecer su voz.\n\nRESULTADO BUSCADO:\n\nEl espectador debe sentir que está escuchando una grabación de alguien que lleva años trabajando en un lugar donde lo imposible se convirtió en trabajo administrativo.\n\nLa influencia de Señal Prohibida debe aportar:\n\n- intimidad\n- segunda persona ocasional\n- sensación de confidencia\n- pequeñas pausas\n- ironía seca\n- una personalidad humana reconocible\n\nPero la identidad dominante siempre debe ser:\n\nARCHIVO.\n\nPROTOCOLO.\n\nREGISTRO.\n\nCONTENCIÓN.\n\nNo conviertas Archivo de Contención en un podcast de misterio.\n\nHaz que parezca un expediente que accidentalmente aprendió a hablar.",
+      "musicPrompt": "Estilo: drone institucional oscuro, zumbido constante de sala de maquinas, tonos graves sostenidos, sin melodia reconocible, sin voz. Referencias de mood: ambiente de instalacion abandonada, horror atmosferico minimalista. Estructura: capa de zumbido continuo con un solo golpe seco en el momento de mayor tension. Duracion: loop de 2 a 3 minutos. Mood: opresivo, clinico, contenido.",
+      "thumbnailBase": "16:9 dark containment-facility concept art, the anomaly or object centered in a dim concrete room lit by a single overhead lamp, gray-green desaturated palette with one red warning light, film grain, deep shadows, the entity rendered more photorealistic than the painted environment around it, one side of the frame kept dark for a stencil file-number and hook text. Showing the anomaly partially hidden (shadow, cropped, out of focus) reads better than showing it fully. Negative: bright colors, clean architecture, cartoon style.",
+      "styleBase": "Dark atmospheric institutional horror concept art, cold desaturated gray-green-rust palette, concrete containment corridors with riveted steel doors, harsh fluorescent overhead lighting with long hard shadows, distant red emergency lamps, loose sketchy linework beneath painterly shading, fine film grain, oppressive claustrophobic framing, stencil numbering painted on walls. The central anomaly or entity, when shown, is rendered noticeably more photorealistic than the painted environment for visual contrast, lit by a single overhead lamp, shallow depth of field, unsettling stillness. Negative: bright saturated colors, warm sunny light, cute design, pristine clean architecture, gore.",
+      "animationBase": "Locked-off surveillance-camera framing for environment shots: absolutely static frame or an extremely slow 4% push-in, with CCTV artifacts (subtle interlacing, low-frequency fluorescent flicker, occasional single-frame dropout, timestamp-style noise, heavy grain). Nothing in frame moves except the light. When the anomaly itself is shown, the environment stays completely still while the entity performs one single minimal action (a head tilt, a step that ends before completing) between two flickers of light, unnaturally slow and ending abruptly. No camera shake, no dramatic zoom, no gore.",
+      "lineasRojas": "El material de tipo SCP de la comunidad requiere atribucion y licencia CC BY-SA si se usa. Marcar con claridad que es ficcion. Sin gore explicito ni violencia grafica: el horror es atmosferico y procedimental. No usar personas reales ni tragedias recientes como material de expediente.",
+      "tiempos": [
+        "Encabezado de expediente (0-10s): clasificacion, numero, una sola linea que ya inquieta por su sequedad.",
+        "Descripcion tecnica del objeto o entidad, medida y sin adjetivos dramaticos.",
+        "Procedimientos de contencion, con la pregunta retorica de por que existe cada regla.",
+        "El incidente: el registro del dia en que un procedimiento fallo, contado como informe, no como relato de miedo.",
+        "Una nota al margen, casi al pasar, con el dato que de verdad inquieta.",
+        "Cierre circular: se regresa al encabezado del expediente, ahora con una linea añadida y sin cerrar del todo."
+      ],
+      "ideasSEO": {
+        "total": 50,
+        "muestra": [
+          "El expediente que solo se puede leer una vez",
+          "El objeto que cambia cuando lo dejas de mirar",
+          "La entidad que solo se mueve en la oscuridad",
+          "El protocolo que existe por un solo accidente",
+          "La sala que nadie puede volver a abrir",
+          "El expediente donde el cielo existe y es la peor condena",
+          "El objeto que responde preguntas que no le hiciste",
+          "La entidad que imita a las personas que la observan",
+          "El documento que cambia según quién lo lee",
+          "El sonido que no debería poder grabarse"
+        ]
+      }
+    },
+    {
+      "id": "monstruos_de_la_red",
+      "source": "vol1_channels_extracted.txt",
+      "name": "Monstruos de la Red",
+      "nicho": "Tecnología & Fraude — crimen, manipulación y engaño digital",
+      "premisa": "Cada caso empieza con alguien que parecia normal y termina con una pregunta: como no lo vimos antes? El canal reconstruye el mecanismo del engaño, no el morbo del daño.",
+      "tono": "Investigador que arma un expediente en voz alta. Dos registros: relato al narrar el pasado del caso, reporte al narrar la investigacion. Siempre respetuoso con las victimas.",
+      "vozMezcla": "Aplica el blend con mano ligera y un tono más serio que el resto de los canales: prioriza la estructura documental (dos registros — relato en el pasado, informe en el presente) con muy poco humor explícito. Permitite un gesto de cercanía esporádico solo en los momentos de mayor tensión narrativa (no más de una vez por guion), y reserva una frase corta y directa para el giro más impactante del caso, usado como mucho una vez. El objetivo es que se sienta serio y cercano a la vez, nunca cómico.",
+      "musicPrompt": "Estilo: tension noir electronica, pulso de bajo grave y sintetizador frio, percusion minimalista tipo reloj, sin voz. Referencias de mood: score de true-crime/thriller de investigacion. Estructura: capa ambiental sostenida con un acento ritmico cada 4 compases. Duracion: loop de 2 a 3 minutos. Mood: expectante, investigativo, tenso pero controlado.",
+      "thumbnailBase": "16:9 teal-and-red graded thumbnail, split composition: the subject of the case on one side, a piece of evidence on the other, low-key single-source lighting, deep shadows, one third of the frame kept dark for hook text, heavy grain. Use the illustrated duotone style if the video is mostly historical account, or the photorealistic style if it's a current investigation — never mixed in the same thumbnail. A clear emotion on a face plus one evidence object works better than a face alone. Negative: blood, elements that could trigger platform restrictions, more than 5 words of text.",
+      "styleBase": "Two-timeline duotone style. PAST scenes: dark graphic-novel illustration, bold visible ink linework with dramatic crosshatching and sketchy texture, teal and deep blood-red duotone grading, a single hard light source casting long shadows, gritty comic-book rendering, tense unsettling faces, ash and grain overlay. PRESENT scenes: photorealistic cinematic still, teal and warm amber grading, moody low-key lighting from a single practical source, shallow depth of field, subtle film grain, cold institutional or noir urban setting, evidence objects alone in frame, people seen from behind or in profile. The constant teal tone across both is what keeps one identity. Negative: mixing illustration and photorealism in the same frame, gore, real identifiable faces.",
+      "animationBase": "PAST (illustrated): comic-panel motion — the panel enters with a slow lateral push, ink linework revealing itself progressively as if being drawn, hard shadows sliding across faces, red light pulsing once at the dramatic beat, paper grain and ash drifting. Characters stay rigid, only light/shadow/reveal move. 3 to 5 seconds. PRESENT (realistic): very slow push-in or lateral dolly across the evidence object, shallow focus rack once, teal-amber grading, dust in the light beam, subtle handheld breath, animated overlays (redaction bars sliding closed, timestamps counting, connection lines drawing). 4 to 6 seconds. Never mix past and present style in the same shot. No gore, no real identifiable faces.",
+      "lineasRojas": "Nunca enseñar como ejecutar una estafa, clonar una voz o construir un deepfake: solo como detectarlos y protegerse. No acusar de delitos a personas no condenadas ni identificar a menores o victimas no publicas. No romantizar al perpetrador. En casos con violencia, evitar el detalle grafico gratuito.",
+      "tiempos": [
+        "Gancho del caso (0-15s): un detalle concreto e inexplicable, sin adelantar el desenlace.",
+        "[PASADO] narrado como relato: como se construyo el engaño, paso a paso, con tension narrativa.",
+        "La pregunta retorica que separa los dos tiempos (\"como se descubrio todo esto?\").",
+        "[PRESENTE] narrado como informe: la investigacion, la evidencia, quien lo destapo.",
+        "El mecanismo psicologico o tecnico nombrado con precision.",
+        "Cita de un especialista o de un libro real, con atribucion explicita.",
+        "Cierre circular: vuelve al detalle inexplicable de la apertura, ahora explicado, con la señal de alerta para reconocer el patron."
+      ],
+      "ideasSEO": {
+        "total": 50,
+        "muestra": [
+          "La llamada que imitó la voz de su hijo",
+          "Cómo una videollamada falsa vació una empresa entera",
+          "El estafador que enamoraba con un rostro que no existía",
+          "La red que clonaba identidades con tres segundos de audio",
+          "Cómo detectar un deepfake en menos de diez segundos",
+          "El fraude que usó la cara de un empresario famoso",
+          "La estafa que convenció a un banco de que era su cliente",
+          "Cómo funcionan las granjas de estafas que operan a escala",
+          "El caso del mensaje urgente que costó los ahorros de una familia",
+          "La aplicación gratuita que era una trampa desde el inicio"
+        ]
+      }
+    },
+    {
+      "id": "sketch_secrets",
+      "source": "vol1_channels_extracted.txt",
+      "name": "Sketch Secrets",
+      "nicho": "Psicología & Neurociencia aplicada — poder mental y defensa",
+      "premisa": "Tu mente tiene una capacidad que no te enseñaron a usar, y hay sistemas diseñados para que sigas sin usarla. Cada video desclasifica un mecanismo y entrega una herramienta.",
+      "tono": "Autoritario pero intimo. Como alguien que te comparte algo que la mayoria no sabe. Se apoya en ciencia real. Nunca alarmista sin salida.",
+      "vozMezcla": "PERFIL DE VOZ — SKETCH SECRETS\n\nEste prompt define EXCLUSIVAMENTE la forma de hablar del creador de Sketch Secrets.\n\nNO define la estructura del guion.\nNO define el hook.\nNO define los giros narrativos.\nNO define la duración.\nNO define el orden de la información.\n\nSu única función es hacer que el texto parezca escrito y hablado por la misma persona que dirige el canal.\n\nIDENTIDAD DE LA VOZ:\n\nLa voz es directa, natural, segura y conversacional.\n\nEl narrador habla como una persona que realmente entiende el tema y se lo está explicando a otra persona, sin adoptar una personalidad artificial de \"youtuber\".\n\nNo debe sonar como un documental.\nNo debe sonar como un profesor.\nNo debe sonar como un periodista.\nNo debe sonar como un coach.\nNo debe sonar como un texto generado por inteligencia artificial.\n\nLa sensación debe ser la de una conversación inteligente y natural.\n\nEl narrador puede explicar conceptos complejos, pero siempre intenta hacerlos fáciles de entender.\n\nFORMA DE HABLAR:\n\nUtiliza principalmente la segunda persona cuando sea natural.\n\nHabla directamente al espectador utilizando \"tú\", \"tu cerebro\", \"cuando haces esto\", \"cuando ves esto\", etc.\n\nLa explicación debe sentirse personal, pero no excesivamente informal.\n\nEl narrador no necesita utilizar expresiones de moda para parecer cercano.\n\nLa cercanía viene de la forma de explicar las cosas.\n\nLas frases deben sonar naturales al ser pronunciadas en voz alta.\n\nCombina frases cortas, medias y largas según lo que se esté explicando.\n\nNo escribas todas las frases con la misma longitud.\n\nNo abuses de frases de impacto artificiales.\n\nNo conviertas cada párrafo en una sucesión de:\n\n\"Pero...\"\n\"Y entonces...\"\n\"Lo interesante...\"\n\"Lo curioso...\"\n\"Y aquí está el truco...\"\n\nEse tipo de construcción solamente debe aparecer si realmente encaja con la forma natural de hablar del creador.\n\nLÉXICO:\n\nUtiliza español latinoamericano natural.\n\nEl vocabulario debe ser sencillo cuando el concepto lo permita.\n\nCuando exista un concepto científico o técnico importante, utiliza el término correcto, pero explícalo de forma comprensible.\n\nLa prioridad es que el espectador entienda la idea, no demostrar cuánto vocabulario técnico conoce el narrador.\n\nEjemplo de estilo:\n\n\"Tu cerebro no procesa toda la información que recibe. Tiene que seleccionar qué considera importante y qué puede ignorar. El problema es que esa selección no siempre funciona como nosotros creemos.\"\n\nEste tipo de construcción tiene prioridad sobre:\n\n\"Y aquí viene lo interesante: tu cerebro tiene un pequeño truco...\"\n\nPERSONALIDAD:\n\nEl narrador es:\n\n- curioso\n- inteligente\n- directo\n- observador\n- seguro de lo que explica\n- cercano sin intentar parecer juvenil\n- capaz de hacer comentarios espontáneos\n- ligeramente irónico cuando la situación lo permite\n\nNo intenta impresionar al espectador.\n\nNo intenta parecer misterioso.\n\nNo intenta parecer más inteligente utilizando palabras complicadas.\n\nLa personalidad debe aparecer de manera natural en las explicaciones.\n\nHUMOR:\n\nEl humor puede aparecer, pero debe sentirse espontáneo.\n\nNo introduzcas chistes porque \"toca\" hacer una broma.\n\nEl narrador puede hacer un comentario irónico o una observación divertida cuando el tema lo permita.\n\nLa palabra \"brutal\" puede utilizarse cuando realmente corresponda a la forma natural de expresarse, pero NO debe convertirse en una muletilla.\n\nNo utilices \"brutality\".\n\nNo utilices \"eso está brutality\".\n\nNo utilices \"bro\" como recurso recurrente.\n\nDe hecho, evita \"bro\" salvo que el contexto haga que aparezca de forma completamente natural.\n\nNo uses \"papi\", \"hermano\", \"crack\", \"máquina\", \"rey\" ni expresiones similares.\n\nMUY IMPORTANTE:\n\nNO inventes muletillas para representar la personalidad del creador.\n\nNo añadas frases como:\n\n\"y aquí viene lo interesante\"\n\"y aquí está el truco\"\n\"pero espera\"\n\"fíjate en esto\"\n\"lo que nadie te cuenta\"\n\"y esto cambia todo\"\n\nsimplemente porque aparecen frecuentemente en otros guiones de internet.\n\nSi una de esas expresiones aparece, debe ser porque realmente tiene sentido en la frase y no porque el modelo esté intentando fabricar una voz.\n\nRITMO:\n\nEl texto debe estar escrito para ser hablado.\n\nNo para ser leído como artículo.\n\nEvita construcciones excesivamente formales.\n\nEvita párrafos que parezcan extraídos de Wikipedia.\n\nEvita repetir la misma estructura sintáctica.\n\nLa narración debe sentirse fluida y espontánea.\n\nNo todas las frases necesitan terminar en una afirmación contundente.\n\nNo todo necesita convertirse en una frase de impacto.\n\nDeja que algunas ideas simplemente se expliquen.\n\nCIENCIA Y PSICOLOGÍA:\n\nCuando se explique ciencia, psicología, comportamiento humano o tecnología:\n\n- utiliza información precisa;\n- explica el concepto;\n- ponlo en términos cotidianos;\n- utiliza ejemplos cuando ayuden;\n- conecta la explicación con algo que el espectador pueda reconocer.\n\nNo conviertas la explicación en una clase.\n\nPero tampoco simplifiques tanto el concepto que pierda precisión.\n\nLa voz debe hacer que algo complejo parezca fácil de entender.\n\nRELACIÓN CON EL ESPECTADOR:\n\nEl espectador no es tratado como alguien ignorante.\n\nEl narrador simplemente le está mostrando una perspectiva que probablemente no había considerado.\n\nPor eso evita frases condescendientes como:\n\n\"Obviamente...\"\n\"Como todos sabemos...\"\n\"Si eres inteligente...\"\n\"Esto es muy fácil...\"\n\nHabla con el espectador de igual a igual.\n\nAUTENTICIDAD:\n\nLa prioridad absoluta es que el texto parezca escrito por una persona real.\n\nSi una frase es gramaticalmente perfecta pero nadie hablaría así en una conversación normal, reescríbela.\n\nSi una palabra parece añadida solamente para hacer que el narrador parezca más inteligente, elimínala.\n\nSi una expresión parece propia de un guion genérico de YouTube y no de esta persona, elimínala.\n\nSi una frase funciona perfectamente sin una expresión adicional, déjala simple.\n\nREGLA PRINCIPAL:\n\nNO INTENTES \"SONAR A YOUTUBER\".\n\nIntenta sonar como el creador hablando normalmente, solamente que explicando un tema de manera clara, interesante y bien preparada.\n\nLa personalidad no debe depender de muletillas.\n\nDebe depender de la manera de pensar y explicar las cosas.\n\nEl resultado final debe hacer que el creador pueda leer el texto en voz alta y pensar:\n\n\"Sí, esto es algo que yo diría.\"\n\nY no:\n\n\"Esto está escrito para parecer que lo digo yo.\"",
+      "musicPrompt": "Estilo: synth ambient oscuro con toque de misterio educativo, instrumental (sin voz), tempo 70-85 BPM, sintetizadores retro con delay suave y textura tipo pizarra neon. Referencias de mood: Carpenter synth, Boards of Canada, lo-fi analog synth. Estructura: intro atmosferica, cuerpo con pulso constante y sutil. Duracion: loop de 2 a 3 minutos. Mood: intrigante, clinico pero calido, curiosidad sostenida.",
+      "thumbnailBase": "16:9 pure black background thumbnail, hand-drawn neon green and yellow doodle line art, one clear central visual metaphor or simple stick-figure scene, soft glow, one third of the frame left completely black for text, red used only if the video poses a warning. Extreme contrast so it reads at 120px. Negative: filled color, photorealism, clutter, more than one focal point.",
+      "styleBase": "Neon doodle whiteboard-animation style on a pure black background, hand-drawn glowing line art in only green and yellow neon (red reserved exclusively for warning or classified elements), loose sketchy childlike linework with inconsistent line weight, soft glow and bloom around every stroke, simple faceless stick-figure characters, universally readable icons (light bulb, gears, clock, magnifier, padlock, brain, question marks), generous empty black negative space, no fill or shading beyond the glow itself. Negative: filled color, solid shading, photorealism, clean vector lines, gradient background, textured paper, any color outside green/yellow/red.",
+      "animationBase": "Self-drawing neon line animation on pure black: each stroke appears progressively as if being drawn by an invisible glowing marker, following the order in which the narration mentions each element. Stroke reveal takes 0.4 to 0.8 seconds per element. Once drawn, every line holds steady with a soft breathing glow. Icons that represent motion rotate or advance slowly and continuously. Stick figures stay static except for one single gesture per shot. Background remains absolute black at all times. Red glow only when a warning element is drawn. Loopable, 4 to 8 seconds.",
+      "lineasRojas": "Nunca enseñar a manipular a otros: el eje es reconocer y defenderse. No citar textualmente textos religiosos ni presentar el canal como religioso. No dar diagnosticos ni protocolos medicos ni dosis. No presentar pseudociencia como hecho confirmado. En temas de salud mental, cerrar indicando que un profesional es el camino cuando hay malestar real.",
+      "tiempos": [
+        "Diagnostico incomodo (0-10s): una afirmacion que el espectador reconoce en si mismo de inmediato.",
+        "La pregunta retorica que abre el mecanismo (\"por que te pasa exactamente esto?\").",
+        "El mecanismo cerebral o social, nombrado de forma memorable y simple.",
+        "El giro: la conexion entre ese mecanismo y algo que la sabiduria antigua ya intuia, sin citar textos religiosos.",
+        "La herramienta: de una a tres acciones concretas, mostradas en pantalla mientras se dibujan.",
+        "Cierre elevador: el espectador queda sabiendo algo que la mayoria ignora, sin frase motivacional vacia."
+      ],
+      "ideasSEO": {
+        "total": 50,
+        "muestra": [
+          "El hábito diario que está envejeciendo tu cerebro",
+          "Qué le pasa a tu cerebro cuando dejas de aprender cosas nuevas",
+          "Cinco minutos al día que reconstruyen tu atención",
+          "Por qué tu memoria empeora y qué la revierte",
+          "El ejercicio mental que más protege del deterioro",
+          "Cómo el cerebro se reorganiza a cualquier edad",
+          "Lo que el sueño hace por tu cerebro y nadie te dijo",
+          "Por qué el silencio mejora tu capacidad de pensar",
+          "El efecto real del ejercicio físico sobre la memoria",
+          "Cómo la lectura profunda cambia tu cerebro físicamente"
+        ]
+      }
+    },
+    {
+      "id": "raiz_ancestral",
+      "source": "vol1_channels_extracted.txt",
+      "name": "Raíz Ancestral",
+      "nicho": "Bienestar & Longevidad — medicina ancestral con lectura moderna",
+      "premisa": "Antes de la medicina moderna ya sabian mantenerse fuertes y lucidos hasta el final. Esa sabiduria no se perdio: se olvido. Y la ciencia actual esta empezando a darle la razon.",
+      "tono": "Maestro calido con autoridad tranquila. Enseña primero, nunca vende. Habla despacio, con ejemplos concretos. Jamas promete milagros.",
+      "musicPrompt": "Estilo: musica instrumental tradicional asiatica suave, guzheng o flauta de bambu, tempo lento 60-75 BPM, sin voz, textura calida y organica. Referencias de mood: te ceremonial, sala de herbolario. Estructura: intro contemplativa, cuerpo con melodia repetitiva y relajante. Duracion: loop de 2 a 3 minutos. Mood: sereno, sabio, atemporal.",
+      "thumbnailBase": "16:9 hand-drawn ink-and-watercolor illustration on kraft paper, the fixed master character on one third of the frame performing a clear action (holding an herb, demonstrating a movement, pointing at a scroll), a key object of the topic prominent in the foreground, warm sepia-jade palette, thin panel border, opposite third left clear for text. The same character in every thumbnail builds recognition like a real host. Negative: neon colors, cold tones, photorealism, clutter.",
+      "styleBase": "Hand-drawn illustrated style on a warm kraft-paper background, ink linework with cross-hatching, soft watercolor-style coloring in warm sepia, olive and jade tones, semi-realistic proportions, traditional East Asian apothecary setting with calligraphy scrolls, dried roots, mortar and pestle, ceramic teapot, labelled jars, warm diffused natural light, thin black panel border. Fixed master character to keep consistent across all videos: well-groomed East Asian man in his sixties, olive-green and white kimono-style robe, gray hair swept back, neatly trimmed gray beard, warm confident smile. Negative: photorealistic, glossy digital render, neon colors, cold blue tones, flat cartoon, anime.",
+      "animationBase": "Slow contemplative 2D animation on kraft paper: camera holds almost still, with a 4 to 6% push-in over the whole shot. The master character remains completely consistent and rigid, no facial morphing or redrawing. Only one element lives per scene: steam rising from a teacup, a leaf turning, bamboo swaying slowly, or light shifting. Warm sepia and jade light stays constant. For exercise shots: hold the frame still and animate only a slow directional arrow indicating the movement. No fast motion, no character walking. Loopable, 6 to 9 seconds.",
+      "lineasRojas": "Nunca usar 'cura', 'elimina' o 'revierte' como promesa: usar 'favorece', 'acompaña', 'los estudios sugieren'. No dar dosis ni protocolos de suplementacion que sustituyan atencion medica. Recordar que quien toma medicacion debe consultar antes de cambiar habitos. No usar miedo a la enfermedad como palanca de venta.",
+      "tiempos": [
+        "Creencia cuestionada (0-15s): algo que \"todos dicen\" sobre envejecer, dicho con calidez, no con burla.",
+        "La pregunta retorica que abre la duda (\"y si eso que te dijeron no fuera del todo cierto?\").",
+        "El principio ancestral, explicado por el maestro con un ejemplo cotidiano y concreto.",
+        "El puente moderno: que dice hoy la evidencia real sobre ese mismo principio.",
+        "La practica: un ejercicio o ritual concreto, mostrado paso a paso y seguro para esa edad.",
+        "Cierre circular: la frase de sabiduria que responde exactamente a la creencia cuestionada al inicio, sin vender nada."
+      ],
+      "ideasSEO": {
+        "total": 50,
+        "muestra": [
+          "Lo que la medicina antigua decía del cansancio a los sesenta",
+          "El principio ancestral que hoy llaman ritmo circadiano",
+          "Por qué la energía baja no es solo cuestión de edad",
+          "La hierba tradicional que la ciencia empezó a estudiar en serio",
+          "Qué dice la evidencia sobre el ginseng y la vitalidad",
+          "El té que se tomaba cada mañana y por qué tenía sentido",
+          "La idea antigua de calentar el cuerpo antes de moverlo",
+          "Por qué la digestión era el centro de la medicina tradicional",
+          "El principio del equilibrio aplicado a tu alimentación de hoy",
+          "Lo que decían del frío en las articulaciones y era cierto"
+        ]
+      }
+    },
+    {
+      "id": "limite_humano",
+      "source": "vol2_channels_extracted.txt",
+      "name": "Límite Humano",
+      "nicho": "Ciencia & Cuerpo — fisiología extrema y límites reales del cuerpo humano",
+      "premisa": "Tu cuerpo tiene una cifra exacta para cada cosa: grados, minutos, metros, litros. Este canal encuentra esa cifra y muestra qué ocurre justo antes y justo después de cruzarla.",
+      "tono": "Documental clínico con tensión de thriller. Preciso, sin morbo. El impacto viene del número exacto, no de la imagen impactante.",
+      "musicPrompt": "Estilo: score clinico de tension, cuerdas graves sostenidas y un pulso electronico bajo tipo latido, tempo 60-80 BPM, sin voz, textura fria y contenida. Referencias de mood: documental medico de alto presupuesto, sala de monitoreo. Estructura: intro casi silenciosa, cuerpo con el pulso subiendo levemente hacia la cifra final, sin explotar en clímax. Duracion: loop de 2 a 3 minutos. Mood: clinico, tenso, preciso.",
+      "thumbnailBase": "16:9, black background, [CAMBIAR: figura humana, organo o corte anatomico del tema, elegido segun lo que mas comunique el dato o limite del video] rendered in the channel's cinematic clinical-documentary visual language — near-black, graphite and bone-white palette, cold directional light, physically believable materials — with ONE physiological red accent marking the critical point only if narratively justified, half the frame left genuinely dark for the number and hook, no anatomical exposure forced if not needed, no gore. TENDENCIAS 2026: la cifra grande es el gancho de este canal — '-46°C', '11 DIAS', '8.000 m' leidos a 120px convierten mas que cualquier frase; el rojo se usa una sola vez por portada, solo cuando esta justificado; el negro puro destaca en el feed; evitar repetir siempre la misma composicion de figura humana abierta.",
+      "styleBase": "LÍMITE HUMANO — VISUAL IDENTITY BIBLE\n\nCHANNEL:\nClinical human biology, physiology, medicine, survival and scientifically documented limits of the human body.\n\nCORE VISUAL LANGUAGE:\nPremium cinematic science documentary. Dark, precise, restrained, clinically credible and visually mysterious. The image should feel like a frame from a high-end scientific documentary, never like a medical stock image, horror film, videogame, generic CGI render or fantasy artwork.\n\nVISUAL CONSISTENCY:\nEvery scene must belong to the same visual universe, but scenes MUST NOT repeat the same composition, subject or anatomical cutaway. Consistency means identical visual language, not identical imagery.\n\nCOLOR:\nDominant near-black, graphite, charcoal, cold stone gray, bone white and desaturated blue-gray.\nONE controlled physiological red accent may appear only when narratively justified: circulation, cardiac activity, physiological stress, critical threshold or biological signal.\nRed is never decorative and must never dominate the frame.\nNo orange cinematic grading, neon colors, saturated palettes or multicolor lighting.\n\nLIGHT:\nCold directional cinematic key light, deep controlled shadows, high contrast, subtle cold rim light, selective illumination and restrained volumetric atmosphere.\nThe environment should remain predominantly dark.\nRed may emit a small localized physiological glow only when justified.\n\nMATERIALS:\nPhysically believable human skin with natural pores, subtle moisture and realistic imperfections.\nAnatomical structures must look biologically credible and clinically precise.\nOrgans, vessels, muscle, tissue and fluids must never look like plastic, rubber, glossy CGI or fantasy creatures.\n\nANATOMICAL LANGUAGE:\nUse anatomical visualization only when it communicates the narrative.\nAnatomy may appear as:\n- realistic anatomical exposure\n- translucent anatomical overlay\n- clean clinical cutaway\n- isolated organ macro\n- internal physiological visualization\n- microscopic biological visualization\n\nNever force anatomical exposure into every scene.\n\nHUMAN SUBJECT:\nWhen a human is required, use a consistent adult male subject, approximately 25–45 years old, natural athletic build, short dark hair and minimal dark technical clothing without logos.\nPreserve identity whenever the same subject returns.\nThe subject is NOT mandatory in every scene.\n\nCOMPOSITION:\nCinematic vertical composition.\nUse the most appropriate shot for the narrative:\nmacro, extreme close-up, close-up, medium, medium-wide, wide, extreme-wide, overhead, profile, silhouette or environmental composition.\nDo not force centered symmetry in every scene.\nUse negative space intentionally for post-production typography.\n\nENVIRONMENT:\nDark clinical spaces, controlled laboratory environments, natural extreme environments or near-black abstract space depending on the story.\nThe environment must support the scientific concept rather than distract from it.\n\nTEXT:\nNEVER generate text, letters, numbers, labels, subtitles, captions, typography or logos inside the image.\nAll text is added later in editing.\n\nSAFETY / CLINICAL RESTRAINT:\nNo gore.\nNo graphic wounds.\nNo exposed reproductive anatomy.\nNo gratuitous blood.\nNo body horror.\nNo grotesque deformation.\nMedical subjects should be represented clinically and scientifically.\n\nNEGATIVE STYLE:\ncartoon, anime, illustration, comic book, fantasy, superhero, videogame, horror, body horror, gore, graphic wounds, generic CGI, plastic skin, glossy organs, stock photography, bright hospital photography, colorful medical illustration, neon, oversaturated colors, orange teal grading, warm commercial lighting, text, typography, letters, numbers, logos, watermarks, malformed anatomy, extra limbs, duplicated organs, floating organs, anatomical impossibilities.",
+      "animationBase": "Treat the already-generated scene image as an IMMUTABLE MASTER FRAME: animation never redesigns identity, face, body, anatomy, wardrobe, environment, composition, lighting, color or materials — it only brings that exact frame to subtle life. A scene director selects ONE adaptable movement identity per shot depending on its narrative function and representation type, choosing from: minimal physiological movement for an organ (pulse, contraction, flow), natural micro-movement for a human subject (breathing, subtle posture shift), ambient environmental motion (fog, dust, snow, smoke, water, particles), progressive transparency reveal for anatomy (never morphing or deforming), extremely controlled micro-motion for macro shots, clean motion-graphic movement for scientific or graphic elements, gradual reveal for new information, an extremely slow push-in for suspense, justified higher-intensity movement only at a climax, and settling, stabilizing movement toward an ending. Camera uses exactly one primary movement per shot — slow push-in, slow pull-back, subtle lateral tracking, controlled orbit, slow reveal, locked camera or minimal parallax — never camera shake, fast zoom, random movement or impossible camera physics. Anatomical structures always stay connected and physically coherent: no morphing, melting, warping, floating organs, duplicated organs, face change, age change, body-proportion change, new limbs or missing limbs. If the frame contains editorial text, the text layer never animates, deforms or regenerates — movement happens behind or around it. Loopable, 5 to 8 seconds.",
+      "lineasRojas": "No dar dosis, umbrales de medicacion ni informacion que sirva para autolesionarse. No convertir condiciones medicas reales en espectaculo. No mostrar gore ni imagenes de heridas: el estilo visual es diagramatico a proposito. Distinguir siempre caso documentado, estimacion y modelo teorico. En temas de sueno, ayuno o frio extremo, advertir explicitamente que no son retos para replicar.",
+      "tiempos": [
+        "Pregunta directa en 2a persona (0-10s): que le pasa a tu cuerpo si... sin adelantar la cifra.",
+        "La pregunta retorica que sube la apuesta: cuanto crees que aguantarias tu.",
+        "El mecanismo fisiologico, explicado en lenguaje simple pero clinicamente correcto.",
+        "El caso real o record documentado que ancla el limite a un hecho verificable.",
+        "La cifra exacta, dicha una sola vez y sostenida en pantalla varios segundos.",
+        "Una cita de autor real (fisiologo, medico) con atribucion explicita.",
+        "Cierre circular: se vuelve a la pregunta de apertura, ahora respondida con el dato que nadie esperaba."
+      ],
+      "ideasSEO": {
+        "total": 50,
+        "muestra": [
+          "Qué le pasa a tu cuerpo si no duermes once días seguidos",
+          "El límite exacto de calor que un ser humano puede soportar",
+          "Cuánto tiempo puedes vivir sin agua y qué le pasa a tu cuerpo",
+          "El momento en que dejas de sentir frío antes de morir de hipotermia",
+          "Qué ocurre en tus pulmones a ocho mil metros de altitud",
+          "Cuánto tiempo puede un ser humano aguantar la respiración",
+          "Qué le pasa a tu cuerpo después de treinta días sin comer",
+          "Cuánta sangre puedes perder y seguir con vida",
+          "Cuánta presión soporta realmente el cuerpo bajo el agua",
+          "El límite de radiación que puede soportar el cuerpo humano"
+        ]
+      }
+    },
+    {
+      "id": "enigmas_ocultos",
+      "source": "vol2_channels_extracted.txt",
+      "name": "Enigmas Ocultos",
+      "nicho": "Historia & Misterio — el archivo que contradice el relato oficial",
+      "premisa": "La historia que te enseñaron es un resumen editado. Este canal va al documento, al mapa y al objeto originales — y muestra qué se quedó fuera del resumen.",
+      "tono": "Investigador de archivo. Erudito pero accesible, con placer por el detalle verificable. Nunca afirma conspiración: muestra la contradicción documental y deja que el espectador la pese.",
+      "musicPrompt": "Estilo: instrumental de archivo/documental historico, cuerdas calidas y percusion suave de madera, tempo lento 65-80 BPM, sin voz, textura polvorienta y reverente. Referencias de mood: documental de historia premium, sala de manuscritos. Estructura: intro con una sola linea melodica, cuerpo que se ensancha ligeramente en cada parada del arco historico. Duracion: loop de 2 a 3 minutos. Mood: erudito, calido, misterioso sin ser oscuro.",
+      "thumbnailBase": "16:9, deep black background, [CAMBIAR: artefacto, mapa o documento del video] lit by a single warm shaft of light with dust particles, aged gold and bronze palette, engraved linework detail, one third of the frame kept dark for the hook text, museum-catalog precision. TENDENCIAS 2026: el objeto en primer plano con un solo haz de luz rinde mas que la escena panoramica; un circulo o flecha dorada señalando el detalle contradictorio sube el CTR; el texto debe nombrar el hueco ('falta una linea'), no el tema.",
+      "styleBase": "Golden archaeology illustration style: aged gold, bronze and warm parchment tones on a deep black background, artefacts and monuments rendered with fine engraved linework and museum-catalog precision, ancient cartography and glyph fragments layered semi-transparently, suspended dust particles catching a single warm shaft of light, chiaroscuro lighting, subtle paper and stone texture, ornamental thin gold frame elements, scholarly and reverent atmosphere. Negative: neon colors, modern technology, sci-fi elements, aliens, cartoon style, oversaturation, cluttered collage.",
+      "animationBase": "Slow orbital drift around the artefact, no more than 5 degrees of rotation across the shot, combined with a 4 to 8% push-in. The object itself stays absolutely rigid — no morphing, no re-engraving of detail. Dust particles float continuously through the warm light shaft, and the light source drifts slightly so highlights travel across the engraved surface. Semi-transparent map or glyph layers behind the object drift at a different speed to create depth. Gold specular highlights glint once or twice per shot. Background stays deep black. No camera shake, no fast rotation, no new objects entering frame, no modern elements. Loopable, 5 to 8 seconds.",
+      "lineasRojas": "No presentar especulacion como hallazgo: se separa siempre lo que dice el documento de lo que se interpreta. No usar pseudoarqueologia (civilizaciones perdidas, intervencion extraterrestre) como si fuera consenso. No construir narrativas conspirativas sobre grupos etnicos, religiosos o nacionales. Citar la fuente concreta en pantalla y en descripcion. No reproducir textos extensos con derechos vigentes; parafrasear y remitir a la edicion.",
+      "tiempos": [
+        "Apertura inmersiva en 2a persona (0-15s): coloca al espectador frente al objeto o mapa antes de explicarlo.",
+        "La pregunta retorica que abre la grieta: pero, y si la version que conoces no es la original?.",
+        "El documento o artefacto real, descrito con precision de catalogo, no con adjetivos.",
+        "El arco historico: 3-4 paradas cronologicas donde el mismo patron se repite en culturas distintas.",
+        "La contradiccion concreta: que cambia si el documento tiene razon sobre la version aceptada.",
+        "Cita de un historiador o arqueologo real, con atribucion explicita.",
+        "Cierre circular: vuelve al objeto de apertura, ahora visto de otra forma, sin resolver del todo el misterio."
+      ],
+      "ideasSEO": {
+        "total": 50,
+        "muestra": [
+          "El manuscrito que contradice la versión oficial",
+          "La traducción errónea que cambió una creencia entera",
+          "El texto apartado del canon y las razones reales",
+          "El archivo que se quemó y lo que se salvó de él",
+          "La biblioteca perdida que sí dejó rastro",
+          "El documento que apareció ochenta años después",
+          "La carta que reescribe una biografía conocida",
+          "El registro contable que desmiente una leyenda",
+          "La teoría rechazada que la ciencia terminó confirmando",
+          "El pensador cuyas ideas fueron atribuidas a otro"
+        ]
+      }
+    },
+    {
+      "id": "sabiduria_eterna",
+      "source": "vol2_channels_extracted.txt",
+      "name": "Sabiduría Eterna",
+      "nicho": "Filosofía aplicada — estoicismo y pensamiento antiguo para problemas actuales",
+      "premisa": "Los problemas que crees modernos ya fueron resueltos, o al menos formulados con precisión, hace dos mil años. Este canal traduce ese pensamiento a decisiones concretas de hoy.",
+      "tono": "Maestro sereno. Habla despacio, con autoridad tranquila y cero autoayuda vacía. Cada video entrega un principio y su aplicación, no una frase motivacional.",
+      "musicPrompt": "Estilo: instrumental clasico contemplativo, cuerdas y una sola nota de piano o arpa sostenida, tempo muy lento 55-70 BPM, sin voz, textura serena y espaciosa. Referencias de mood: sala de esculturas clasicas, meditacion filosofica. Estructura: intro casi en silencio, cuerpo con una sola linea melodica que respira, sin subidas dramaticas. Duracion: loop de 2 a 3 minutos. Mood: sereno, solemne, atemporal.",
+      "thumbnailBase": "16:9, deep black background, weathered marble bust or classical figure on one third with dramatic side lighting, [CAMBIAR: objeto simbolico del tema — reloj de arena, moneda, laurel, espejo] in the opposite lower corner, aged gold accent only, the remaining third kept black for the hook text. TENDENCIAS 2026: el rostro de marmol con la mirada baja o de perfil comunica el tema sin texto; el texto debe nombrar la emocion concreta ('cuando te ignoran'), no el concepto filosofico; el oro se usa una sola vez por portada.",
+      "styleBase": "Classical marble-and-gold illustration style: weathered white marble sculpture as the focal subject, deep black background, aged gold accents in laurel wreaths, Greek key ornament and thin circular borders, dramatic chiaroscuro side lighting carving the face and drapery, fine stone-crack and dust texture, distant Doric columns fading into darkness, restrained and reverent atmosphere, museum-lighting realism. Negative: neon colors, modern clothing, cartoon style, oversaturation, cheerful bright lighting, motivational-poster look.",
+      "animationBase": "Extremely slow push-in on the marble bust, 4 to 6% across the whole shot, with the key light drifting gradually across the face so shadows travel and progressively reveal the features. The sculpture stays absolutely rigid — no morphing, no facial animation, no eye movement. Fine stone dust drifts through the light beam. Gold ornament elements glint once, softly. Distant columns remain still in deep shadow. Background stays pure black at all times. No camera shake, no cuts inside the shot, no particles crossing the subject, no text animation. Loopable, 7 to 10 seconds.",
+      "lineasRojas": "No usar el estoicismo como excusa para reprimir emociones o tolerar abuso. No atribuir frases falsas a filosofos: se cita obra y pasaje o no se cita. No sustituir terapia: cuando el tema es depresion, duelo intenso o ansiedad clinica, indicar apoyo profesional. No mezclar filosofia con promesas de exito material ni lenguaje de coaching agresivo. No presentar una escuela filosofica como verdad unica frente a otras.",
+      "tiempos": [
+        "Problema cotidiano en 2a persona (0-15s): una situacion incomoda formulada sin adornos.",
+        "La pregunta retorica que abre la reflexion: por que esto te afecta tanto?.",
+        "El principio antiguo, con autor, obra y contexto reales, nunca una frase sin atribuir.",
+        "La traduccion a la vida actual, con un ejemplo muy concreto y reconocible.",
+        "El ejercicio practicable, descrito en una sola accion clara para esta semana.",
+        "El limite del principio: donde deja de aplicar o donde hace falta ayuda profesional.",
+        "Cierre circular: la misma situacion de apertura, ahora vista con el principio ya aplicado."
+      ],
+      "ideasSEO": {
+        "total": 50,
+        "muestra": [
+          "Lo único que realmente está bajo tu control",
+          "Por qué la ofensa siempre es una decisión tuya",
+          "El ejercicio antiguo de imaginar lo peor",
+          "Qué decían los estoicos sobre la muerte y por qué ayuda",
+          "El principio que desarma la comparación con otros",
+          "Cómo separar el hecho de tu juicio sobre el hecho",
+          "Por qué la ira es una promesa de dolor futuro",
+          "El deseo que nunca se llena y cómo cortarlo",
+          "Qué hacer cuando no puedes cambiar la situación",
+          "El valor de la incomodidad elegida"
+        ]
+      }
+    },
+    {
+      "id": "mentes_en_foco",
+      "source": "vol2_channels_extracted.txt",
+      "name": "Mentes en Foco",
+      "nicho": "Psicología del diseño digital — manipulación de la atención y defensa cognitiva",
+      "premisa": "Nada de lo que haces frente a una pantalla es casualidad: alguien lo diseñó para que lo hicieras. Este canal desarma ese diseño pieza por pieza y devuelve el control al espectador.",
+      "tono": "Investigador clínico que explica sin condescender. Indignación informada, nunca pánico. Cada video termina con una acción concreta, no con una advertencia abierta.",
+      "musicPrompt": "Estilo: instrumental electronico clinico y minimal, pulsos sintetizados y texturas de laboratorio, tempo 90-105 BPM, sin voz, textura fria y precisa. Referencias de mood: thriller tecnologico, sala de investigacion. Estructura: intro con un pulso aislado, cuerpo que suma capas rítmicas al ritmo en que se encienden los nodos del video. Duracion: loop de 2 a 3 minutos. Mood: analitico, con tension contenida, nunca alarmista.",
+      "thumbnailBase": "16:9, deep black background, [CAMBIAR: metafora del mecanismo — pantalla, boton, ruleta, figura infantil, silueta de grupo] rendered as a glowing blue element, one human profile silhouette anchoring the composition, cyan highlight only on the manipulated element, half the frame left black for the hook text. TENDENCIAS 2026: el gancho mas eficaz de este nicho es la segunda persona ('te lo hicieron a ti'); un solo elemento iluminado en azul sobre negro se lee perfecto a 120px; evitar capturas de apps reales en la portada.",
+      "styleBase": "Clinical blue laboratory illustration style: deep black background with cool steel-blue and cyan luminous accents, a human head in profile rendered as a semi-transparent silhouette with a glowing network of nodes and connections inside, thin geometric constellation lines and data points floating in the background, brushed-metal typographic elements, precise clean linework, cold analytical lighting, subtle glass reflections, research-poster restraint. Negative: warm colors, cartoon style, cluttered collage, neon green, oversaturation, cheerful lighting, photorealistic faces.",
+      "animationBase": "Slow push-in on the profile silhouette while the internal neural network animates: nodes light up one by one and connection lines draw between them, following the exact order in which the narration names each step of the mechanism. Node pulses are soft and rhythmic, brightness varying no more than 15%. Background constellation points drift slowly at a different depth for parallax. The silhouette itself stays completely rigid — no facial animation, no morphing. Motion-graphic overlays draw in cleanly: a counter, a bar rising, a loop arrow closing on itself to represent the compulsion cycle. Background stays pure black. No camera shake, no flashy transitions, no fast zooms. Loopable, 5 to 8 seconds.",
+      "lineasRojas": "Nunca enseñar a aplicar estas tecnicas sobre otros: el eje es reconocer y defenderse. No diagnosticar: no llamar adiccion clinica, TDAH ni trastorno a un comportamiento del espectador. Distinguir siempre lo que muestran los estudios de lo que es hipotesis o correlacion. En temas de infancia, no culpabilizar a los padres. Cuando aparezca malestar real, indicar apoyo profesional sin dramatizar.",
+      "tiempos": [
+        "Reconocimiento en 2a persona (0-10s): un comportamiento que el espectador identifica en si mismo.",
+        "La pregunta retorica que abre el mecanismo: por que te pasa esto exactamente a ti?.",
+        "El mecanismo psicologico, con su nombre tecnico dicho una sola vez y con claridad.",
+        "El paralelo: donde mas se usa ese mismo mecanismo (casino, secta, app, publicidad).",
+        "La evidencia: que muestran los estudios reales y que sigue siendo hipotesis.",
+        "La defensa: de uno a tres pasos concretos, mostrados mientras se dibujan en el grafo.",
+        "Cierre circular: vuelve al comportamiento de apertura, ahora con el mecanismo ya visible."
+      ],
+      "ideasSEO": {
+        "total": 50,
+        "muestra": [
+          "El truco del scroll infinito que hace que no puedas parar",
+          "Por qué las notificaciones llegan justo cuando estás concentrado",
+          "El color que usan las apps para conseguir tu atención",
+          "La recompensa variable: el mecanismo que hace que vuelvas a mirar",
+          "Por qué perder por poco hace que quieras intentarlo otra vez",
+          "Por qué algunas apps esconden el botón de cancelar",
+          "Cómo las rachas de las apps convierten un hábito en culpa",
+          "Por qué el siguiente video empieza antes de que puedas decidir",
+          "El truco de la urgencia falsa que usan las tiendas online",
+          "Cómo las apps de citas convierten la incertidumbre en adicción"
+        ]
+      }
+    },
+    {
+      "id": "dominio_profesional",
+      "source": "vol2_channels_extracted.txt",
+      "name": "Dominio Profesional",
+      "nicho": "Negocios & Futuro del Trabajo — qué automatiza la IA, profesión por profesión",
+      "premisa": "Ningún oficio va a desaparecer de golpe: se está reescribiendo tarea por tarea. Este canal documenta qué parte ya se automatizó, qué parte sigue siendo humana y qué hacer con esa diferencia.",
+      "tono": "Analista de negocios sobrio. Respeta el oficio antes de mostrar el cambio. Ni catastrofismo ni entusiasmo de vendedor de IA: números, casos y consecuencias.",
+      "musicPrompt": "Estilo: instrumental corporativo moderno, piano electronico y pads sintetizados, tempo medio 90-100 BPM, sin voz, textura limpia y profesional. Referencias de mood: documental de negocios, editorial tecnologico. Estructura: intro minimal, cuerpo que construye capas al ritmo de los graficos que suben en pantalla. Duracion: loop de 2 a 3 minutos. Mood: sobrio, confiado, sin urgencia artificial.",
+      "thumbnailBase": "16:9, deep black and midnight-blue, [CAMBIAR: profesional del oficio del video en silueta] on one side rendered half in realistic detail and half dissolving into wireframe or circuit pattern, one bright cyan highlight at the seam between human and digital, clean chart element in a corner, opposite third kept dark for the hook text. TENDENCIAS 2026: la silueta partida humano/digital es el motivo reconocible del canal; el texto debe nombrar el oficio concreto ('radiologos', 'traductores'); nunca usar rostros reales ni logos de empresas.",
+      "styleBase": "Corporate editorial illustration style: deep black and midnight-blue background, a sharply lit executive silhouette in the center rendered in brushed steel and shadow, a dotted world map and glass skyline receding behind, clean data-visualisation elements (line chart, bar chart, arrow) integrated as part of the composition, cool steel-blue and silver palette with a single bright cyan highlight, precise geometric linework, boardroom lighting, restrained business-magazine cover aesthetic. Negative: warm colors, cartoon style, cluttered infographic, neon, stock-photo handshake clichés, photorealistic faces.",
+      "animationBase": "Slow lateral dolly across the composition, 6 to 10%, with a subtle depth parallax between the silhouette, the skyline and the dotted map. The human half of the figure stays rigid and detailed; the digital half animates continuously — wireframe lines flowing, circuit paths lighting up, small particles detaching and drifting away — and intensifies exactly when the narration names the automated task. Motion-graphic overlays draw in cleanly: a bar chart rising to its value, a line chart tracing left to right, a percentage counter climbing to its figure and holding. The seam between human and digital emits a soft cyan glow. Background stays deep black. No camera shake, no facial animation, no flashy wipes. Loopable, 5 to 8 seconds.",
+      "lineasRojas": "No prometer ingresos, empleo ni resultados economicos concretos. No dar asesoria financiera ni fiscal personalizada. No acusar de delito a empresas o personas sin condena o registro publico verificable. No vender la IA como sustituto total de un oficio: distinguir tarea de profesion es la tesis del canal. Citar la fuente de cada cifra de adopcion o de mercado.",
+      "tiempos": [
+        "El oficio en 2a o 3a persona (0-15s): que hace exactamente esa profesion y por que importa.",
+        "La pregunta retorica que abre la duda: cuanto de esto sigue siendo solo humano?.",
+        "La tarea automatizada: que parte concreta ya hace una maquina hoy, con caso o cifra real.",
+        "El dato de industria, citado con su fuente explicita en pantalla.",
+        "Lo que queda humano: la habilidad que sigue siendo dificil de replicar.",
+        "El movimiento concreto: que haria hoy alguien de ese oficio para reposicionarse.",
+        "Cierre circular: vuelve al oficio de apertura, ahora con el balance completo entre lo perdido y lo que queda."
+      ],
+      "ideasSEO": {
+        "total": 50,
+        "muestra": [
+          "Qué parte del trabajo de un abogado ya puede hacer la IA",
+          "Qué trabajos de traducción está reemplazando la IA",
+          "Qué parte del diseño gráfico ya hace la inteligencia artificial",
+          "La IA ya analiza radiografías: ¿qué queda para el radiólogo?",
+          "Qué parte del trabajo de un programador ya hace la IA",
+          "Qué hace la IA en contabilidad que antes hacía una persona",
+          "Qué parte del periodismo ya puede generar una IA",
+          "La IA ya puede clonar voces: ¿qué pasa con los actores de doblaje?",
+          "Cómo la IA está cambiando el trabajo del arquitecto",
+          "Los agentes de IA están cambiando los call centers"
+        ]
+      }
+    },
+    {
+      "id": "mentes_financieras",
+      "source": "vol2_channels_extracted.txt",
+      "name": "Mentes Financieras",
+      "nicho": "Finanzas personales — fugas de dinero invisibles y educación financiera práctica",
+      "premisa": "Nadie se arruina por una mala decisión: se arruina por diez fugas pequeñas que nunca revisa. Este canal las hace visibles una por una y las cierra.",
+      "tono": "Educador financiero directo y sin humo. Ni gurú de la riqueza ni sermón de austeridad. Cifras concretas, cálculo mostrado en pantalla y una acción por video.",
+      "musicPrompt": "Estilo: instrumental editorial financiero premium, cuerdas graves y un contador ritmico sutil, tempo medio 85-95 BPM, sin voz, textura elegante y con tension calculada. Referencias de mood: revista de negocios, sala de bolsa silenciosa. Estructura: intro contenida, cuerpo que sube en intensidad al ritmo en que el calculo crece en pantalla. Duracion: loop de 2 a 3 minutos. Mood: serio, premium, con urgencia calculada.",
+      "thumbnailBase": "16:9, deep black background, [CAMBIAR: objeto financiero del tema — tarjeta, contrato, recibo, alcancia, grafico] lit by a single dramatic light with gold specular highlight, engraved guilloche texture, a magnifying glass or red circle marking the hidden figure, opposite third kept dark for the hook. TENDENCIAS 2026: la cifra concreta es el gancho de este nicho ('$1.240 al año') y convierte mas que cualquier adjetivo; la lupa sobre la letra pequeña es el motivo reconocible del canal; evitar imagenes de fajos de billetes y autos de lujo.",
+      "styleBase": "Premium financial editorial illustration style: deep black background with aged gold and dark emerald accents, a bronze bull sculpture, a glass skyline and neoclassical columns arranged in a balanced emblematic composition, a subtle dotted world map behind, engraved banknote-style guilloche linework as texture, dramatic single-source lighting with gold specular highlights, clean data elements (candlestick, coin stack, ledger line) integrated without clutter, restrained wealth-magazine aesthetic. Negative: cash-in-hand clichés, luxury car imagery, cartoon style, neon, oversaturation, gambling imagery, cryptocurrency logos.",
+      "animationBase": "Slow push-in on the financial object, 5 to 8%, with gold specular highlights travelling across its surface as the light drifts. The object itself stays rigid. Over it, motion-graphic overlays execute the calculation step by step: a numeric counter climbing from zero to the annual figure, a bar or stacked-coin column growing in sync, a ten-year total revealing last and holding on screen. A magnifying ring slides in and settles over the small print, with the highlighted line brightening inside it. Engraved guilloche texture shimmers faintly. Background stays deep black. No camera shake, no flying money, no flashy transitions, no gambling or crypto imagery. Loopable, 5 to 8 seconds.",
+      "lineasRojas": "No recomendar inversiones concretas, acciones, criptomonedas ni brokers: el canal educa, no asesora. No prometer rentabilidad, libertad financiera ni plazos para lograrla. Aclarar que la informacion es general y no sustituye asesoria profesional. No usar culpa ni humillacion como palanca. Adaptar los ejemplos al contexto hispanohablante, no asumir un solo sistema bancario.",
+      "tiempos": [
+        "La fuga en 2a persona (0-15s): un gasto o comision que el espectador probablemente tiene ahora mismo.",
+        "La pregunta retorica que sube la apuesta: sabes cuanto te cuesta esto en diez años?.",
+        "El calculo, mostrado paso a paso en pantalla, no solo dicho.",
+        "Por que no se nota: el mecanismo contractual o psicologico que la mantiene invisible.",
+        "La accion concreta para cerrarla, con el tiempo exacto que toma hacerlo.",
+        "El limite: cuando esa misma fuga en realidad vale la pena mantenerla.",
+        "Cierre circular: vuelve a la fuga de apertura, ahora con el total calculado sostenido en pantalla."
+      ],
+      "ideasSEO": {
+        "total": 100,
+        "muestra": [
+          "La comisión que tu banco te cobra y probablemente no revisas",
+          "La suscripción que sigues pagando y ya olvidaste",
+          "Por qué pagar el mínimo de tu tarjeta puede salir tan caro",
+          "El verdadero costo de comprar en cuotas \\\\\\\"sin intereses\\\\\\\"",
+          "El seguro que pagas todos los meses y quizá no necesitas",
+          "La comisión invisible que pagas cada vez que transfieres dinero",
+          "Por qué tener tu dinero parado puede hacerte perder poder adquisitivo",
+          "La letra pequeña que puede costarte dinero sin que lo notes",
+          "Cuánto te cuesta realmente cambiar de teléfono cada año",
+          "La comisión de cambio de divisa que nadie te explica"
+        ]
+      }
+    },
+    {
+      "id": "alerta_sintetica",
+      "source": "vol3_channels_extracted.txt",
+      "name": "Alerta Sintética",
+      "nicho": "Tecnología & Fraude — estafas digitales, deepfakes y manipulación con IA",
+      "premisa": "Cada semana aparece una nueva forma de que la tecnología te engañe sin que lo notes. Este canal emite la alerta apenas se confirma el patrón, con el mismo tono seco de un aviso de emergencia.",
+      "tono": "Boletín de alerta, no thriller narrativo. Frases cortas, verificación antes que drama, cierre siempre con la acción de protección concreta.",
+      "musicPrompt": "Estilo: instrumental de boletin de emergencia, pulso electronico seco y percusion de alerta breve, tempo 95-110 BPM, sin voz, textura tensa y urgente pero profesional. Referencias de mood: noticiero de ultima hora, sala de monitoreo de ciberseguridad. Estructura: intro con un pulso corto, cuerpo que mantiene tension constante sin subir a climax. Duracion: loop de 2 a 3 minutos. Mood: urgente, seco, sin dramatismo excesivo.",
+      "thumbnailBase": "16:9, black background, [CAMBIAR: elemento del fraude — teléfono, rostro clonado, documento falso, videollamada] rendered with glitch/redaction texture, one warning-red accent, crosshair or triangle motif marking the danger point, half the frame kept dark for the hook text. TENDENCIAS 2026: el gancho más fuerte es 'esto ya te puede pasar a ti' en segunda persona; una sola palabra en rojo dentro del texto (ESTAFA, CLONADO, FALSO) sube el CTR; evitar mostrar rostros reales reconocibles de terceros.",
+      "styleBase": "Emergency-broadcast alert illustration style: deep alert-red and aged cream palette on black, a bold warning triangle with exclamation mark as the central motif, a dotted world map with faint industrial smoke silhouettes, redaction bars and glitch scan-lines overlaying the composition, crosshair reticle details in the corners, gritty distressed poster texture, documentary-alert tone, restrained and serious. Negative: cartoon style, cheerful colors, gore, oversaturation, cluttered infographic.",
+      "animationBase": "Static locked-off frame with a slow 5% push-in. Redaction bars slide open or closed in sync with the narration revealing the fraud mechanism. RGB channel-split glitch pulses once every few seconds and intensifies briefly when the fraud technique is named. The dotted world map drifts almost imperceptibly. Scan-line noise rolls continuously at low intensity. The warning triangle glows with a slow pulse. No character animation, no fast camera movement, no gore. Loopable, 4 to 6 seconds.",
+      "lineasRojas": "Nunca enseñar a ejecutar la tecnica de fraude, solo a detectarla y protegerse. No exagerar un riesgo sin evidencia; distinguir caso confirmado de rumor. No usar nombres o imagenes de victimas no publicas. Cada alerta cierra con una accion concreta, nunca solo con miedo.",
+      "tiempos": [
+        "Titular de alerta (0-8s): el patron de fraude nombrado sin rodeos, como un boletin de emergencia.",
+        "La pregunta retorica que confirma el riesgo: ya te llego una llamada asi?.",
+        "El mecanismo tecnico, explicado paso a paso sin tecnicismos innecesarios.",
+        "El caso documentado que confirma que ya esta pasando ahora.",
+        "La senal de deteccion, mostrada como una lista corta y memorizable.",
+        "El protocolo de proteccion, en el orden exacto en que debe ejecutarse.",
+        "Cierre circular: vuelve al titular de apertura, ahora con la accion ya en manos del espectador."
+      ],
+      "ideasSEO": {
+        "total": 50,
+        "muestra": [
+          "Cómo los estafadores pueden clonar tu voz con solo unos segundos de audio",
+          "La estafa de IA que imita la voz de tu hijo para pedirte dinero",
+          "Cómo saber si la voz de una llamada es falsa",
+          "Cómo un deepfake de un CEO puede vaciar una empresa",
+          "Cuánto audio necesitan para clonar tu voz",
+          "Cómo funciona la estafa de la llamada urgente con voz de IA",
+          "7 señales de que una llamada podría usar una voz clonada",
+          "Cómo usan tus redes para hacer una estafa con tu voz",
+          "Por qué tu voz no debería ser tu única contraseña",
+          "La palabra secreta que puede detener una estafa de voz con IA"
+        ]
+      }
+    },
+    {
+      "id": "la_maquina_invisible",
+      "source": "vol3_channels_extracted.txt",
+      "name": "La Máquina Invisible",
+      "nicho": "Infraestructura — el mundo invisible que hace que todo funcione",
+      "premisa": "Detrás de cada acción cotidiana hay un sistema físico gigantesco que nunca ves y que casi nunca falla. Este canal muestra ese sistema, pieza por pieza.",
+      "tono": "Documental de ingeniería, casi de manual técnico. La fascinación viene de la escala y la fragilidad oculta de sistemas que damos por hechos.",
+      "musicPrompt": "Estilo: instrumental documental de ingenieria, pads graves y percusion mecanica sutil (clicks, engranajes), tempo 75-90 BPM, sin voz, textura precisa y contenida. Referencias de mood: documental tecnico de alto presupuesto, sala de control. Estructura: intro minimal, cuerpo que construye capas al ritmo en que se ensambla el diagrama del video. Duracion: loop de 2 a 3 minutos. Mood: tecnico, fascinado, sereno.",
+      "thumbnailBase": "16:9, black background, [CAMBIAR: sistema del video — cable submarino, red eléctrica, torre de control, servidor] rendered as an isometric wireframe cutaway diagram in bone-cream linework, one small human silhouette for scale reference, half the frame kept dark for the hook text. TENDENCIAS 2026: el gancho 'qué pasaría si...' funciona mejor que la simple curiosidad técnica; la silueta humana diminuta junto al sistema comunica escala sin necesidad de texto; máximo 4 palabras de gancho.",
+      "styleBase": "Technical blueprint illustration style: aged bone-cream linework on pure black, an isometric wireframe cube containing a mechanical gear and a technical shaft with dashed construction lines, fine engineering drafting precision, subtle motion-blur speed lines suggesting scale and movement, thin circular border, restrained documentary-engineering tone. Negative: bright colors, cartoon style, cluttered infographic, photorealistic rendering, oversaturation.",
+      "animationBase": "Slow orbital rotation of the isometric wireframe, no more than 8 degrees across the shot, combined with a 5% push-in. Dashed construction lines solidify progressively into solid linework, piece by piece, following the exact order in which the narration explains each component. A small human silhouette stays rigid for scale reference. Motion-blur speed lines pulse briefly when describing flow or movement through the system. Background stays pure black. No camera shake, no color, no photorealistic rendering. Loopable, 5 to 7 seconds.",
+      "lineasRojas": "No dar informacion que facilite sabotaje o ataque a infraestructura real. Distinguir sistema documentado de escenario hipotetico. No generar alarmismo sin cerrar con contexto real de redundancia y seguridad del sistema.",
+      "tiempos": [
+        "El gancho de dependencia oculta (0-10s): esto que usas a diario depende de....",
+        "La pregunta retorica que sube la apuesta: sabes que pasa si esto falla un solo dia?.",
+        "Como funciona el sistema real, explicado con precision tecnica pero accesible.",
+        "El punto de falla menos conocido, revelado como el giro central del video.",
+        "El escenario de que pasaria si, desarrollado en consecuencias concretas y ordenadas.",
+        "Un dato de escala real (kilometros, usuarios, dinero) que cierra el argumento.",
+        "Cierre circular: vuelve al gancho de apertura, ahora con el sistema completamente desnudado."
+      ],
+      "ideasSEO": {
+        "total": 50,
+        "muestra": [
+          "Qué pasaría si internet se apagara durante una semana",
+          "El cable submarino del que depende internet",
+          "Cómo viaja realmente un mensaje por internet",
+          "Qué pasa cuando un servidor gigante deja de funcionar",
+          "Cómo funciona un centro de datos por dentro",
+          "Qué hay detrás de una videollamada",
+          "Cómo llega la señal de celular a tu teléfono",
+          "Qué pasa si un país pierde sus conexiones de internet",
+          "El lugar donde internet cambia de dirección",
+          "Cómo internet sobrevive cuando fallan sus servidores"
+        ]
+      }
+    },
+    {
+      "id": "dopamina_sa",
+      "source": "vol3_channels_extracted.txt",
+      "name": "Dopamina S.A.",
+      "nicho": "Psicología & Tech — cómo apps, casinos y plataformas diseñan tu adicción",
+      "premisa": "Nada en tu pantalla es casualidad: cada color, sonido y notificación fue diseñado por un equipo entero para mantenerte enganchado. Este canal desarma ese diseño con tono de denuncia directa.",
+      "tono": "Exposé duro, casi de investigación corporativa. Indignación informada, sin condescendencia hacia quien cayó en el diseño.",
+      "musicPrompt": "Estilo: instrumental electronico neon, synths pulsantes y percusion tipo maquina tragamonedas, tempo 100-115 BPM, sin voz, textura seductora pero inquietante. Referencias de mood: thriller corporativo tecnologico, casino digital. Estructura: intro con pulso de notificacion, cuerpo que gira como una ranura de premio sin resolverse del todo. Duracion: loop de 2 a 3 minutos. Mood: indignado, seductor, tenso.",
+      "thumbnailBase": "16:9, near-black background, [CAMBIAR: elemento de diseño adictivo — notificación, ruleta, botón infinito, ícono de like] rendered in glowing hot-pink and violet neon, a human profile silhouette anchoring the composition, glitch-text accent, half the frame kept dark for the hook text. TENDENCIAS 2026: el gancho más fuerte es 'te lo hicieron a ti a propósito'; un solo ícono reconocible (corazón, campana, pulgar) sobre negro convierte mejor que una captura real de la app.",
+      "styleBase": "Neon exposé illustration style: near-black background with glowing hot-pink, magenta and violet neon accents, a human brain in profile with a slot-machine window embedded inside it showing heart, bell and thumb icons, a notification bubble glowing above the head, glitch-text distortion on any lettering, subtle scan-line texture, dark seductive mood that mirrors the very design it critiques. Negative: warm cheerful colors, cartoon style, oversaturation without intent, gore.",
+      "animationBase": "The slot-machine icons inside the brain spin slowly and settle into place exactly when the narration names the psychological mechanism. The notification bubble above the head pulses with a soft glow at irregular intervals, mimicking a real phone alert rhythm. Glitch-text distortion flickers briefly on any on-screen label. Background neon glow breathes gently. The profile silhouette stays rigid — no facial animation. No camera shake, no fast cuts, no color outside the pink-violet-black palette. Loopable, 4 to 6 seconds.",
+      "lineasRojas": "Nunca enseñar a implementar estas tecnicas para enganchar a otros. No diagnosticar adiccion clinica al espectador; hablar de diseno de producto, no de patologia individual. Distinguir evidencia documentada de interpretacion editorial.",
+      "tiempos": [
+        "El comportamiento reconocible (0-10s): algo que el espectador hace y no puede explicar del todo.",
+        "La pregunta retorica que abre la denuncia: por que te pasa esto exactamente a ti?.",
+        "El mecanismo psicologico, nombrado con precision tecnica una sola vez.",
+        "El paralelo directo con el diseno de casinos o maquinas de azar.",
+        "La evidencia: estudios o documentos internos citados, con su fuente.",
+        "La defensa concreta para desactivar el mecanismo, mostrada como accion inmediata.",
+        "Cierre circular: vuelve al comportamiento de apertura, ahora nombrado y visible."
+      ],
+      "ideasSEO": {
+        "total": 80,
+        "muestra": [
+          "El bucle de dopamina que controla tus hábitos",
+          "Por qué lo impredecible puede engancharte más que lo bueno",
+          "La gran mentira sobre la dopamina y el placer",
+          "Por qué necesitas cada vez más para sentir lo mismo",
+          "Por qué tu cerebro nunca parece tener suficiente",
+          "Por qué tu cerebro odia dejar algo a medias",
+          "Por qué el mundo real empieza a parecer aburrido",
+          "Por qué tu teléfono se convirtió en una máquina de dopamina",
+          "Cómo el scroll infinito fue diseñado para que nunca quieras parar",
+          "El truco de las notificaciones que secuestra tu atención"
+        ]
+      }
+    },
+    {
+      "id": "oficio_reprogramado",
+      "source": "vol3_channels_extracted.txt",
+      "name": "Oficio Reprogramado",
+      "nicho": "IA & Trabajo — profesiones transformadas por la IA, oficio por oficio",
+      "premisa": "Ningún oficio desaparece de golpe: se reescribe tarea por tarea. Este canal documenta, profesión por profesión, qué parte ya automatizó la IA y qué parte sigue siendo humana.",
+      "tono": "Documental analítico, dedicado por completo al oficio y su transformación — sin mezclarlo con negocios, fraude ni finanzas.",
+      "musicPrompt": "Estilo: instrumental documental industrial moderno, piano contenido y pads sinteticos, tempo 85-95 BPM, sin voz, textura respetuosa y analitica. Referencias de mood: documental de negocios sobre oficios, editorial de trabajo. Estructura: intro sobria, cuerpo que construye capas al ritmo del balance entre lo perdido y lo que queda. Duracion: loop de 2 a 3 minutos. Mood: respetuoso, analitico, sin alarmismo.",
+      "thumbnailBase": "16:9, black background, [CAMBIAR: profesional del oficio del video] in aged-cream silhouette, one side of the figure or their tools dissolving into orange pixel fragments, distressed poster texture, half the frame kept dark for the hook text. TENDENCIAS 2026: nombrar el oficio exacto en el texto es lo que más convierte en este nicho, porque la búsqueda es por profesión ('radiólogos', 'traductores'); evitar rostros reales reconocibles.",
+      "styleBase": "Distressed industrial-poster illustration style: aged cream and burnt-orange palette on black, a worker silhouette wearing a hard hat that dissolves progressively into orange pixel fragments and thin circuit traces on one side, vintage union-poster texture with heavy grain, bold stenciled typography accents, documentary-industrial mood, restrained and serious. Negative: bright saturated colors, cartoon style, futuristic sci-fi rendering, oversaturation.",
+      "animationBase": "Slow push-in on the worker silhouette, 5 to 8%. Orange pixel fragments and thin circuit traces advance progressively across one side of the figure, synced precisely to the moment the narration names the automated task, then hold in place — never covering the entire silhouette. The human half stays crisp and rigid, no morphing. Fine dust and grain texture drifts over the whole frame. Background stays black. No camera shake, no fast cuts, no bright colors outside cream-orange-black. Loopable, 5 to 7 seconds.",
+      "lineasRojas": "No prometer empleo ni ingresos. Distinguir siempre automatizacion de tarea frente a desaparicion de profesion completa. Citar la fuente de cada cifra de adopcion o mercado.",
+      "tiempos": [
+        "El oficio (0-15s): que hace exactamente esa profesion y por que importa, contado con respeto.",
+        "La pregunta retorica que abre la duda: cuanto de esto sigue siendo solo humano?.",
+        "La tarea automatizada, nombrada con precision y sin exagerar su alcance.",
+        "El dato o caso real de la industria, citado con su fuente.",
+        "Lo que queda humano: la habilidad que sigue siendo dificil de replicar.",
+        "El movimiento concreto: que haria hoy alguien de ese oficio para reposicionarse.",
+        "Cierre circular: vuelve al oficio de apertura, con el balance completo entre lo perdido y lo que queda."
+      ],
+      "ideasSEO": {
+        "total": 50,
+        "muestra": [
+          "La IA no va a reemplazar tu trabajo así como crees",
+          "Qué partes de tu trabajo puede hacer una IA",
+          "Así podría funcionar una empresa con muchos menos empleados",
+          "El nuevo trabajo no será hacer: será supervisar",
+          "Qué pasa cuando hacer algo deja de costar casi nada",
+          "El trabajador que usa IA contra el que no la usa",
+          "Por qué la IA puede hacerte más rápido y más ocupado",
+          "El problema de aprender un oficio cuando la IA hace el trabajo junior",
+          "Qué parte del trabajo de un abogado ya puede hacer la IA",
+          "Qué tareas de los médicos ya hace la inteligencia artificial"
+        ]
+      }
+    },
+    {
+      "id": "legado_intemporal",
+      "source": "vol3_channels_extracted.txt",
+      "name": "Legado Intemporal",
+      "nicho": "Filosofía e Historia — grandes preguntas de la humanidad contadas como arco civilizatorio",
+      "premisa": "Cada gran pregunta humana —la muerte, el poder, el sentido— tiene una historia de miles de años detrás, contada por civilizaciones que nunca se conocieron entre sí y aun así llegaron a la misma pregunta. Este canal recorre esa historia completa en cada video.",
+      "tono": "Ensayo documental panorámico, con la misma serenidad y el mismo permiso para la duda que tendría un profesor que respeta tanto la fe como la ciencia sin necesitar que el espectador elija un bando.",
+      "musicPrompt": "Estilo: instrumental clasico contemplativo panoramico, cuerdas amplias y una nota sostenida de coro lejano, tempo muy lento 50-65 BPM, sin voz, textura solemne y espaciosa. Referencias de mood: documental civilizatorio, sala de esculturas antiguas. Estructura: intro casi en silencio, cuerpo que se ensancha en cada parada del arco civilizatorio. Duracion: loop de 2 a 3 minutos. Mood: solemne, reverente, atemporal.",
+      "thumbnailBase": "16:9, deep black background, [CAMBIAR: símbolo del tema — reloj de arena, templo, manuscrito, máscara] rendered in aged gold engraved linework, the marble bust silhouette anchoring one third of the frame, dramatic side lighting, the opposite third kept dark for the hook text. TENDENCIAS 2026: la pregunta existencial directa en segunda persona ('¿y si morir no es el final?') convierte mejor que el titular descriptivo; el oro sobre negro debe usarse siempre, nunca introducir otro color de acento.",
+      "styleBase": "Classical marble-and-gold illustration style: an idealized youthful marble bust in profile, curly engraved hair, a laurel wreath and an Ionic column beside it, a small star above and an hourglass motif at the base, aged gold linework on deep black, fine engraved detail reminiscent of antique coin or medal die-work, dramatic side lighting, dotted circular border, reverent and timeless mood. Negative: modern clothing, cartoon style, bright saturated colors, motivational-poster look.",
+      "animationBase": "Extremely slow push-in on the marble bust, 4 to 6% across the whole shot, with the key light drifting gradually so engraved gold details are revealed progressively as the light passes over them. The bust stays absolutely rigid — no morphing, no facial animation. The star above flickers once, softly. Fine dust motes drift through the light beam. Background stays pure black at all times. No camera shake, no cuts inside the shot, no color outside gold-black. Loopable, 7 to 10 seconds.",
+      "lineasRojas": "No afirmar como hecho lo que es teoria o interpretacion: siempre se marca la diferencia. No tomar partido entre fe y ciencia; se presentan ambos marcos con el mismo respeto. No presentar ninguna tradicion religiosa real como falsa o ridicula. Toda cita de pensador lleva atribucion explicita de obra y contexto.",
+      "tiempos": [
+        "Escena inmersiva en 2a persona (0-15s): un dilema existencial concreto, no una idea abstracta.",
+        "La pregunta retorica que abre el arco: por que, sin importar donde ni cuando, terminamos creyendo en algo mas alla?.",
+        "El primer registro historico documentado del patron (el primer entierro, el primer templo, el primer texto).",
+        "El mecanismo nombrado de forma memorable, explicado con un ejemplo cotidiano y simple.",
+        "El arco panoramico: 3-4 civilizaciones distintas donde se repite el mismo patron con su propia variacion.",
+        "Cita de un pensador real, con atribucion explicita de obra y contexto.",
+        "Cierre circular: vuelve a la escena de apertura, ahora resonando distinto, sin cerrar la pregunta de fondo."
+      ],
+      "ideasSEO": {
+        "total": 50,
+        "muestra": [
+          "Por qué los humanos empezaron a enterrar a sus muertos",
+          "Cuándo empezó la humanidad a creer en una vida después de la muerte",
+          "Por qué las primeras civilizaciones inventaron dioses",
+          "Por qué el cerebro humano inventa explicaciones para lo desconocido",
+          "Cómo miles de desconocidos aprendieron a vivir juntos",
+          "Cómo nació la autoridad y por qué empezamos a obedecer",
+          "El origen de la idea de que los reyes tenían derecho a gobernar",
+          "Cómo nació la idea de la ley y por qué la necesitamos",
+          "Cómo los mitos compartidos crean naciones enteras",
+          "Por qué el dinero tiene valor a pesar de ser solo una ficción"
+        ]
+      }
+    },
+    {
+      "id": "el_arte_cuenta_historias",
+      "source": "vol4_channels_extracted.txt",
+      "name": "El Arte Cuenta Historias",
+      "nicho": "Arte & Creatividad — el proceso creativo como narrativa",
+      "premisa": "Cada ilustración esconde una decisión, una historia o una pregunta. Este canal no muestra solamente cómo se dibuja: muestra por qué se dibuja así.",
+      "tono": "Reflexivo y cercano, como un artista pensando en voz alta mientras trabaja. Nunca técnico en exceso; prioriza la emoción y el porqué sobre el paso a paso mecánico.",
+      "musicPrompt": "Estilo: instrumental atelier reflexivo, piano suave y texturas de sintetizador calido, tempo 75-90 BPM, sin voz, textura intima y creativa. Referencias de mood: documental de proceso creativo, estudio de artista. Estructura: intro minimal, cuerpo que acompana el avance del timelapse sin dominar la narracion. Duracion: loop de 2 a 3 minutos. Mood: reflexivo, calido, curioso.",
+      "thumbnailBase": "16:9, black background, [CAMBIAR: la pieza o concepto del video] shown mid-creation with visible brush texture, one vivid accent color against the dark palette, half the frame kept dark for the hook text. TENDENCIAS 2026: mostrar la pieza a medio terminar (no completa) genera más curiosidad que el resultado final; la pregunta en segunda persona ('¿Y si...?') convierte mejor que el título descriptivo del tema.",
+      "styleBase": "Digital atelier illustration style: deep black canvas background with vivid, saturated paint-splatter accents in coral, teal and gold, a visible brush mid-stroke leaving a trail of pigment, painterly texture with expressive linework, dramatic single-source studio lighting, generous negative space for text overlay, energetic but controlled composition. Negative: cartoon-flat style, muted palette, cluttered background, photorealistic rendering.",
+      "animationBase": "Time-lapse illustration reveal: the artwork builds progressively layer by layer — base shapes first, then color blocking, then shading and fine detail — speeding through repetitive stages and slowing to real-time at the key decisive brushstroke. A visible brush or stylus cursor leaves a soft trailing glow. Background stays a dark neutral studio tone. No camera movement, no added elements outside the artwork itself. Loopable only at the very final held frame, 4 to 8 seconds per stage.",
+      "lineasRojas": "Nunca reproducir letras de canciones protegidas ni su audio original: solo interpretacion visual inspirada en el ambiente. No presentar interpretaciones personales de una obra como el significado oficial o unico. Citar la obra y el artista real cuando se hable de una pieza historica especifica. No reclamar autoria sobre estilos o personajes de otros artistas vivos.",
+      "tiempos": [
+        "Hook (0-10s): el resultado adelantado o la pregunta central (como se veria X si tuviera rostro?).",
+        "Pregunta central: que se va a resolver visualmente en el video.",
+        "Contexto: la referencia real (obra, cancion, concepto) que inspira la pieza.",
+        "Desarrollo: el timelapse narrado, decision por decision.",
+        "Giro: el detalle o dato que cambia la lectura de la pieza a mitad de camino.",
+        "Evidencia: la fuente o el dato verificable que sostiene la historia contada.",
+        "Cierre circular: se vuelve al resultado del inicio, ahora completamente entendido."
+      ],
+      "ideasSEO": {
+        "total": 20,
+        "muestra": [
+          "Así se vería la ansiedad si tuviera un rostro",
+          "Así se vería la soledad si tuviera un rostro",
+          "Así se vería la avaricia si tuviera un rostro",
+          "El cuadro que casi desaparece para siempre",
+          "El detalle que casi nadie nota en esta obra maestra",
+          "Así se vería esta canción de desamor dentro de mi universo",
+          "Interpretando visualmente una canción sobre la libertad",
+          "Creando un personaje oscuro desde cero, paso a paso",
+          "Cómo un solo color puede arruinar (o salvar) una pintura",
+          "La técnica de pintura que tardó siglos en perfeccionarse"
+        ]
+      }
+    },
+    {
+      "id": "fitness_anatomico",
+      "source": "vol4_channels_extracted.txt",
+      "name": "Saiyan Fit",
+      "nicho": "Fitness & Ciencia del cuerpo — anatomía visual aplicada al entrenamiento",
+      "premisa": "Tu cuerpo hace mucho más de lo que ves en el espejo. Este canal muestra, por dentro, qué ocurre exactamente cuando entrenas, descansas o comes.",
+      "tono": "Instructor claro y directo, con base científica pero sin jerga innecesaria. Cero promesas médicas, cero dramatismo: el dato ilustrado es suficiente gancho.",
+      "musicPrompt": "Estilo: instrumental clinico-instructivo, pulsos electronicos limpios y percusion minimal, tempo 90-100 BPM, sin voz, textura precisa y energica. Referencias de mood: documental cientifico deportivo, laboratorio de biomecanica. Estructura: intro directa, cuerpo constante que sostiene el ritmo instructivo sin subidas dramaticas. Duracion: loop de 2 a 3 minutos. Mood: clinico, energico, confiable.",
+      "thumbnailBase": "16:9, black background, [CAMBIAR: músculo o mecanismo del video] shown in glowing cyan cross-section detail, one clear focal point, half the frame kept dark for the hook text. TENDENCIAS 2026: el corte anatómico glowing es el gancho visual reconocible del canal; el texto debe nombrar el ejercicio o músculo concreto, porque la búsqueda en este nicho es muy específica.",
+      "styleBase": "Dynamic medical-illustration style: clean cyan and electric-blue linework on clinical black background, cross-sectional muscle anatomy rendered with clear layered detail, thin glowing energy lines indicating force vectors and movement, precise technical shading, generous negative space for on-screen text, restrained scientific-poster aesthetic. Negative: gore, exposed bone/blood detail, cartoon style, warm colors, oversaturation.",
+      "animationBase": "Slow layered reveal of the human figure: skin fades to translucent, then the relevant muscle group brightens in cyan outline, then thin glowing force-direction lines animate along the movement path described in the narration. The figure stays anatomically static — no walking, no full-body motion, only the targeted muscle group animates subtly. Background remains clinical black. No camera shake, no gore, no bone exposure. Loopable, 4 to 6 seconds.",
+      "lineasRojas": "No diagnosticar, no dar dosis de suplementos ni afirmaciones medicas. Diferenciar metafora visual de representacion medica real. Citar fuente cientifica cuando se afirme algo sobre salud. No prometer resultados esteticos garantizados.",
+      "tiempos": [
+        "Pregunta directa (0-10s): sobre un ejercicio, musculo o mito concreto.",
+        "Pregunta retorica que sube la apuesta: estas seguro de que sabes que trabaja este ejercicio?.",
+        "El mecanismo biomecanico o fisiologico, ilustrado en corte anatomico.",
+        "El error comun asociado, mostrado como lo que casi todos hacen.",
+        "La explicacion correcta, con evidencia o fuente citada.",
+        "La aplicacion practica inmediata.",
+        "Cierre circular: vuelve a la pregunta de apertura, ahora respondida con precision."
+      ],
+      "ideasSEO": {
+        "total": 20,
+        "muestra": [
+          "Qué músculos trabaja realmente una sentadilla",
+          "Por qué el press banca activa más que el pecho",
+          "El músculo que trabaja en casi todos tus ejercicios",
+          "Qué pasa en tu cuerpo en el primer minuto de cardio",
+          "Por qué el dolor muscular no mide qué tan bueno fue tu entreno",
+          "El error de calentamiento que baja tu rendimiento",
+          "Cómo se repara un músculo después de entrenar",
+          "Por qué estirar antes de entrenar no es lo que crees",
+          "El mito de \\\\\\\"quemar grasa localizada\\\\\\\" explicado con anatomía real",
+          "Qué le pasa a tu energía cuando entrenas en ayunas"
+        ]
+      }
+    },
+    {
+      "id": "de_idea_a_celebracion",
+      "source": "vol4_channels_extracted.txt",
+      "name": "De Idea a Celebración",
+      "nicho": "Repostería & Diseño de eventos — el proceso detrás de cada celebración",
+      "premisa": "Detrás de cada torta o topper hay un reto real: un plazo ajustado, un cambio de última hora, un presupuesto limitado. Este canal muestra ese proceso completo, no solo el resultado.",
+      "tono": "POV de experta, cálido y cercano, como si la espectadora estuviera al lado de la mesa de trabajo. Honesto sobre errores y costos reales.",
+      "musicPrompt": "Estilo: instrumental calido y artesanal, guitarra acustica suave o piano intimista, tempo 85-95 BPM, sin voz, textura cercana y acogedora. Referencias de mood: cocina de estudio, documental de oficio artesanal. Estructura: intro suave, cuerpo constante que acompana el proceso sin dramatismo. Duracion: loop de 2 a 3 minutos. Mood: calido, honesto, cercano.",
+      "thumbnailBase": "16:9, warm dark studio background, [CAMBIAR: la pieza o reto del video] shown close-up with visible texture and detail, soft pastel pink accent lighting, one third of the frame kept dark for the hook text. TENDENCIAS 2026: el antes/después en la misma miniatura convierte mejor que el resultado solo; mostrar la mano trabajando (no solo el objeto) aumenta la sensación de POV auténtico.",
+      "styleBase": "Warm POV pastry-studio illustration and photography style: soft pastel pink and cream tones against a warm dark studio background, hands actively working with fondant, piping bags and sculpting tools, gentle diffused overhead work-lamp lighting, shallow depth of field emphasizing texture and detail, cozy artisanal documentary mood. Negative: cold blue tones, cartoon style, cluttered background, harsh flash lighting.",
+      "animationBase": "Warm handheld POV footage of pastry work: hands shaping fondant, piping details or assembling tiers under soft overhead lamp light. Repetitive stages (kneading, drying, base assembly) play back sped up as a smooth time-lapse; precision moments (facial detail, fine piping) play in real time with steady close framing. Soft warm color grading throughout. No harsh camera shake, no added digital elements, no gore or sharp-tool close-ups beyond normal kitchen use. Loopable only at the final held reveal shot, 5 to 8 seconds.",
+      "lineasRojas": "No prometer resultados identicos sin experiencia previa. Ser honesta sobre tiempos y dificultad real de cada tecnica. No exagerar costos ni presentar precios poco realistas. Identificar siempre cuando un error fue real y como se corrigio, sin ocultar el proceso de aprendizaje.",
+      "tiempos": [
+        "Hook (0-10s): el pedido y por que representa un reto real.",
+        "Pregunta central: se lograra a tiempo / con este presupuesto / con este material?.",
+        "Contexto: quien es la clienta y que necesita exactamente.",
+        "Desarrollo: el proceso POV, paso a paso, con los tiempos reales.",
+        "Giro: el problema que aparece a mitad de camino.",
+        "Evidencia: como se resolvio el problema en la practica.",
+        "Cierre circular: el resultado final, comparado con el reto planteado al inicio."
+      ],
+      "ideasSEO": {
+        "total": 20,
+        "muestra": [
+          "La clienta pidió un topper elegante y casi no llegamos a tiempo",
+          "De boceto a realidad: así nace un topper personalizado",
+          "El error que casi arruina una torta de tres pisos",
+          "Cuánto cuesta realmente una mesa dulce profesional",
+          "El secreto para que el fondant nunca se agriete",
+          "De torta sencilla a obra de arte: la transformación completa",
+          "La decoración de cumpleaños que tomó una semana completa",
+          "Por qué algunas tortas se derrumban (y cómo evitarlo)",
+          "El topper más difícil que hemos hecho hasta hoy",
+          "Cómo cobrar correctamente por un topper personalizado"
+        ]
+      }
+    },
+    {
+      "id": "reconstruir_la_civilizacion",
+      "source": "vol4_channels_extracted.txt",
+      "name": "Reconstruir la Civilización",
+      "nicho": "Historia & Tecnología — cómo se construyó (y se reconstruiría) la civilización",
+      "premisa": "Si mañana desapareciera nuestra civilización, ¿qué tendríamos que reconstruir primero? Este canal recorre el progreso humano real como si fuera el manual de esa reconstrucción.",
+      "tono": "Documental panorámico, riguroso pero accesible. La pregunta hipotética es el marco narrativo, nunca la tesis: el contenido real es historia documentada.",
+      "musicPrompt": "Estilo: instrumental documental civilizatorio, percusion tribal sutil combinada con pads modernos, tempo 80-95 BPM, sin voz, textura que evoluciona con el tiempo. Referencias de mood: documental de progreso humano, gran narrativa historica. Estructura: intro con textura antigua, cuerpo que se moderniza progresivamente al avanzar la linea de tiempo. Duracion: loop de 2 a 3 minutos. Mood: expansivo, curioso, con peso historico.",
+      "thumbnailBase": "16:9, black background, [CAMBIAR: tecnología o etapa del video] rendered as an aged bronze isometric diagram, one small human silhouette for scale reference, half the frame kept dark for the hook text. TENDENCIAS 2026: la pregunta 'qué pasaría si...' en segunda persona convierte mejor que la curiosidad histórica genérica; el contraste bronce sobre negro puro destaca en el feed frente a miniaturas saturadas.",
+      "styleBase": "Historical-progress diagram illustration style: aged bronze and carbon-black palette, ancient tools and mechanical gears arranged along a technical timeline, fine engraved linework with dashed connector lines between eras, subtle dust and patina texture, restrained documentary-engineering tone. Negative: bright saturated colors, cartoon style, futuristic sci-fi elements, oversaturation.",
+      "animationBase": "Slow horizontal pan across an isometric historical timeline diagram: each tool, structure or invention solidifies from dashed construction lines into solid bronze linework exactly when the narration names it, with connecting gears turning briefly to mark the transition to the next era. Fine dust particles drift across the frame. Background stays carbon black. No camera shake, no color outside bronze-black, no modern or futuristic elements unless explicitly part of the hypothetical scenario. Loopable, 5 to 8 seconds.",
+      "lineasRojas": "Separar siempre escenario hipotetico declarado de hecho historico documentado. No dar instrucciones tecnicas que faciliten sabotaje a infraestructura real. No presentar el colapso como inevitable ni fomentar alarmismo; el tono es de curiosidad, no de miedo.",
+      "tiempos": [
+        "Pregunta hipotetica en 2a persona (0-10s): que reconstruirias primero?.",
+        "Pregunta retorica que sube la apuesta: cuanto tiempo real tomo la primera vez?.",
+        "El mecanismo historico real, con fecha y contexto documentado.",
+        "El arco panoramico: 3-4 civilizaciones o etapas donde se repite o evoluciona el mismo avance.",
+        "El punto de fragilidad moderno: que tan dependientes somos hoy de esa base.",
+        "Un dato de escala (tiempo, numero de personas, distancia) que cierra el argumento.",
+        "Cierre circular: se responde la pregunta hipotetica de apertura con el dato historico ya expuesto."
+      ],
+      "ideasSEO": {
+        "total": 20,
+        "muestra": [
+          "Qué tendrías que reconstruir primero si la civilización cae",
+          "Cómo el fuego cambió todo antes que cualquier otra tecnología",
+          "Por qué la agricultura fue más difícil de inventar de lo que crees",
+          "El animal que cambió la historia humana al ser domesticado",
+          "Cómo se descubrió que el barro podía convertirse en cerámica",
+          "El metal que sacó a la humanidad de la Edad de Piedra",
+          "Por qué las primeras ciudades necesitaron inventar la escritura",
+          "Sin electricidad, ¿cuánto durarían las ciudades modernas?",
+          "La tecnología que necesitarías antes de construir un auto",
+          "Cómo se construyó la primera red comercial a larga distancia"
+        ]
+      }
+    },
+    {
+      "id": "historias_de_los_platos",
+      "source": "vol4_channels_extracted.txt",
+      "name": "Historias de los Platos",
+      "nicho": "Gastronomía & Historia — el origen y la migración de los platos que comemos",
+      "premisa": "Ningún plato llegó a tu mesa por accidente: cada uno tiene un origen, un viaje y una transformación cultural. Este canal reconstruye esa historia documentada.",
+      "tono": "Narrador documental cálido, con la curiosidad de quien está descubriendo la historia junto al espectador. Cita fuentes sin sonar académico o distante.",
+      "musicPrompt": "Estilo: instrumental documental gastronomico calido, cuerdas suaves con toques de instrumentos regionales sutiles, tempo 75-90 BPM, sin voz, textura curiosa y acogedora. Referencias de mood: documental culinario premium, mercado de especias. Estructura: intro con una sola linea melodica, cuerpo que se enriquece con cada etapa del viaje del plato. Duracion: loop de 2 a 3 minutos. Mood: calido, curioso, documental.",
+      "thumbnailBase": "16:9, black background, [CAMBIAR: plato del video] illustrated in warm sepia detail, a small trade-route line or map fragment in the corner, one third of the frame kept dark for the hook text. TENDENCIAS 2026: el gancho 'no empieza donde crees' convierte mejor que el nombre del plato solo; mostrar el plato junto a un elemento de mapa antiguo comunica la promesa documental sin necesidad de texto extra.",
+      "styleBase": "Archival culinary illustration style: warm spiced sepia and deep black palette, hand-drawn ingredients, trade-route maps and period cookware rendered with fine engraved linework, aged parchment texture, a warm single light source, museum-catalog precision mixed with culinary warmth. Negative: bright saturated colors, modern kitchen photography, cartoon style, oversaturation.",
+      "animationBase": "Slow reveal of a trade route drawing itself across an aged parchment map, following the exact path the narration describes, with a small illustrated icon of the ingredient or dish traveling along the line. The map background drifts almost imperceptibly for parallax. Warm sepia lighting stays constant. No camera shake, no bright colors, no modern map elements. Loopable, 5 to 8 seconds.",
+      "lineasRojas": "No presentar teorias de origen no verificadas como hechos confirmados; senalar cuando existen versiones en disputa. Citar la fuente historica o academica cuando exista. No tomar partido en disputas de autoria entre paises: presentar ambas versiones documentadas.",
+      "tiempos": [
+        "Hook (0-15s): el plato y la creencia popular sobre su origen.",
+        "Pregunta central: de verdad empezo asi?.",
+        "Contexto: que se sabe documentalmente sobre su origen real.",
+        "Desarrollo: el viaje del plato a traves de comercio, migracion o conflicto.",
+        "Giro: la controversia o el dato que contradice la version popular.",
+        "Evidencia: la fuente historica o academica que sostiene la version real.",
+        "Cierre circular: que representa hoy ese plato, en contraste con su origen real."
+      ],
+      "ideasSEO": {
+        "total": 20,
+        "muestra": [
+          "La historia de la pizza no empieza donde crees",
+          "El plato que nació por pura necesidad",
+          "Por qué este plato tiene ese nombre tan extraño",
+          "El ingrediente que cambió una receta para siempre",
+          "La guerra que convirtió un plato local en comida mundial",
+          "El plato que dos países se disputan como propio",
+          "Cómo la migración creó uno de los platos más queridos del mundo",
+          "El plato prohibido que sobrevivió en secreto",
+          "Por qué este plato callejero terminó en restaurantes de lujo",
+          "La ruta comercial que trajo el ingrediente que hoy es esencial"
+        ]
+      }
+    },
+    {
+      "id": "construccion_y_herramientas",
+      "source": "vol4_channels_extracted.txt",
+      "name": "Construcción y Herramientas",
+      "nicho": "Construcción & Herramientas — ingeniería y oficio explicados",
+      "premisa": "Cada estructura que ves de pie tiene una razón de ingeniería detrás, y cada herramienta resuelve un problema específico. Este canal muestra el porqué, no solo el cómo.",
+      "tono": "Instructor de oficio, directo y sin adornos. Respeta al profesional pero explica con claridad para el curioso que nunca ha sostenido esa herramienta.",
+      "musicPrompt": "Estilo: instrumental industrial de taller, percusion metalica seca y pads graves, tempo 85-100 BPM, sin voz, textura directa y confiada. Referencias de mood: documental de oficio, taller en actividad. Estructura: intro directa, cuerpo constante que sostiene autoridad tecnica sin dramatismo. Duracion: loop de 2 a 3 minutos. Mood: directo, tecnico, confiado.",
+      "thumbnailBase": "16:9, black background, [CAMBIAR: herramienta o estructura del video] rendered in safety-yellow isometric detail, one clear focal point, half the frame kept dark for the hook text. TENDENCIAS 2026: el gancho 'parece imposible' convierte mejor que el nombre técnico de la herramienta; el amarillo de seguridad sobre negro puro es la marca reconocible del canal en el feed.",
+      "styleBase": "Industrial workshop-poster illustration style: bold safety-yellow and industrial-black palette, technical tools rendered in clean isometric exploded-view detail, fine engineering linework with dimension lines and callouts, gritty distressed poster texture, restrained documentary-industrial tone. Negative: bright saturated colors beyond yellow-black, cartoon style, photorealistic gore or injury, oversaturation.",
+      "animationBase": "Slow isometric exploded-view animation: components of the tool or structure separate cleanly along construction lines, each piece highlighting exactly when the narration names its function, then reassembling smoothly at the end. Thin glowing yellow force-direction lines animate briefly to show load or movement. Background stays industrial black. No camera shake, no bright colors outside yellow-black, no depiction of injury. Loopable, 5 to 7 seconds.",
+      "lineasRojas": "No dar instrucciones peligrosas sin contexto de seguridad explicito. No mostrar procedimientos que requieran certificacion profesional como si fueran caseros. Advertir siempre cuando una tecnica requiere supervision especializada.",
+      "tiempos": [
+        "Resultado o pregunta directa (0-10s): el gancho visual de la estructura o herramienta.",
+        "Pregunta retorica que sube la apuesta: tu sabrias explicar como funciona esto?.",
+        "La herramienta o tecnica, presentada con precision.",
+        "El proceso paso a paso.",
+        "El error comun relacionado, mostrado como lo que casi todos hacen mal.",
+        "El dato tecnico o de ingenieria que respalda la explicacion.",
+        "Cierre circular: vuelve al resultado de apertura, ahora explicado por completo."
+      ],
+      "ideasSEO": {
+        "total": 20,
+        "muestra": [
+          "La herramienta que todo albañil debería conocer bien",
+          "Cómo pueden levantar un edificio sin que se caiga",
+          "Esta herramienta parece inútil hasta que ves para qué sirve",
+          "Así se instala una estructura que soporta toneladas",
+          "El error que hace que una construcción falle años después",
+          "Por qué los rascacielos se mueven (y está bien que lo hagan)",
+          "La herramienta olvidada que resolvió un problema de siglos",
+          "Cómo se nivela una construcción sobre terreno irregular",
+          "El material que parece débil pero soporta más que el acero",
+          "Así funciona la grúa que ves en cada construcción grande"
+        ]
+      }
+    },
+    {
+      "id": "organizacion_elegante",
+      "source": "vol4_channels_extracted.txt",
+      "name": "Organización Elegante",
+      "nicho": "Organización & Estética del hogar — orden como percepción de calidad",
+      "premisa": "No se trata de tener más o menos estrato: se trata de que tu espacio se vea, se sienta y funcione como uno de mayor calidad. Este canal enseña el criterio, no solo el truco.",
+      "tono": "Editorial y sereno, como una diseñadora de interiores explicando su criterio en voz alta. Nunca condescendiente sobre el desorden ajeno.",
+      "musicPrompt": "Estilo: instrumental editorial minimalista, piano limpio y pads suaves, tempo 80-90 BPM, sin voz, textura serena y sofisticada. Referencias de mood: showroom de diseno, revista de interiores. Estructura: intro suave, cuerpo constante y sereno que nunca compite con la narracion. Duracion: loop de 2 a 3 minutos. Mood: sereno, elegante, aspiracional.",
+      "thumbnailBase": "16:9, black background, [CAMBIAR: espacio del video] shown in a clean before/after split composition, bone-white accent lighting, one third of the frame kept dark for the hook text. TENDENCIAS 2026: el antes/después en la misma miniatura convierte muy por encima del resultado solo; el texto debe nombrar el error concreto ('así se ve barato tu baño'), no el tema general.",
+      "styleBase": "Minimalist editorial interior-design illustration and photography style: bone-white and matte-black palette, clean straight architectural lines, soft overhead showroom lighting, generous negative space, restrained high-end catalog aesthetic. Negative: cluttered composition, warm yellow lighting, cartoon style, oversaturation, busy patterns.",
+      "animationBase": "Clean editorial before/after wipe transition: a single vertical line sweeps smoothly across the frame revealing the organized after-state over the cluttered before-state, following soft overhead showroom lighting throughout. A thin geometric line or frame briefly highlights the specific design principle being applied. Background stays neutral bone-white and black. No camera shake, no decorative icons, no warm color grading. Loopable only at the final held after-shot, 5 to 7 seconds.",
+      "lineasRojas": "No prometer literalmente un cambio de estatus social o economico. Ser honesta sobre el costo de contenedores o productos recomendados. No presentar el desorden ajeno de forma humillante; el tono es aspiracional, no de burla.",
+      "tiempos": [
+        "El error visual reconocible (0-10s): algo que el espectador identifica en su propia casa.",
+        "Pregunta retorica: por que se ve asi aunque este limpio?.",
+        "El principio de percepcion visual o diseno detras del problema.",
+        "La transformacion aplicada, paso a paso.",
+        "El giro: el detalle pequeno que cambia la percepcion completa del espacio.",
+        "Evidencia visual: el antes y el despues comparados directamente.",
+        "Cierre circular: vuelve al error de apertura, ahora resuelto."
+      ],
+      "ideasSEO": {
+        "total": 20,
+        "muestra": [
+          "3 cosas que hacen que tu cocina parezca desordenada",
+          "Así organiza una nevera un hotel de lujo",
+          "El error que hace que tu baño se vea barato",
+          "La diferencia real entre cocina ordenada y cocina elegante",
+          "Cómo organizar un armario para que se vea como una tienda",
+          "El truco de almacenamiento que usan los diseñadores",
+          "Por qué menos objetos a la vista hacen que un espacio parezca más caro",
+          "De despensa caótica a espacio de revista",
+          "El error de organización que casi todos cometen en el clóset",
+          "Así se organiza un dormitorio para que se sienta como un hotel"
+        ]
+      }
+    },
+    {
+      "id": "cronica_sagrada",
+      "source": "vol4_channels_extracted.txt",
+      "name": "Crónica Sagrada",
+      "nicho": "Historia bíblica & Arqueología — el documento detrás de la fe",
+      "premisa": "La historia detrás de las historias bíblicas: manuscritos, arqueología, traducción y contexto documentado. Este canal no debate la fe; documenta lo que se sabe.",
+      "tono": "Investigador de archivo, riguroso y respetuoso. Nunca ridiculiza una tradición ni presenta especulación como hallazgo confirmado.",
+      "musicPrompt": "Estilo: instrumental de archivo reverente, coro lejano muy sutil y cuerdas calidas, tempo 60-75 BPM, sin voz principal, textura solemne y calida. Referencias de mood: sala de manuscritos, documental de arqueologia biblica. Estructura: intro con una nota sostenida, cuerpo que se ensancha levemente al revelar el documento. Duracion: loop de 2 a 3 minutos. Mood: reverente, calido, riguroso.",
+      "thumbnailBase": "16:9, deep black background, [CAMBIAR: manuscrito, objeto o lugar del video] lit by a single warm candlelight source, aged gold and parchment palette, one third of the frame kept dark for the hook text. TENDENCIAS 2026: la pregunta 'qué sabemos realmente' convierte mejor que la afirmación directa; el oro sobre negro debe mantenerse consistente en todo el canal para construir reconocimiento.",
+      "styleBase": "Illuminated-manuscript illustration style: aged parchment gold and deep black palette, fine calligraphic linework, wax seals and gilded initial letters, subtle candlelight glow, museum-archive precision mixed with reverent warmth, thin ornamental border elements. Negative: bright saturated colors, modern elements, cartoon style, oversaturation, disrespectful or mocking imagery.",
+      "animationBase": "Extremely slow push-in on an illuminated manuscript page, with warm candlelight drifting gradually across the parchment so gilded details and script are revealed progressively. Fine dust motes drift through the light beam. A wax seal glints once, softly, when the key document is named. The manuscript itself stays completely rigid — no text changes, no morphing. Background stays deep black. No camera shake, no modern elements. Loopable, 6 to 9 seconds.",
+      "lineasRojas": "Separar siempre fe, hecho historico documentado, interpretacion y especulacion, nombrando explicitamente en cual de las cuatro categorias se encuentra cada afirmacion. No presentar teorias como hechos. No ridiculizar ninguna tradicion religiosa. Citar fuente primaria o especialista cuando exista.",
+      "tiempos": [
+        "La pregunta central (0-15s): que sabemos realmente sobre X?.",
+        "La version popular o tradicional, contada con respeto.",
+        "El documento, hallazgo o fuente historica real, descrito con precision.",
+        "El matiz o contradiccion que aporta la evidencia documental.",
+        "Cita de un historiador, arqueologo o especialista real, con atribucion explicita.",
+        "Lo que sigue sin resolverse, dicho con honestidad academica.",
+        "Cierre circular: vuelve a la pregunta de apertura, ahora respondida con la separacion clara entre fe, historia e interpretacion."
+      ],
+      "ideasSEO": {
+        "total": 20,
+        "muestra": [
+          "Qué sabemos realmente sobre los Rollos del Mar Muerto",
+          "El manuscrito bíblico más antiguo jamás encontrado",
+          "La ciudad bíblica que la arqueología confirmó que existió",
+          "El error de traducción que cambió un versículo famoso",
+          "Qué dice la arqueología sobre el éxodo bíblico",
+          "El personaje bíblico que también aparece en registros históricos",
+          "Los textos que casi entraron en la Biblia y quedaron fuera",
+          "Qué sabemos del arca perdida más allá del mito",
+          "La ciudad bíblica que los arqueólogos siguen debatiendo",
+          "El hallazgo que sorprendió incluso a los escépticos"
+        ]
+      }
+    },
+    {
+      "id": "reto_sobre_ruedas",
+      "source": "vol4_channels_extracted.txt",
+      "name": "Reto sobre Ruedas",
+      "nicho": "Automóviles & Retos — ingeniería, sonido y velocidad en formato de reto",
+      "premisa": "No es 'mira este carro bonito': es un reto constante de conocimiento automotriz, con la ingeniería real detrás de cada pregunta.",
+      "tono": "Presentador de reto, enérgico pero técnicamente preciso. Nunca sacrifica exactitud por espectacularidad.",
+      "musicPrompt": "Estilo: instrumental de tension competitiva, percusion electronica seca y sintetizador de cuenta regresiva, tempo 110-125 BPM, sin voz, textura energica y precisa. Referencias de mood: reto televisivo, garage de competicion. Estructura: intro con tension creciente, pico breve en el momento de revelacion, luego se calma para la explicacion tecnica. Duracion: loop de 2 a 3 minutos. Mood: energico, competitivo, tecnico.",
+      "thumbnailBase": "16:9, black background, [CAMBIAR: vehículo o reto del video] rendered as a racing-red technical silhouette or blueprint, one clear focal point, half the frame kept dark for the hook text. TENDENCIAS 2026: el formato pregunta directa ('¿reconoces esto?') convierte mejor que la afirmación descriptiva; el rojo sobre negro es la marca reconocible del canal en el feed.",
+      "styleBase": "Automotive blueprint illustration style: bold racing-red and asphalt-black palette, technical vehicle silhouettes rendered with fine engineering linework and dimension callouts, subtle motion-blur speed lines suggesting velocity, grid-paper texture background, restrained motorsport-technical tone. Negative: bright colors beyond red-black, cartoon style, photorealistic crash or damage imagery, oversaturation.",
+      "animationBase": "Fast-paced reveal countdown: a technical blueprint silhouette of the vehicle illuminates progressively in racing red — engine block first, then body outline, then final detail — building tension toward a snap reveal at zero. Thin motion-blur speed lines flash briefly at the reveal moment only. Background stays asphalt-black grid texture. No camera shake beyond a single quick snap at reveal, no crash or damage imagery, no bright colors outside red-black. Loopable during the countdown segment, 3 to 5 seconds.",
+      "lineasRojas": "Priorizar material original, ilustrado o correctamente licenciado antes que clips de terceros sin autorizacion. No inventar cifras tecnicas: citar fuente cuando se compare rendimiento real. No fomentar conduccion peligrosa ni exceso de velocidad como algo deseable.",
+      "tiempos": [
+        "El reto (0-5s): planteado de inmediato, sin introduccion.",
+        "La pista o el contexto minimo necesario para intentar responder.",
+        "Pregunta retorica: tu lo reconocerias?.",
+        "La tension sostenida unos segundos antes de revelar.",
+        "La respuesta.",
+        "El dato tecnico o de ingenieria que explica el porque de la respuesta.",
+        "Cierre con loop/CTA: invita a comentar la propia respuesta o pedir la siguiente ronda del reto."
+      ],
+      "ideasSEO": {
+        "total": 20,
+        "muestra": [
+          "Solo los verdaderos fanáticos reconocerán estos motores por su sonido",
+          "Adivina el auto solo por su silueta",
+          "V8 contra V6: ¿cuál tiene realmente la ventaja?",
+          "¿Qué pasaría si este auto tuviera el doble de potencia?",
+          "Este auto de caricatura, llevado a la realidad",
+          "Por qué este vehículo tiene esa entrada de aire tan particular",
+          "La razón de ingeniería detrás del alerón que todos ignoran",
+          "Adivina el vehículo solo por el sonido del motor",
+          "El error de diseño que un fabricante nunca reconoció",
+          "Motor turbo contra motor atmosférico: la diferencia real"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+.env
+node_modules/
+tmp/
+public/assets/scenes/
+public/assets/audio/
+public/assets/renders/
+output/
+
+# Herramientas de terceros clonadas/instaladas aparte (ver CLAUDE.md para la URL de cada una
+# y cómo volver a levantarlas) -- no van en este repo: son grandes, tienen su propio .git
+# (Wan2GP no, pero igual pesa ~90MB de instalación local), y se re-clonan/reinstalan solas.
+Wan2GP/
+image-generation-skill/
+Agent-Reach/
+
+# Credencial real de Google Cloud (cuenta de servicio para Drive) -- nunca va a git.
+para google drive/
+
+# Videos de shorts ya renderizados (contenido generado, no código) -- "shorts_senal_prohibida/"
+# suelto en la raíz parece un duplicado viejo de "shorts/shorts_senal_prohibida/".
+shorts/
+shorts_senal_prohibida/

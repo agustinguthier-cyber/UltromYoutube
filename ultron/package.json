@@ -1,0 +1,25 @@
+{
+  "name": "ultron",
+  "version": "1.0.0",
+  "private": true,
+  "description": "ULTRON — renderizado de video vertical faceless con Remotion, a partir de un guion.json (timestamps + audio locutado).",
+  "scripts": {
+    "start": "remotion studio",
+    "render": "node scripts/render.js",
+    "generate": "node scripts/generate-video.js"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.514",
+    "@remotion/google-fonts": "4.0.514",
+    "mediabunny": "^1.55.1",
+    "react": "19.2.8",
+    "react-dom": "19.2.8",
+    "remotion": "4.0.514",
+    "zod": "4.4.3"
+  },
+  "devDependencies": {
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "typescript": "^5.5.0"
+  }
+}

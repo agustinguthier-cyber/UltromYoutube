@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "ultromyoutube-server",
+      "runtimeExecutable": "node",
+      "runtimeArgs": ["server.js"],
+      "port": 3000
+    },
+    {
+      "name": "ultron-studio",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["--prefix", "ultron", "run", "start", "--", "--port", "3001"],
+      "port": 3001
+    }
+  ]
+}

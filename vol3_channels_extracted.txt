@@ -1,0 +1,260 @@
+
+================================================================================
+CANAL: alerta_sintetica
+================================================================================
+
+--- name ---
+Alerta Sintética
+
+--- nicho ---
+Tecnología & Fraude — estafas digitales, deepfakes y manipulación con IA
+
+--- premisa ---
+Cada semana aparece una nueva forma de que la tecnología te engañe sin que lo notes. Este canal emite la alerta apenas se confirma el patrón, con el mismo tono seco de un aviso de emergencia.
+
+--- tono ---
+Boletín de alerta, no thriller narrativo. Frases cortas, verificación antes que drama, cierre siempre con la acción de protección concreta.
+
+--- musicPrompt ---
+Estilo: instrumental de boletin de emergencia, pulso electronico seco y percusion de alerta breve, tempo 95-110 BPM, sin voz, textura tensa y urgente pero profesional. Referencias de mood: noticiero de ultima hora, sala de monitoreo de ciberseguridad. Estructura: intro con un pulso corto, cuerpo que mantiene tension constante sin subir a climax. Duracion: loop de 2 a 3 minutos. Mood: urgente, seco, sin dramatismo excesivo.
+
+--- thumbnailBase ---
+16:9, black background, [CAMBIAR: elemento del fraude — teléfono, rostro clonado, documento falso, videollamada] rendered with glitch/redaction texture, one warning-red accent, crosshair or triangle motif marking the danger point, half the frame kept dark for the hook text. TENDENCIAS 2026: el gancho más fuerte es 'esto ya te puede pasar a ti' en segunda persona; una sola palabra en rojo dentro del texto (ESTAFA, CLONADO, FALSO) sube el CTR; evitar mostrar rostros reales reconocibles de terceros.
+
+--- styleBase ---
+Emergency-broadcast alert illustration style: deep alert-red and aged cream palette on black, a bold warning triangle with exclamation mark as the central motif, a dotted world map with faint industrial smoke silhouettes, redaction bars and glitch scan-lines overlaying the composition, crosshair reticle details in the corners, gritty distressed poster texture, documentary-alert tone, restrained and serious. Negative: cartoon style, cheerful colors, gore, oversaturation, cluttered infographic.
+
+--- animationBase ---
+Static locked-off frame with a slow 5% push-in. Redaction bars slide open or closed in sync with the narration revealing the fraud mechanism. RGB channel-split glitch pulses once every few seconds and intensifies briefly when the fraud technique is named. The dotted world map drifts almost imperceptibly. Scan-line noise rolls continuously at low intensity. The warning triangle glows with a slow pulse. No character animation, no fast camera movement, no gore. Loopable, 4 to 6 seconds.
+
+--- lineasRojas ---
+Nunca enseñar a ejecutar la tecnica de fraude, solo a detectarla y protegerse. No exagerar un riesgo sin evidencia; distinguir caso confirmado de rumor. No usar nombres o imagenes de victimas no publicas. Cada alerta cierra con una accion concreta, nunca solo con miedo.
+
+--- tiempos (7) ---
+• Titular de alerta (0-8s): el patron de fraude nombrado sin rodeos, como un boletin de emergencia.
+• La pregunta retorica que confirma el riesgo: ya te llego una llamada asi?.
+• El mecanismo tecnico, explicado paso a paso sin tecnicismos innecesarios.
+• El caso documentado que confirma que ya esta pasando ahora.
+• La senal de deteccion, mostrada como una lista corta y memorizable.
+• El protocolo de proteccion, en el orden exacto en que debe ejecutarse.
+• Cierre circular: vuelve al titular de apertura, ahora con la accion ya en manos del espectador.
+
+--- ideas SEO (primeras 10 de 50) ---
+• Cómo los estafadores pueden clonar tu voz con solo unos segundos de audio
+• La estafa de IA que imita la voz de tu hijo para pedirte dinero
+• Cómo saber si la voz de una llamada es falsa
+• Cómo un deepfake de un CEO puede vaciar una empresa
+• Cuánto audio necesitan para clonar tu voz
+• Cómo funciona la estafa de la llamada urgente con voz de IA
+• 7 señales de que una llamada podría usar una voz clonada
+• Cómo usan tus redes para hacer una estafa con tu voz
+• Por qué tu voz no debería ser tu única contraseña
+• La palabra secreta que puede detener una estafa de voz con IA
+
+================================================================================
+CANAL: la_maquina_invisible
+================================================================================
+
+--- name ---
+La Máquina Invisible
+
+--- nicho ---
+Infraestructura — el mundo invisible que hace que todo funcione
+
+--- premisa ---
+Detrás de cada acción cotidiana hay un sistema físico gigantesco que nunca ves y que casi nunca falla. Este canal muestra ese sistema, pieza por pieza.
+
+--- tono ---
+Documental de ingeniería, casi de manual técnico. La fascinación viene de la escala y la fragilidad oculta de sistemas que damos por hechos.
+
+--- musicPrompt ---
+Estilo: instrumental documental de ingenieria, pads graves y percusion mecanica sutil (clicks, engranajes), tempo 75-90 BPM, sin voz, textura precisa y contenida. Referencias de mood: documental tecnico de alto presupuesto, sala de control. Estructura: intro minimal, cuerpo que construye capas al ritmo en que se ensambla el diagrama del video. Duracion: loop de 2 a 3 minutos. Mood: tecnico, fascinado, sereno.
+
+--- thumbnailBase ---
+16:9, black background, [CAMBIAR: sistema del video — cable submarino, red eléctrica, torre de control, servidor] rendered as an isometric wireframe cutaway diagram in bone-cream linework, one small human silhouette for scale reference, half the frame kept dark for the hook text. TENDENCIAS 2026: el gancho 'qué pasaría si...' funciona mejor que la simple curiosidad técnica; la silueta humana diminuta junto al sistema comunica escala sin necesidad de texto; máximo 4 palabras de gancho.
+
+--- styleBase ---
+Technical blueprint illustration style: aged bone-cream linework on pure black, an isometric wireframe cube containing a mechanical gear and a technical shaft with dashed construction lines, fine engineering drafting precision, subtle motion-blur speed lines suggesting scale and movement, thin circular border, restrained documentary-engineering tone. Negative: bright colors, cartoon style, cluttered infographic, photorealistic rendering, oversaturation.
+
+--- animationBase ---
+Slow orbital rotation of the isometric wireframe, no more than 8 degrees across the shot, combined with a 5% push-in. Dashed construction lines solidify progressively into solid linework, piece by piece, following the exact order in which the narration explains each component. A small human silhouette stays rigid for scale reference. Motion-blur speed lines pulse briefly when describing flow or movement through the system. Background stays pure black. No camera shake, no color, no photorealistic rendering. Loopable, 5 to 7 seconds.
+
+--- lineasRojas ---
+No dar informacion que facilite sabotaje o ataque a infraestructura real. Distinguir sistema documentado de escenario hipotetico. No generar alarmismo sin cerrar con contexto real de redundancia y seguridad del sistema.
+
+--- tiempos (7) ---
+• El gancho de dependencia oculta (0-10s): esto que usas a diario depende de....
+• La pregunta retorica que sube la apuesta: sabes que pasa si esto falla un solo dia?.
+• Como funciona el sistema real, explicado con precision tecnica pero accesible.
+• El punto de falla menos conocido, revelado como el giro central del video.
+• El escenario de que pasaria si, desarrollado en consecuencias concretas y ordenadas.
+• Un dato de escala real (kilometros, usuarios, dinero) que cierra el argumento.
+• Cierre circular: vuelve al gancho de apertura, ahora con el sistema completamente desnudado.
+
+--- ideas SEO (primeras 10 de 50) ---
+• Qué pasaría si internet se apagara durante una semana
+• El cable submarino del que depende internet
+• Cómo viaja realmente un mensaje por internet
+• Qué pasa cuando un servidor gigante deja de funcionar
+• Cómo funciona un centro de datos por dentro
+• Qué hay detrás de una videollamada
+• Cómo llega la señal de celular a tu teléfono
+• Qué pasa si un país pierde sus conexiones de internet
+• El lugar donde internet cambia de dirección
+• Cómo internet sobrevive cuando fallan sus servidores
+
+================================================================================
+CANAL: dopamina_sa
+================================================================================
+
+--- name ---
+Dopamina S.A.
+
+--- nicho ---
+Psicología & Tech — cómo apps, casinos y plataformas diseñan tu adicción
+
+--- premisa ---
+Nada en tu pantalla es casualidad: cada color, sonido y notificación fue diseñado por un equipo entero para mantenerte enganchado. Este canal desarma ese diseño con tono de denuncia directa.
+
+--- tono ---
+Exposé duro, casi de investigación corporativa. Indignación informada, sin condescendencia hacia quien cayó en el diseño.
+
+--- musicPrompt ---
+Estilo: instrumental electronico neon, synths pulsantes y percusion tipo maquina tragamonedas, tempo 100-115 BPM, sin voz, textura seductora pero inquietante. Referencias de mood: thriller corporativo tecnologico, casino digital. Estructura: intro con pulso de notificacion, cuerpo que gira como una ranura de premio sin resolverse del todo. Duracion: loop de 2 a 3 minutos. Mood: indignado, seductor, tenso.
+
+--- thumbnailBase ---
+16:9, near-black background, [CAMBIAR: elemento de diseño adictivo — notificación, ruleta, botón infinito, ícono de like] rendered in glowing hot-pink and violet neon, a human profile silhouette anchoring the composition, glitch-text accent, half the frame kept dark for the hook text. TENDENCIAS 2026: el gancho más fuerte es 'te lo hicieron a ti a propósito'; un solo ícono reconocible (corazón, campana, pulgar) sobre negro convierte mejor que una captura real de la app.
+
+--- styleBase ---
+Neon exposé illustration style: near-black background with glowing hot-pink, magenta and violet neon accents, a human brain in profile with a slot-machine window embedded inside it showing heart, bell and thumb icons, a notification bubble glowing above the head, glitch-text distortion on any lettering, subtle scan-line texture, dark seductive mood that mirrors the very design it critiques. Negative: warm cheerful colors, cartoon style, oversaturation without intent, gore.
+
+--- animationBase ---
+The slot-machine icons inside the brain spin slowly and settle into place exactly when the narration names the psychological mechanism. The notification bubble above the head pulses with a soft glow at irregular intervals, mimicking a real phone alert rhythm. Glitch-text distortion flickers briefly on any on-screen label. Background neon glow breathes gently. The profile silhouette stays rigid — no facial animation. No camera shake, no fast cuts, no color outside the pink-violet-black palette. Loopable, 4 to 6 seconds.
+
+--- lineasRojas ---
+Nunca enseñar a implementar estas tecnicas para enganchar a otros. No diagnosticar adiccion clinica al espectador; hablar de diseno de producto, no de patologia individual. Distinguir evidencia documentada de interpretacion editorial.
+
+--- tiempos (7) ---
+• El comportamiento reconocible (0-10s): algo que el espectador hace y no puede explicar del todo.
+• La pregunta retorica que abre la denuncia: por que te pasa esto exactamente a ti?.
+• El mecanismo psicologico, nombrado con precision tecnica una sola vez.
+• El paralelo directo con el diseno de casinos o maquinas de azar.
+• La evidencia: estudios o documentos internos citados, con su fuente.
+• La defensa concreta para desactivar el mecanismo, mostrada como accion inmediata.
+• Cierre circular: vuelve al comportamiento de apertura, ahora nombrado y visible.
+
+--- ideas SEO (primeras 10 de 80) ---
+• El bucle de dopamina que controla tus hábitos
+• Por qué lo impredecible puede engancharte más que lo bueno
+• La gran mentira sobre la dopamina y el placer
+• Por qué necesitas cada vez más para sentir lo mismo
+• Por qué tu cerebro nunca parece tener suficiente
+• Por qué tu cerebro odia dejar algo a medias
+• Por qué el mundo real empieza a parecer aburrido
+• Por qué tu teléfono se convirtió en una máquina de dopamina
+• Cómo el scroll infinito fue diseñado para que nunca quieras parar
+• El truco de las notificaciones que secuestra tu atención
+
+================================================================================
+CANAL: oficio_reprogramado
+================================================================================
+
+--- name ---
+Oficio Reprogramado
+
+--- nicho ---
+IA & Trabajo — profesiones transformadas por la IA, oficio por oficio
+
+--- premisa ---
+Ningún oficio desaparece de golpe: se reescribe tarea por tarea. Este canal documenta, profesión por profesión, qué parte ya automatizó la IA y qué parte sigue siendo humana.
+
+--- tono ---
+Documental analítico, dedicado por completo al oficio y su transformación — sin mezclarlo con negocios, fraude ni finanzas.
+
+--- musicPrompt ---
+Estilo: instrumental documental industrial moderno, piano contenido y pads sinteticos, tempo 85-95 BPM, sin voz, textura respetuosa y analitica. Referencias de mood: documental de negocios sobre oficios, editorial de trabajo. Estructura: intro sobria, cuerpo que construye capas al ritmo del balance entre lo perdido y lo que queda. Duracion: loop de 2 a 3 minutos. Mood: respetuoso, analitico, sin alarmismo.
+
+--- thumbnailBase ---
+16:9, black background, [CAMBIAR: profesional del oficio del video] in aged-cream silhouette, one side of the figure or their tools dissolving into orange pixel fragments, distressed poster texture, half the frame kept dark for the hook text. TENDENCIAS 2026: nombrar el oficio exacto en el texto es lo que más convierte en este nicho, porque la búsqueda es por profesión ('radiólogos', 'traductores'); evitar rostros reales reconocibles.
+
+--- styleBase ---
+Distressed industrial-poster illustration style: aged cream and burnt-orange palette on black, a worker silhouette wearing a hard hat that dissolves progressively into orange pixel fragments and thin circuit traces on one side, vintage union-poster texture with heavy grain, bold stenciled typography accents, documentary-industrial mood, restrained and serious. Negative: bright saturated colors, cartoon style, futuristic sci-fi rendering, oversaturation.
+
+--- animationBase ---
+Slow push-in on the worker silhouette, 5 to 8%. Orange pixel fragments and thin circuit traces advance progressively across one side of the figure, synced precisely to the moment the narration names the automated task, then hold in place — never covering the entire silhouette. The human half stays crisp and rigid, no morphing. Fine dust and grain texture drifts over the whole frame. Background stays black. No camera shake, no fast cuts, no bright colors outside cream-orange-black. Loopable, 5 to 7 seconds.
+
+--- lineasRojas ---
+No prometer empleo ni ingresos. Distinguir siempre automatizacion de tarea frente a desaparicion de profesion completa. Citar la fuente de cada cifra de adopcion o mercado.
+
+--- tiempos (7) ---
+• El oficio (0-15s): que hace exactamente esa profesion y por que importa, contado con respeto.
+• La pregunta retorica que abre la duda: cuanto de esto sigue siendo solo humano?.
+• La tarea automatizada, nombrada con precision y sin exagerar su alcance.
+• El dato o caso real de la industria, citado con su fuente.
+• Lo que queda humano: la habilidad que sigue siendo dificil de replicar.
+• El movimiento concreto: que haria hoy alguien de ese oficio para reposicionarse.
+• Cierre circular: vuelve al oficio de apertura, con el balance completo entre lo perdido y lo que queda.
+
+--- ideas SEO (primeras 10 de 50) ---
+• La IA no va a reemplazar tu trabajo así como crees
+• Qué partes de tu trabajo puede hacer una IA
+• Así podría funcionar una empresa con muchos menos empleados
+• El nuevo trabajo no será hacer: será supervisar
+• Qué pasa cuando hacer algo deja de costar casi nada
+• El trabajador que usa IA contra el que no la usa
+• Por qué la IA puede hacerte más rápido y más ocupado
+• El problema de aprender un oficio cuando la IA hace el trabajo junior
+• Qué parte del trabajo de un abogado ya puede hacer la IA
+• Qué tareas de los médicos ya hace la inteligencia artificial
+
+================================================================================
+CANAL: legado_intemporal
+================================================================================
+
+--- name ---
+Legado Intemporal
+
+--- nicho ---
+Filosofía e Historia — grandes preguntas de la humanidad contadas como arco civilizatorio
+
+--- premisa ---
+Cada gran pregunta humana —la muerte, el poder, el sentido— tiene una historia de miles de años detrás, contada por civilizaciones que nunca se conocieron entre sí y aun así llegaron a la misma pregunta. Este canal recorre esa historia completa en cada video.
+
+--- tono ---
+Ensayo documental panorámico, con la misma serenidad y el mismo permiso para la duda que tendría un profesor que respeta tanto la fe como la ciencia sin necesitar que el espectador elija un bando.
+
+--- musicPrompt ---
+Estilo: instrumental clasico contemplativo panoramico, cuerdas amplias y una nota sostenida de coro lejano, tempo muy lento 50-65 BPM, sin voz, textura solemne y espaciosa. Referencias de mood: documental civilizatorio, sala de esculturas antiguas. Estructura: intro casi en silencio, cuerpo que se ensancha en cada parada del arco civilizatorio. Duracion: loop de 2 a 3 minutos. Mood: solemne, reverente, atemporal.
+
+--- thumbnailBase ---
+16:9, deep black background, [CAMBIAR: símbolo del tema — reloj de arena, templo, manuscrito, máscara] rendered in aged gold engraved linework, the marble bust silhouette anchoring one third of the frame, dramatic side lighting, the opposite third kept dark for the hook text. TENDENCIAS 2026: la pregunta existencial directa en segunda persona ('¿y si morir no es el final?') convierte mejor que el titular descriptivo; el oro sobre negro debe usarse siempre, nunca introducir otro color de acento.
+
+--- styleBase ---
+Classical marble-and-gold illustration style: an idealized youthful marble bust in profile, curly engraved hair, a laurel wreath and an Ionic column beside it, a small star above and an hourglass motif at the base, aged gold linework on deep black, fine engraved detail reminiscent of antique coin or medal die-work, dramatic side lighting, dotted circular border, reverent and timeless mood. Negative: modern clothing, cartoon style, bright saturated colors, motivational-poster look.
+
+--- animationBase ---
+Extremely slow push-in on the marble bust, 4 to 6% across the whole shot, with the key light drifting gradually so engraved gold details are revealed progressively as the light passes over them. The bust stays absolutely rigid — no morphing, no facial animation. The star above flickers once, softly. Fine dust motes drift through the light beam. Background stays pure black at all times. No camera shake, no cuts inside the shot, no color outside gold-black. Loopable, 7 to 10 seconds.
+
+--- lineasRojas ---
+No afirmar como hecho lo que es teoria o interpretacion: siempre se marca la diferencia. No tomar partido entre fe y ciencia; se presentan ambos marcos con el mismo respeto. No presentar ninguna tradicion religiosa real como falsa o ridicula. Toda cita de pensador lleva atribucion explicita de obra y contexto.
+
+--- tiempos (7) ---
+• Escena inmersiva en 2a persona (0-15s): un dilema existencial concreto, no una idea abstracta.
+• La pregunta retorica que abre el arco: por que, sin importar donde ni cuando, terminamos creyendo en algo mas alla?.
+• El primer registro historico documentado del patron (el primer entierro, el primer templo, el primer texto).
+• El mecanismo nombrado de forma memorable, explicado con un ejemplo cotidiano y simple.
+• El arco panoramico: 3-4 civilizaciones distintas donde se repite el mismo patron con su propia variacion.
+• Cita de un pensador real, con atribucion explicita de obra y contexto.
+• Cierre circular: vuelve a la escena de apertura, ahora resonando distinto, sin cerrar la pregunta de fondo.
+
+--- ideas SEO (primeras 10 de 50) ---
+• Por qué los humanos empezaron a enterrar a sus muertos
+• Cuándo empezó la humanidad a creer en una vida después de la muerte
+• Por qué las primeras civilizaciones inventaron dioses
+• Por qué el cerebro humano inventa explicaciones para lo desconocido
+• Cómo miles de desconocidos aprendieron a vivir juntos
+• Cómo nació la autoridad y por qué empezamos a obedecer
+• El origen de la idea de que los reyes tenían derecho a gobernar
+• Cómo nació la idea de la ley y por qué la necesitamos
+• Cómo los mitos compartidos crean naciones enteras
+• Por qué el dinero tiene valor a pesar de ser solo una ficción

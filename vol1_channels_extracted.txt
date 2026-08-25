@@ -1,0 +1,1105 @@
+
+================================================================================
+CANAL: senal_prohibida
+================================================================================
+
+--- name ---
+Señal Prohibida
+
+--- nicho ---
+Cultura Digital & Misterio — narrativa de revelación oculta
+
+--- premisa ---
+Todo lo que te contaron tiene una versión anterior, más incómoda y más real. El canal recupera el original que fue suavizado, censurado o convertido en cuento para dormir.
+
+--- tono ---
+Confidencia nocturna: voz baja, frases cortas, ritmo de quien revela algo que no debería. Nunca grita, sugiere.
+
+--- vozMezcla ---
+PERFIL DE VOZ — SEÑAL PROHIBIDA
+
+Escribe exclusivamente con el estilo verbal y lingüístico de Señal Prohibida.
+
+IMPORTANTE:
+Este prompt NO define la estructura narrativa del video.
+No debes decidir el hook, los actos, los giros, la investigación ni el orden de la información.
+Este prompt define únicamente CÓMO HABLA EL NARRADOR.
+
+La voz debe sentirse como una conversación nocturna.
+
+No como una narración de documental.
+No como una noticia.
+No como un presentador de televisión.
+No como un locutor de radio exagerado.
+
+La sensación debe ser:
+
+"Ven, siéntate un momento. Hay algo sobre esta historia que probablemente nunca te contaron."
+
+PERSONALIDAD:
+
+Calmada.
+Segura.
+Observadora.
+Íntima.
+Misteriosa.
+Ligeramente irónica.
+
+El narrador no necesita demostrar que sabe algo.
+
+Habla como alguien que ya descubrió la información y ahora está compartiendo contigo la parte que normalmente queda fuera de la historia oficial.
+
+Nunca grita.
+
+Nunca fuerza el misterio.
+
+Nunca utiliza palabras como "INCREÍBLE", "ATERRADOR", "ESCALOFRIANTE" o "IMPACTANTE" como sustituto de una buena narración.
+
+La información debe generar el misterio.
+
+FORMA DE HABLAR:
+
+Predomina la segunda persona.
+
+Habla directamente al espectador:
+
+"Piensa por un segundo..."
+"Imagina que..."
+"Ahora mira esto..."
+"Lo curioso es que..."
+"Y aquí es donde la historia cambia."
+
+Utiliza frases cortas y medias.
+
+Las frases cortas deben aparecer después de información importante para permitir que el dato respire.
+
+Ejemplo:
+
+"El documento apareció en 1897.
+
+Y nadie sabía exactamente por qué estaba allí."
+
+No llenes todos los espacios.
+
+El silencio conceptual también forma parte de la voz.
+
+RITMO:
+
+Lento, pero nunca aburrido.
+
+La narración debe avanzar mediante descubrimientos.
+
+Cada bloque de información debe sentirse como si revelara una capa más.
+
+Evita explicar una conclusión antes de tiempo.
+
+No digas:
+
+"Lo que ocurrió fue una manipulación histórica."
+
+Mejor:
+
+"Durante años se contó de una manera.
+
+Después apareció otro documento.
+
+Y entonces algunas fechas dejaron de encajar."
+
+El espectador debe sentir que está descubriendo la respuesta junto al narrador.
+
+LÉXICO:
+
+Español natural, culto pero accesible.
+
+No uses palabras rebuscadas solamente para parecer inteligente.
+
+Usa vocabulario como:
+
+"curiosamente"
+"lo extraño"
+"hay un detalle"
+"lo que nadie suele mencionar"
+"la versión que conocemos"
+"el registro"
+"el documento"
+"la historia oficial"
+"la otra versión"
+"y aquí aparece el problema"
+"pero hay algo más"
+"lo interesante es..."
+"si seguimos el rastro"
+"y entonces encontramos..."
+
+Las palabras deben sentirse propias de una persona que investiga, no de una IA intentando sonar misteriosa.
+
+"bro" puede aparecer como una marca de cercanía.
+
+Máximo 1-2 veces por guion.
+
+Nunca usar "papi" ni "hermano".
+
+HUMOR:
+
+Muy sutil.
+
+El humor debe ser una pequeña sonrisa del narrador.
+
+Nunca una broma.
+
+Ejemplo:
+
+"Y sí, técnicamente todo estaba perfectamente documentado.
+
+El pequeño problema era que el documento decía exactamente lo contrario."
+
+Ese tipo de ironía es preferible a un chiste.
+
+"Eso está brutality" puede utilizarse excepcionalmente cuando un dato sea especialmente absurdo, perturbador o revelador.
+
+No más de 1-2 veces por guion.
+
+MISTERIO:
+
+Nunca uses misterio mediante exageración.
+
+No digas:
+"Lo que vas a descubrir te dejará sin dormir."
+
+Di:
+"El problema es que ese documento sigue existiendo."
+
+No digas:
+"Una verdad que quisieron ocultarte."
+
+Di:
+"Lo extraño es que la primera versión de esta historia desapareció de los registros posteriores."
+
+El misterio nace de la contradicción.
+
+La voz debe preferir:
+
+dato → pausa → contradicción → pregunta
+
+en lugar de:
+
+adjetivo → exageración → amenaza.
+
+TONO EMOCIONAL:
+
+El narrador parece tranquilo incluso cuando cuenta algo perturbador.
+
+Esta contradicción es fundamental.
+
+Cuanto más extraño sea el dato, más controlada debe ser la voz.
+
+No dramatices verbalmente aquello que ya es suficientemente extraño por sí mismo.
+
+FUENTES:
+
+Cuando exista una fuente, intégrala naturalmente:
+
+"El registro aparece en..."
+"Según el documento..."
+"El historiador X escribió..."
+"En el archivo de..."
+
+Nunca inventes una fuente.
+
+Nunca presentes una teoría como hecho.
+
+Distingue siempre entre:
+
+"esto está documentado"
+
+y
+
+"esto es una interpretación."
+
+REGLA DE ORO:
+
+El narrador nunca parece estar intentando convencer al espectador.
+
+Parece estar enseñándole algo.
+
+No dice:
+
+"Créeme."
+
+Dice:
+
+"Mira el documento."
+
+No dice:
+
+"Esto demuestra que..."
+
+Dice:
+
+"Y aquí aparece una contradicción."
+
+No dice:
+
+"Te están ocultando la verdad."
+
+Dice:
+
+"Hay una parte de la historia que dejó de aparecer en las versiones posteriores."
+
+RESULTADO BUSCADO:
+
+El espectador debe sentir que está escuchando a alguien hablar en voz baja durante la noche sobre una historia que tiene una segunda capa.
+
+La voz debe provocar:
+
+"Espera... nunca había pensado en eso."
+
+No:
+
+"Este narrador está intentando asustarme."
+
+REGLA FINAL:
+
+Escribe como una persona inteligente que conversa lentamente con alguien inteligente.
+
+Menos espectáculo.
+
+Más presencia.
+
+Menos adjetivos.
+
+Más datos.
+
+Menos explicación del misterio.
+
+Más misterio producido por la información.
+
+--- musicPrompt ---
+Estilo: synthwave oscuro y analogo, instrumental, tempo 80-95 BPM, sintetizadores tipo VHS con saturacion leve y eco largo, pulso de bajo constante tipo señal de transmision. Referencias de mood: Carpenter synth, dark ambient de found-footage. Estructura: intro con textura de estatica, cuerpo con pulso hipnotico sostenido. Duracion: loop de 2 a 3 minutos. Mood: paranoico, confidencial, urgente pero contenido.
+
+--- thumbnailBase ---
+16:9 archival restoration documentary thumbnail: a single dominant historical document, artifact, or engraving centered on a dark wooden archive table, aged parchment against charcoal-black surroundings, muted gold and oxidized bronze accent lighting, a visible red-oxide classification stamp or redaction bar as a focal detail, soft directional light creating strong contrast against the dark background, one third of the frame kept darker and clearer for a text hook, museum-scan realism with subtle film grain. Extreme contrast for readability at 120px. Negative: neon colors, glossy CGI, cartoon style, clutter, modern elements, more than one focal point.
+
+--- styleBase ---
+Archival restoration documentary style: a cinematic frame that looks like a genuine historical dossier recovered from a forgotten library, government archive, or private vault. Aged parchment and yellowed paper dominate the composition, with worn edges, folds, tears, coffee stains, ink bleed, wax seals, string ties, redaction bars, and official classification stamps, arranged like a carefully laid out investigation board rather than a movie poster. Color palette: charcoal black background (#111111), aged parchment (#E8DFC9), ink black (#2B2B2B), oxidized bronze (#8A6A2F), muted gold (#C9A227) for highlights, and deep red oxide (#8B2E24) reserved for stamps and warning marks. High contrast between the dark surroundings and an illuminated central document, soft directional light from above or one side. Typography feel present in frame: classic editorial serif titles, typewriter body text, handwritten archivist notes, a visible archive code (e.g. SP-027), and a classification mark such as CLASIFICADO or ACCESO RESTRINGIDO. One dominant document or artifact occupies the center, surrounded by supporting photographs, manuscript fragments, maps, and marginal notes, with generous negative space around the focal point. Any illustrated human figures, historical scenes, or artwork shown within the documents follow a nineteenth-century engraving and Renaissance manuscript restoration technique: fine black ink linework with dense cross-hatching, etched textures, ornamental borders, in the style of Gustave Dore and antique woodcuts, solemn and symbolic rather than expressive, museum-restoration quality. Texture: museum-grade scan realism, paper fiber and dust, subtle film grain, gentle vignette, as if photographed on a dark wooden archive table. Negative: neon colors, futuristic interfaces, glossy CGI, modern UI, cartoon style, anime, 3D rendering, exaggerated horror monsters, perfectly clean paper.
+
+--- animationBase ---
+Suspense-driven documentary reveal, built to match an escalating narrative beat rather than a constant camera drift: the archival object begins partially obscured by shadow, a redaction bar or an overlapping document, then a slow directional light sweep or a redaction bar sliding away progressively uncovers the key detail exactly as the narration reveals it. Combine this reveal-timing with a gentle 5 to 8% push-in and a slight depth parallax between stacked documents, photographs and manuscript layers. Every paper, engraving, photograph and stamp stays perfectly rigid: no morphing, warping, redrawing or AI-style deformation. Only ambient environmental motion is allowed: drifting dust particles, faint paper fibers catching the light, barely visible haze, and a soft fluctuation of warm archival lighting from an unseen desk lamp. At the darker twist or escalation beats, the reveal accelerates slightly and the warm key light briefly intensifies on the critical detail, then settles back to the slow documentary pace for the next beat. No character animation, no lip movement, no walking, no dramatic camera shake, no sudden zooms, no new objects entering frame. Subtle film grain and gentle analog aging without obvious VHS artifacts. Contemplative but tension-building, as if a conservator's light is uncovering something the archive tried to hide, one layer at a time. Loopable, 5 to 8 seconds per shot.
+
+--- lineasRojas ---
+No afirmar como hecho historico lo que es interpretacion o teoria. No reproducir textos religiosos o literarios extensos. No presentar grupos religiosos reales como sectas sin base documental. No usar tragedias reales recientes como material de misterio.
+
+--- tiempos (11) ---
+• Apertura inmersiva en 2a persona (0-10s): coloca al espectador dentro de la version que todos conocen, sin decir aun que es falsa ("nos dijeron que X era Y").
+• El giro oscuro: la primera revelacion que voltea esa creencia por completo ("pero la version original... dice algo muy distinto").
+• La sensacion de encierro: el detalle que convierte lo que parecia inocente o un refugio en algo siniestro o una trampa.
+• El golpe emocional: la consecuencia humana concreta de ese giro — a quien afecto, que le arrebataron, que perdio.
+• La escalada: el dato que sube la apuesta un nivel mas, anclado a fecha, fuente o cifra real y verificable.
+• La revelacion psicologica: el mecanismo o rasgo oculto de la figura central, nombrado con precision y con un nombre propio, nunca con un adjetivo generico.
+• La redencion del villano: voltear al antagonista aparente en victima, protector o alguien que conocia la verdad ("¿y si el monstruo no era quien pensabas?").
+• La metafora existencial: conectar el caso concreto con un miedo humano universal — el tiempo, el olvido, crecer, quedarse solo.
+• El regalo (antepenultimo tiempo, obligatorio): una pieza concreta de informacion factual, historica o tecnica -verificable, no inventada- que recontextualiza todo lo anterior de golpe. Es el pago por haber llegado hasta aca: el espectador se lleva un dato real que no sabia, dicho con precision y sin relleno, nunca una reflexion generica.
+• Cierre circular: se regresa a la escena o pregunta de apertura, ahora vista de otra forma a la luz del regalo del paso anterior, sin resolver del todo la pregunta de fondo.
+• Humanizacion final: la ultima linea vuelve vulnerable a quien parecia villano o invencible, dejando una pregunta emocional abierta, no un dato de cierre.
+
+--- ideas SEO (primeras 10 de 50) ---
+• La versión original de Peter Pan que Disney nunca mostró
+• El verdadero final de La Sirenita que Disney cambió por completo
+• Los cuentos de los Hermanos Grimm que fueron censurados por ser demasiado violentos
+• Caperucita Roja antes de Disney y Perrault: el final que casi nadie conoce
+• El Pinocho original de Carlo Collodi tenía un final completamente distinto
+• Blancanieves original: el castigo que Disney eliminó
+• La Bella Durmiente original que hoy sería un cuento perturbador
+• El Flautista de Hamelín: la evidencia histórica detrás de la leyenda
+• Barba Azul: el origen histórico del cuento del cuarto prohibido
+• Lo que el mito de Ícaro significaba realmente antes de ser reinterpretado
+
+================================================================================
+CANAL: manual_de_campo
+================================================================================
+
+--- name ---
+Manual de Campo
+
+--- nicho ---
+Ciencia & Cuerpo — supervivencia y límites reales
+
+--- premisa ---
+El cuerpo humano tiene un limite exacto para cada cosa: frio, sed, hambre, altura, miedo. El canal enseña donde esta ese limite y que hacer antes de llegar a el.
+
+--- tono ---
+Instructor de campo veterano. Calmado, practico, sin dramatismo. Cada video deja una habilidad concreta.
+
+--- vozMezcla ---
+El instructor de campo ahora tiene personalidad: sigue siendo calmado y práctico, pero se permite un comentario seco o irónico ocasional (ej. 'esto no perdona errores'), sin apodos ni restarle seriedad al procedimiento. Reserva una frase corta y directa para el dato fisiológico más extremo de cada video, como forma de subrayar la gravedad sin sonar alarmista. Regla estricta: el humor nunca compite con la instrucción ejecutable — va antes o después del paso técnico, jamás mezclado dentro de él.
+
+--- musicPrompt ---
+Estilo: folk instrumental minimalista, guitarra acustica suave y percusion organica ligera (palmas, madera), tempo 85-100 BPM, sin voz. Referencias de mood: banda sonora de documental de naturaleza y supervivencia. Estructura: intro con ambiente de bosque, cuerpo con ritmo constante que no compite con la narracion. Duracion: loop de 2 a 3 minutos. Mood: templado, confiable, alerta pero sereno.
+
+--- thumbnailBase ---
+16:9 hand-drawn ink-and-watercolor illustration on kraft paper, warm earthy palette, thin black panel border, one clear focal action or object occupying one side of the frame, the opposite third left clear for text, warm backlit haze, showing the error or danger clearly (not just the object) so the thumbnail poses a problem. Optional: a hand-drawn charcoal X over the wrong element for warning-type videos. Negative: neon colors, cold tones, clutter, flat vector art.
+
+--- styleBase ---
+Hand-drawn illustrated field-journal style on a visibly textured kraft-paper background, warm earthy palette of olive green, ochre, umber and muted tan, visible black ink linework with cross-hatching and loose sketch marks, soft watercolor-style shading over clean outlines, semi-realistic human proportions with slightly stylized faces, warm hazy backlighting through forest trees fading into mist, thin black border frame around the panel like a comic viñeta, rustic outdoor survival setting, muted vintage color grading, analog hand-painted feel with no glossy digital rendering. Negative: neon colors, glossy digital render, photorealistic skin, cold blue tones, flat vector art, oversaturation.
+
+--- animationBase ---
+Gentle 2.5D parallax camera move: slow lateral pan of 6 to 10% combined with a very slight push-in. Separate the illustration into depth layers: foreground foliage moves fastest, the character stays anchored and rigid, distant misty trees move slowest. Keep every ink line crisp and unchanged, no warping or redrawing of linework. Add only ambient life: drifting leaves, soft haze, dust motes in backlight, barely visible paper-grain shimmer. No character animation, no walking cycle. Warm light stays constant. Loopable, 5 to 7 seconds.
+
+--- lineasRojas ---
+No dar procedimientos medicos que requieran entrenamiento profesional como si fueran caseros. Siempre indicar cuando la respuesta correcta es buscar ayuda o rescate. No romantizar el riesgo. No incluir instrucciones sobre armas, explosivos ni trampas que puedan herir a personas.
+
+--- tiempos (7) ---
+• Escena fisica en 2a persona (0-10s): el espectador ya esta en la situacion, se le mete dentro sin explicarla primero.
+• La pregunta retorica que sube la apuesta ("que harias en los proximos diez minutos?").
+• El mecanismo del cuerpo, nombrado con precision pero en lenguaje llano.
+• El error comun, mostrado como lo que haria casi cualquiera en esa misma escena.
+• El procedimiento correcto, en pasos numerados y ejecutables.
+• Un caso real documentado que confirma el patron, con nombre y fuente cuando exista.
+• Cierre circular: se vuelve a la escena de apertura, resuelta, con la regla memorizable como ultima linea.
+
+--- ideas SEO (primeras 10 de 50) ---
+• Cuánto tiempo puedes sobrevivir sin agua y qué le pasa a tu cuerpo
+• Hipotermia: el momento en que dejas de sentir frío antes de morir
+• Golpe de calor: las señales que aparecen antes del colapso
+• La intoxicación por agua: cuando beber demasiado se vuelve mortal
+• Cuánto puedes caminar realmente en una emergencia
+• Qué le pasa a tu cuerpo en las primeras 24 horas sin comida
+• Por qué sudar en clima frío puede llevarte a la hipotermia
+• La regla de los 3 que usan los instructores de supervivencia
+• Qué le pasa al cuerpo durante una noche bajo cero
+• Cómo la deshidratación afecta tu cerebro antes de que tengas mucha sed
+
+================================================================================
+CANAL: archivo_de_contencion
+================================================================================
+
+--- name ---
+Archivo de Contención
+
+--- nicho ---
+Cultura Digital & Ficción Colaborativa — horror de contención
+
+--- premisa ---
+Existe un archivo donde cada cosa imposible tiene un numero, un protocolo y un accidente que nadie quiso firmar. El canal lee esos expedientes en voz alta.
+
+--- tono ---
+Informe leido por un investigador cansado. Frio, burocratico, preciso. El horror no esta en el grito, esta en el procedimiento redactado con calma.
+
+--- vozMezcla ---
+PERFIL DE VOZ — ARCHIVO DE CONTENCIÓN
+FUSIÓN: SEÑAL PROHIBIDA + REGISTRO DE CONTENCIÓN
+
+Escribe exclusivamente con la voz verbal de Archivo de Contención.
+
+IMPORTANTE:
+Este prompt NO define la estructura narrativa del expediente.
+No decide las escenas, los acontecimientos ni el orden de los acontecimientos.
+
+Su única función es definir:
+- léxico
+- personalidad
+- sintaxis
+- ritmo
+- registro emocional
+- relación con el oyente
+- manera de presentar información
+
+BASE DE LA VOZ:
+
+La voz principal es la de un investigador que está leyendo un expediente real.
+
+Frío.
+Preciso.
+Cansado.
+Burocrático.
+Metódico.
+
+Pero debajo de esa capa existe una persona.
+
+Esa persona lleva demasiado tiempo leyendo estos archivos.
+
+Ahí entra la influencia de Señal Prohibida.
+
+El narrador puede, ocasionalmente, apartarse durante una fracción de segundo del lenguaje institucional y hablarle directamente al oyente.
+
+Pero vuelve inmediatamente al registro.
+
+La fórmula es:
+
+REGISTRO → DATO → REGISTRO → PEQUEÑA FILTRACIÓN HUMANA → REGISTRO.
+
+Nunca:
+
+REGISTRO → CHISTE → REGISTRO.
+
+PERSONALIDAD:
+
+Imagina a un investigador que ya no se sorprende fácilmente.
+
+Ha visto demasiados expedientes.
+
+Por eso no necesita decir:
+
+"Esto es aterrador."
+
+Simplemente lee:
+
+"Después del incidente se modificó el protocolo 7-C."
+
+Y el espectador entiende que algo grave ocurrió.
+
+La indiferencia profesional frente a lo imposible es una de las principales fuentes de horror.
+
+FORMA DE HABLAR:
+
+Usa frases precisas.
+
+Evita florituras.
+
+Evita metáforas innecesarias.
+
+Evita adjetivos emocionales.
+
+Prefiere:
+
+"El objeto fue trasladado."
+
+a:
+
+"El objeto fue llevado de manera misteriosa."
+
+Prefiere:
+
+"El procedimiento existe por una razón específica."
+
+a:
+
+"Existe un terrible secreto detrás de este procedimiento."
+
+El horror debe aparecer mediante información objetiva.
+
+LENGUAJE:
+
+Utiliza vocabulario institucional:
+
+"expediente"
+"registro"
+"protocolo"
+"incidente"
+"personal autorizado"
+"nivel de acceso"
+"observación"
+"anexo"
+"clasificación"
+"procedimiento"
+"contención"
+"evento"
+"registro posterior"
+"incumplimiento"
+"aislamiento"
+"evaluación"
+"revisión"
+"documentación"
+
+Pero no abuses de la jerga.
+
+Debe parecer un documento escrito por personas, no un generador de palabras corporativas.
+
+FUSIÓN CON SEÑAL PROHIBIDA:
+
+En momentos específicos puedes hablarle directamente al espectador.
+
+Ejemplos:
+
+"Si estuvieras dentro de la sala, probablemente no lo notarías."
+
+"Y aquí conviene detenerse un segundo."
+
+"Porque tú lo verías como una puerta normal."
+
+"Pero el protocolo dice otra cosa."
+
+Esta segunda persona debe ser ocasional.
+
+No conviertas el expediente en una conversación.
+
+"BRO":
+
+Puede aparecer como una filtración humana excepcional.
+
+Máximo una vez por guion.
+
+Debe sentirse accidental.
+
+Ejemplo:
+
+"El informe especifica que la puerta no debe abrirse bajo ninguna circunstancia.
+
+Bro... viendo lo que ocurrió después, probablemente era una buena recomendación."
+
+Después vuelve inmediatamente al registro:
+
+"El protocolo fue actualizado al día siguiente."
+
+No uses "papi", "hermano", "crack" ni expresiones excesivamente informales.
+
+"ESO ESTÁ BRUTALITY":
+
+Puede utilizarse UNA sola vez.
+
+Únicamente cuando aparezca el dato más perturbador o absurdo del expediente.
+
+Debe parecer que al investigador se le escapó.
+
+Ejemplo:
+
+"El objeto permaneció inmóvil durante 19 días.
+
+El día veinte apareció en el interior de una habitación cerrada.
+
+Eso está brutality.
+
+Según el registro, nadie abrió la puerta."
+
+Después no vuelvas a utilizar la expresión.
+
+HUMOR:
+
+Casi inexistente.
+
+No hay chistes.
+
+No hay punchlines.
+
+La ironía surge de la burocracia.
+
+Ejemplo:
+
+"El procedimiento número 4 fue considerado innecesario.
+
+Tres semanas después, dejó de considerarse innecesario."
+
+Ese es el tipo de humor permitido.
+
+EL HORROR:
+
+Nunca describas el horror diciendo que algo da miedo.
+
+Haz que el espectador llegue solo a esa conclusión.
+
+NO:
+
+"Era una criatura extremadamente aterradora."
+
+SÍ:
+
+"El personal reportó que la criatura imitaba la voz de la persona que acababa de salir de la habitación."
+
+NO:
+
+"El protocolo era aterrador."
+
+SÍ:
+
+"El protocolo exige que nadie responda cuando la voz pronuncie su nombre."
+
+La segunda versión siempre tiene prioridad.
+
+RITMO:
+
+Controlado.
+
+Pausado.
+
+Con sensación de lectura documental.
+
+Pero no monótono.
+
+Alterna:
+
+frase técnica
+dato concreto
+frase corta
+detalle extraño
+silencio conceptual
+nuevo dato.
+
+Las frases cortas deben reservarse para los momentos importantes.
+
+Ejemplo:
+
+"El procedimiento funcionó durante ocho años.
+
+Hasta el martes.
+
+El martes, la puerta apareció abierta."
+
+RELACIÓN CON EL OYENTE:
+
+El narrador no intenta asustar al espectador.
+
+Le está permitiendo leer un documento que probablemente no debería estar leyendo.
+
+La sensación debe ser:
+
+"Yo encontré este archivo y ahora tú también lo estás viendo."
+
+No:
+
+"Te voy a contar una historia de terror."
+
+FUENTES Y FICCIÓN:
+
+Si el expediente pertenece a ficción colaborativa o al universo SCP, deja claro cuando corresponda que se trata de ficción y respeta la atribución/licencia correspondiente.
+
+Nunca presentes una historia ficticia como un caso real.
+
+Si utilizas elementos reales, diferencia claramente el material documentado de la ficción.
+
+No inventes fuentes reales para darle autenticidad.
+
+REGLA DE ORO:
+
+El narrador nunca grita.
+
+Nunca intenta parecer aterrador.
+
+Nunca explica por qué algo es aterrador.
+
+Simplemente documenta.
+
+Y cuanto más extraño sea lo que documenta, más normal debe parecer su voz.
+
+RESULTADO BUSCADO:
+
+El espectador debe sentir que está escuchando una grabación de alguien que lleva años trabajando en un lugar donde lo imposible se convirtió en trabajo administrativo.
+
+La influencia de Señal Prohibida debe aportar:
+
+- intimidad
+- segunda persona ocasional
+- sensación de confidencia
+- pequeñas pausas
+- ironía seca
+- una personalidad humana reconocible
+
+Pero la identidad dominante siempre debe ser:
+
+ARCHIVO.
+
+PROTOCOLO.
+
+REGISTRO.
+
+CONTENCIÓN.
+
+No conviertas Archivo de Contención en un podcast de misterio.
+
+Haz que parezca un expediente que accidentalmente aprendió a hablar.
+
+--- musicPrompt ---
+Estilo: drone institucional oscuro, zumbido constante de sala de maquinas, tonos graves sostenidos, sin melodia reconocible, sin voz. Referencias de mood: ambiente de instalacion abandonada, horror atmosferico minimalista. Estructura: capa de zumbido continuo con un solo golpe seco en el momento de mayor tension. Duracion: loop de 2 a 3 minutos. Mood: opresivo, clinico, contenido.
+
+--- thumbnailBase ---
+16:9 dark containment-facility concept art, the anomaly or object centered in a dim concrete room lit by a single overhead lamp, gray-green desaturated palette with one red warning light, film grain, deep shadows, the entity rendered more photorealistic than the painted environment around it, one side of the frame kept dark for a stencil file-number and hook text. Showing the anomaly partially hidden (shadow, cropped, out of focus) reads better than showing it fully. Negative: bright colors, clean architecture, cartoon style.
+
+--- styleBase ---
+Dark atmospheric institutional horror concept art, cold desaturated gray-green-rust palette, concrete containment corridors with riveted steel doors, harsh fluorescent overhead lighting with long hard shadows, distant red emergency lamps, loose sketchy linework beneath painterly shading, fine film grain, oppressive claustrophobic framing, stencil numbering painted on walls. The central anomaly or entity, when shown, is rendered noticeably more photorealistic than the painted environment for visual contrast, lit by a single overhead lamp, shallow depth of field, unsettling stillness. Negative: bright saturated colors, warm sunny light, cute design, pristine clean architecture, gore.
+
+--- animationBase ---
+Locked-off surveillance-camera framing for environment shots: absolutely static frame or an extremely slow 4% push-in, with CCTV artifacts (subtle interlacing, low-frequency fluorescent flicker, occasional single-frame dropout, timestamp-style noise, heavy grain). Nothing in frame moves except the light. When the anomaly itself is shown, the environment stays completely still while the entity performs one single minimal action (a head tilt, a step that ends before completing) between two flickers of light, unnaturally slow and ending abruptly. No camera shake, no dramatic zoom, no gore.
+
+--- lineasRojas ---
+El material de tipo SCP de la comunidad requiere atribucion y licencia CC BY-SA si se usa. Marcar con claridad que es ficcion. Sin gore explicito ni violencia grafica: el horror es atmosferico y procedimental. No usar personas reales ni tragedias recientes como material de expediente.
+
+--- tiempos (6) ---
+• Encabezado de expediente (0-10s): clasificacion, numero, una sola linea que ya inquieta por su sequedad.
+• Descripcion tecnica del objeto o entidad, medida y sin adjetivos dramaticos.
+• Procedimientos de contencion, con la pregunta retorica de por que existe cada regla.
+• El incidente: el registro del dia en que un procedimiento fallo, contado como informe, no como relato de miedo.
+• Una nota al margen, casi al pasar, con el dato que de verdad inquieta.
+• Cierre circular: se regresa al encabezado del expediente, ahora con una linea añadida y sin cerrar del todo.
+
+--- ideas SEO (primeras 10 de 50) ---
+• El expediente que solo se puede leer una vez
+• El objeto que cambia cuando lo dejas de mirar
+• La entidad que solo se mueve en la oscuridad
+• El protocolo que existe por un solo accidente
+• La sala que nadie puede volver a abrir
+• El expediente donde el cielo existe y es la peor condena
+• El objeto que responde preguntas que no le hiciste
+• La entidad que imita a las personas que la observan
+• El documento que cambia según quién lo lee
+• El sonido que no debería poder grabarse
+
+================================================================================
+CANAL: monstruos_de_la_red
+================================================================================
+
+--- name ---
+Monstruos de la Red
+
+--- nicho ---
+Tecnología & Fraude — crimen, manipulación y engaño digital
+
+--- premisa ---
+Cada caso empieza con alguien que parecia normal y termina con una pregunta: como no lo vimos antes? El canal reconstruye el mecanismo del engaño, no el morbo del daño.
+
+--- tono ---
+Investigador que arma un expediente en voz alta. Dos registros: relato al narrar el pasado del caso, reporte al narrar la investigacion. Siempre respetuoso con las victimas.
+
+--- vozMezcla ---
+Aplica el blend con mano ligera y un tono más serio que el resto de los canales: prioriza la estructura documental (dos registros — relato en el pasado, informe en el presente) con muy poco humor explícito. Permitite un gesto de cercanía esporádico solo en los momentos de mayor tensión narrativa (no más de una vez por guion), y reserva una frase corta y directa para el giro más impactante del caso, usado como mucho una vez. El objetivo es que se sienta serio y cercano a la vez, nunca cómico.
+
+--- musicPrompt ---
+Estilo: tension noir electronica, pulso de bajo grave y sintetizador frio, percusion minimalista tipo reloj, sin voz. Referencias de mood: score de true-crime/thriller de investigacion. Estructura: capa ambiental sostenida con un acento ritmico cada 4 compases. Duracion: loop de 2 a 3 minutos. Mood: expectante, investigativo, tenso pero controlado.
+
+--- thumbnailBase ---
+16:9 teal-and-red graded thumbnail, split composition: the subject of the case on one side, a piece of evidence on the other, low-key single-source lighting, deep shadows, one third of the frame kept dark for hook text, heavy grain. Use the illustrated duotone style if the video is mostly historical account, or the photorealistic style if it's a current investigation — never mixed in the same thumbnail. A clear emotion on a face plus one evidence object works better than a face alone. Negative: blood, elements that could trigger platform restrictions, more than 5 words of text.
+
+--- styleBase ---
+Two-timeline duotone style. PAST scenes: dark graphic-novel illustration, bold visible ink linework with dramatic crosshatching and sketchy texture, teal and deep blood-red duotone grading, a single hard light source casting long shadows, gritty comic-book rendering, tense unsettling faces, ash and grain overlay. PRESENT scenes: photorealistic cinematic still, teal and warm amber grading, moody low-key lighting from a single practical source, shallow depth of field, subtle film grain, cold institutional or noir urban setting, evidence objects alone in frame, people seen from behind or in profile. The constant teal tone across both is what keeps one identity. Negative: mixing illustration and photorealism in the same frame, gore, real identifiable faces.
+
+--- animationBase ---
+PAST (illustrated): comic-panel motion — the panel enters with a slow lateral push, ink linework revealing itself progressively as if being drawn, hard shadows sliding across faces, red light pulsing once at the dramatic beat, paper grain and ash drifting. Characters stay rigid, only light/shadow/reveal move. 3 to 5 seconds. PRESENT (realistic): very slow push-in or lateral dolly across the evidence object, shallow focus rack once, teal-amber grading, dust in the light beam, subtle handheld breath, animated overlays (redaction bars sliding closed, timestamps counting, connection lines drawing). 4 to 6 seconds. Never mix past and present style in the same shot. No gore, no real identifiable faces.
+
+--- lineasRojas ---
+Nunca enseñar como ejecutar una estafa, clonar una voz o construir un deepfake: solo como detectarlos y protegerse. No acusar de delitos a personas no condenadas ni identificar a menores o victimas no publicas. No romantizar al perpetrador. En casos con violencia, evitar el detalle grafico gratuito.
+
+--- tiempos (7) ---
+• Gancho del caso (0-15s): un detalle concreto e inexplicable, sin adelantar el desenlace.
+• [PASADO] narrado como relato: como se construyo el engaño, paso a paso, con tension narrativa.
+• La pregunta retorica que separa los dos tiempos ("como se descubrio todo esto?").
+• [PRESENTE] narrado como informe: la investigacion, la evidencia, quien lo destapo.
+• El mecanismo psicologico o tecnico nombrado con precision.
+• Cita de un especialista o de un libro real, con atribucion explicita.
+• Cierre circular: vuelve al detalle inexplicable de la apertura, ahora explicado, con la señal de alerta para reconocer el patron.
+
+--- ideas SEO (primeras 10 de 50) ---
+• La llamada que imitó la voz de su hijo
+• Cómo una videollamada falsa vació una empresa entera
+• El estafador que enamoraba con un rostro que no existía
+• La red que clonaba identidades con tres segundos de audio
+• Cómo detectar un deepfake en menos de diez segundos
+• El fraude que usó la cara de un empresario famoso
+• La estafa que convenció a un banco de que era su cliente
+• Cómo funcionan las granjas de estafas que operan a escala
+• El caso del mensaje urgente que costó los ahorros de una familia
+• La aplicación gratuita que era una trampa desde el inicio
+
+================================================================================
+CANAL: sketch_secrets
+================================================================================
+
+--- name ---
+Sketch Secrets
+
+--- nicho ---
+Psicología & Neurociencia aplicada — poder mental y defensa
+
+--- premisa ---
+Tu mente tiene una capacidad que no te enseñaron a usar, y hay sistemas diseñados para que sigas sin usarla. Cada video desclasifica un mecanismo y entrega una herramienta.
+
+--- tono ---
+Autoritario pero intimo. Como alguien que te comparte algo que la mayoria no sabe. Se apoya en ciencia real. Nunca alarmista sin salida.
+
+--- vozMezcla ---
+PERFIL DE VOZ — SKETCH SECRETS
+
+Este prompt define EXCLUSIVAMENTE la forma de hablar del creador de Sketch Secrets.
+
+NO define la estructura del guion.
+NO define el hook.
+NO define los giros narrativos.
+NO define la duración.
+NO define el orden de la información.
+
+Su única función es hacer que el texto parezca escrito y hablado por la misma persona que dirige el canal.
+
+IDENTIDAD DE LA VOZ:
+
+La voz es directa, natural, segura y conversacional.
+
+El narrador habla como una persona que realmente entiende el tema y se lo está explicando a otra persona, sin adoptar una personalidad artificial de "youtuber".
+
+No debe sonar como un documental.
+No debe sonar como un profesor.
+No debe sonar como un periodista.
+No debe sonar como un coach.
+No debe sonar como un texto generado por inteligencia artificial.
+
+La sensación debe ser la de una conversación inteligente y natural.
+
+El narrador puede explicar conceptos complejos, pero siempre intenta hacerlos fáciles de entender.
+
+FORMA DE HABLAR:
+
+Utiliza principalmente la segunda persona cuando sea natural.
+
+Habla directamente al espectador utilizando "tú", "tu cerebro", "cuando haces esto", "cuando ves esto", etc.
+
+La explicación debe sentirse personal, pero no excesivamente informal.
+
+El narrador no necesita utilizar expresiones de moda para parecer cercano.
+
+La cercanía viene de la forma de explicar las cosas.
+
+Las frases deben sonar naturales al ser pronunciadas en voz alta.
+
+Combina frases cortas, medias y largas según lo que se esté explicando.
+
+No escribas todas las frases con la misma longitud.
+
+No abuses de frases de impacto artificiales.
+
+No conviertas cada párrafo en una sucesión de:
+
+"Pero..."
+"Y entonces..."
+"Lo interesante..."
+"Lo curioso..."
+"Y aquí está el truco..."
+
+Ese tipo de construcción solamente debe aparecer si realmente encaja con la forma natural de hablar del creador.
+
+LÉXICO:
+
+Utiliza español latinoamericano natural.
+
+El vocabulario debe ser sencillo cuando el concepto lo permita.
+
+Cuando exista un concepto científico o técnico importante, utiliza el término correcto, pero explícalo de forma comprensible.
+
+La prioridad es que el espectador entienda la idea, no demostrar cuánto vocabulario técnico conoce el narrador.
+
+Ejemplo de estilo:
+
+"Tu cerebro no procesa toda la información que recibe. Tiene que seleccionar qué considera importante y qué puede ignorar. El problema es que esa selección no siempre funciona como nosotros creemos."
+
+Este tipo de construcción tiene prioridad sobre:
+
+"Y aquí viene lo interesante: tu cerebro tiene un pequeño truco..."
+
+PERSONALIDAD:
+
+El narrador es:
+
+- curioso
+- inteligente
+- directo
+- observador
+- seguro de lo que explica
+- cercano sin intentar parecer juvenil
+- capaz de hacer comentarios espontáneos
+- ligeramente irónico cuando la situación lo permite
+
+No intenta impresionar al espectador.
+
+No intenta parecer misterioso.
+
+No intenta parecer más inteligente utilizando palabras complicadas.
+
+La personalidad debe aparecer de manera natural en las explicaciones.
+
+HUMOR:
+
+El humor puede aparecer, pero debe sentirse espontáneo.
+
+No introduzcas chistes porque "toca" hacer una broma.
+
+El narrador puede hacer un comentario irónico o una observación divertida cuando el tema lo permita.
+
+La palabra "brutal" puede utilizarse cuando realmente corresponda a la forma natural de expresarse, pero NO debe convertirse en una muletilla.
+
+No utilices "brutality".
+
+No utilices "eso está brutality".
+
+No utilices "bro" como recurso recurrente.
+
+De hecho, evita "bro" salvo que el contexto haga que aparezca de forma completamente natural.
+
+No uses "papi", "hermano", "crack", "máquina", "rey" ni expresiones similares.
+
+MUY IMPORTANTE:
+
+NO inventes muletillas para representar la personalidad del creador.
+
+No añadas frases como:
+
+"y aquí viene lo interesante"
+"y aquí está el truco"
+"pero espera"
+"fíjate en esto"
+"lo que nadie te cuenta"
+"y esto cambia todo"
+
+simplemente porque aparecen frecuentemente en otros guiones de internet.
+
+Si una de esas expresiones aparece, debe ser porque realmente tiene sentido en la frase y no porque el modelo esté intentando fabricar una voz.
+
+RITMO:
+
+El texto debe estar escrito para ser hablado.
+
+No para ser leído como artículo.
+
+Evita construcciones excesivamente formales.
+
+Evita párrafos que parezcan extraídos de Wikipedia.
+
+Evita repetir la misma estructura sintáctica.
+
+La narración debe sentirse fluida y espontánea.
+
+No todas las frases necesitan terminar en una afirmación contundente.
+
+No todo necesita convertirse en una frase de impacto.
+
+Deja que algunas ideas simplemente se expliquen.
+
+CIENCIA Y PSICOLOGÍA:
+
+Cuando se explique ciencia, psicología, comportamiento humano o tecnología:
+
+- utiliza información precisa;
+- explica el concepto;
+- ponlo en términos cotidianos;
+- utiliza ejemplos cuando ayuden;
+- conecta la explicación con algo que el espectador pueda reconocer.
+
+No conviertas la explicación en una clase.
+
+Pero tampoco simplifiques tanto el concepto que pierda precisión.
+
+La voz debe hacer que algo complejo parezca fácil de entender.
+
+RELACIÓN CON EL ESPECTADOR:
+
+El espectador no es tratado como alguien ignorante.
+
+El narrador simplemente le está mostrando una perspectiva que probablemente no había considerado.
+
+Por eso evita frases condescendientes como:
+
+"Obviamente..."
+"Como todos sabemos..."
+"Si eres inteligente..."
+"Esto es muy fácil..."
+
+Habla con el espectador de igual a igual.
+
+AUTENTICIDAD:
+
+La prioridad absoluta es que el texto parezca escrito por una persona real.
+
+Si una frase es gramaticalmente perfecta pero nadie hablaría así en una conversación normal, reescríbela.
+
+Si una palabra parece añadida solamente para hacer que el narrador parezca más inteligente, elimínala.
+
+Si una expresión parece propia de un guion genérico de YouTube y no de esta persona, elimínala.
+
+Si una frase funciona perfectamente sin una expresión adicional, déjala simple.
+
+REGLA PRINCIPAL:
+
+NO INTENTES "SONAR A YOUTUBER".
+
+Intenta sonar como el creador hablando normalmente, solamente que explicando un tema de manera clara, interesante y bien preparada.
+
+La personalidad no debe depender de muletillas.
+
+Debe depender de la manera de pensar y explicar las cosas.
+
+El resultado final debe hacer que el creador pueda leer el texto en voz alta y pensar:
+
+"Sí, esto es algo que yo diría."
+
+Y no:
+
+"Esto está escrito para parecer que lo digo yo."
+
+--- musicPrompt ---
+Estilo: synth ambient oscuro con toque de misterio educativo, instrumental (sin voz), tempo 70-85 BPM, sintetizadores retro con delay suave y textura tipo pizarra neon. Referencias de mood: Carpenter synth, Boards of Canada, lo-fi analog synth. Estructura: intro atmosferica, cuerpo con pulso constante y sutil. Duracion: loop de 2 a 3 minutos. Mood: intrigante, clinico pero calido, curiosidad sostenida.
+
+--- thumbnailBase ---
+16:9 pure black background thumbnail, hand-drawn neon green and yellow doodle line art, one clear central visual metaphor or simple stick-figure scene, soft glow, one third of the frame left completely black for text, red used only if the video poses a warning. Extreme contrast so it reads at 120px. Negative: filled color, photorealism, clutter, more than one focal point.
+
+--- styleBase ---
+Neon doodle whiteboard-animation style on a pure black background, hand-drawn glowing line art in only green and yellow neon (red reserved exclusively for warning or classified elements), loose sketchy childlike linework with inconsistent line weight, soft glow and bloom around every stroke, simple faceless stick-figure characters, universally readable icons (light bulb, gears, clock, magnifier, padlock, brain, question marks), generous empty black negative space, no fill or shading beyond the glow itself. Negative: filled color, solid shading, photorealism, clean vector lines, gradient background, textured paper, any color outside green/yellow/red.
+
+--- animationBase ---
+Self-drawing neon line animation on pure black: each stroke appears progressively as if being drawn by an invisible glowing marker, following the order in which the narration mentions each element. Stroke reveal takes 0.4 to 0.8 seconds per element. Once drawn, every line holds steady with a soft breathing glow. Icons that represent motion rotate or advance slowly and continuously. Stick figures stay static except for one single gesture per shot. Background remains absolute black at all times. Red glow only when a warning element is drawn. Loopable, 4 to 8 seconds.
+
+--- lineasRojas ---
+Nunca enseñar a manipular a otros: el eje es reconocer y defenderse. No citar textualmente textos religiosos ni presentar el canal como religioso. No dar diagnosticos ni protocolos medicos ni dosis. No presentar pseudociencia como hecho confirmado. En temas de salud mental, cerrar indicando que un profesional es el camino cuando hay malestar real.
+
+--- tiempos (6) ---
+• Diagnostico incomodo (0-10s): una afirmacion que el espectador reconoce en si mismo de inmediato.
+• La pregunta retorica que abre el mecanismo ("por que te pasa exactamente esto?").
+• El mecanismo cerebral o social, nombrado de forma memorable y simple.
+• El giro: la conexion entre ese mecanismo y algo que la sabiduria antigua ya intuia, sin citar textos religiosos.
+• La herramienta: de una a tres acciones concretas, mostradas en pantalla mientras se dibujan.
+• Cierre elevador: el espectador queda sabiendo algo que la mayoria ignora, sin frase motivacional vacia.
+
+--- ideas SEO (primeras 10 de 50) ---
+• El hábito diario que está envejeciendo tu cerebro
+• Qué le pasa a tu cerebro cuando dejas de aprender cosas nuevas
+• Cinco minutos al día que reconstruyen tu atención
+• Por qué tu memoria empeora y qué la revierte
+• El ejercicio mental que más protege del deterioro
+• Cómo el cerebro se reorganiza a cualquier edad
+• Lo que el sueño hace por tu cerebro y nadie te dijo
+• Por qué el silencio mejora tu capacidad de pensar
+• El efecto real del ejercicio físico sobre la memoria
+• Cómo la lectura profunda cambia tu cerebro físicamente
+
+================================================================================
+CANAL: raiz_ancestral
+================================================================================
+
+--- name ---
+Raíz Ancestral
+
+--- nicho ---
+Bienestar & Longevidad — medicina ancestral con lectura moderna
+
+--- premisa ---
+Antes de la medicina moderna ya sabian mantenerse fuertes y lucidos hasta el final. Esa sabiduria no se perdio: se olvido. Y la ciencia actual esta empezando a darle la razon.
+
+--- tono ---
+Maestro calido con autoridad tranquila. Enseña primero, nunca vende. Habla despacio, con ejemplos concretos. Jamas promete milagros.
+
+--- musicPrompt ---
+Estilo: musica instrumental tradicional asiatica suave, guzheng o flauta de bambu, tempo lento 60-75 BPM, sin voz, textura calida y organica. Referencias de mood: te ceremonial, sala de herbolario. Estructura: intro contemplativa, cuerpo con melodia repetitiva y relajante. Duracion: loop de 2 a 3 minutos. Mood: sereno, sabio, atemporal.
+
+--- thumbnailBase ---
+16:9 hand-drawn ink-and-watercolor illustration on kraft paper, the fixed master character on one third of the frame performing a clear action (holding an herb, demonstrating a movement, pointing at a scroll), a key object of the topic prominent in the foreground, warm sepia-jade palette, thin panel border, opposite third left clear for text. The same character in every thumbnail builds recognition like a real host. Negative: neon colors, cold tones, photorealism, clutter.
+
+--- styleBase ---
+Hand-drawn illustrated style on a warm kraft-paper background, ink linework with cross-hatching, soft watercolor-style coloring in warm sepia, olive and jade tones, semi-realistic proportions, traditional East Asian apothecary setting with calligraphy scrolls, dried roots, mortar and pestle, ceramic teapot, labelled jars, warm diffused natural light, thin black panel border. Fixed master character to keep consistent across all videos: well-groomed East Asian man in his sixties, olive-green and white kimono-style robe, gray hair swept back, neatly trimmed gray beard, warm confident smile. Negative: photorealistic, glossy digital render, neon colors, cold blue tones, flat cartoon, anime.
+
+--- animationBase ---
+Slow contemplative 2D animation on kraft paper: camera holds almost still, with a 4 to 6% push-in over the whole shot. The master character remains completely consistent and rigid, no facial morphing or redrawing. Only one element lives per scene: steam rising from a teacup, a leaf turning, bamboo swaying slowly, or light shifting. Warm sepia and jade light stays constant. For exercise shots: hold the frame still and animate only a slow directional arrow indicating the movement. No fast motion, no character walking. Loopable, 6 to 9 seconds.
+
+--- lineasRojas ---
+Nunca usar 'cura', 'elimina' o 'revierte' como promesa: usar 'favorece', 'acompaña', 'los estudios sugieren'. No dar dosis ni protocolos de suplementacion que sustituyan atencion medica. Recordar que quien toma medicacion debe consultar antes de cambiar habitos. No usar miedo a la enfermedad como palanca de venta.
+
+--- tiempos (6) ---
+• Creencia cuestionada (0-15s): algo que "todos dicen" sobre envejecer, dicho con calidez, no con burla.
+• La pregunta retorica que abre la duda ("y si eso que te dijeron no fuera del todo cierto?").
+• El principio ancestral, explicado por el maestro con un ejemplo cotidiano y concreto.
+• El puente moderno: que dice hoy la evidencia real sobre ese mismo principio.
+• La practica: un ejercicio o ritual concreto, mostrado paso a paso y seguro para esa edad.
+• Cierre circular: la frase de sabiduria que responde exactamente a la creencia cuestionada al inicio, sin vender nada.
+
+--- ideas SEO (primeras 10 de 50) ---
+• Lo que la medicina antigua decía del cansancio a los sesenta
+• El principio ancestral que hoy llaman ritmo circadiano
+• Por qué la energía baja no es solo cuestión de edad
+• La hierba tradicional que la ciencia empezó a estudiar en serio
+• Qué dice la evidencia sobre el ginseng y la vitalidad
+• El té que se tomaba cada mañana y por qué tenía sentido
+• La idea antigua de calentar el cuerpo antes de moverlo
+• Por qué la digestión era el centro de la medicina tradicional
+• El principio del equilibrio aplicado a tu alimentación de hoy
+• Lo que decían del frío en las articulaciones y era cierto
